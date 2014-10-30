@@ -1,0 +1,666 @@
+"1,4-Butanediol","kg","butylene glycol","kg",0,1.00
+"2,4-D","kg","(2,4-dichlorophenoxy)acetic acid","kg",0,1.00
+"2-Methyl pentane","kg","3-methylpentane","kg",1,1.00
+"2-Methyl-1-propanol","kg","isobutanol","kg",0,1.00
+"2-Methyl-2-butene","kg","2-methyl-2-butene","kg",0,1.00
+"2-Propanol","kg","isopropanol","kg",0,1.00
+"3-Methyl-1-butanol","kg","2-methyl-1-butanol","kg",1,1.00
+"4-Methyl-2-pentanol","kg","pentanol","kg",1,1.00
+"4-Methyl-2-pentanone","kg","methyl isobutyl ketone","kg",0,1.00
+"Acenaphthene","kg","acenaphthene","kg",0,1.00
+"Acenaphthylene","kg","acenaphthylene","kg",0,1.00
+"Acephate","kg","acephate","kg",0,1.00
+"Acetaldehyde","kg","acetaldehyde","kg",0,1.00
+"Acetamide","kg","acetamide","kg",0,1.00
+"Acetic acid","kg","acetic acid","kg",0,1.00
+"Acetic acid, trifluoro-","kg","trifluoroacetic acid","kg",0,1.00
+"Acetochlor","kg","acetochlor","kg",0,1.00
+"Acetone","kg","acetone","kg",0,1.00
+"Acetonitrile","kg","acetonitrile","kg",0,1.00
+"Acidity, unspecified","kg","acid (as H+)","kg",0,1.00
+"Aclonifen","kg","aclonifen","kg",0,1.00
+"Acrolein","kg","acrolein","kg",0,1.00
+"Acrylic acid","kg","acrylic acid","kg",0,1.00
+"Acrylonitrile","kg","acryolonitrile","kg",0,1.00
+"Alachlor","kg","lasso","kg",0,1.00
+"Aldicarb","kg","aldicarb","kg",0,1.00
+"Aldrin","kg","aldrin","kg",0,1.00
+"Aluminium","kg","aluminium","kg",0,1.00
+"Aluminium, 24% in bauxite, 11% in crude ore, in ground","kg","bauxite","kg",0,1.00
+"Americium-241","kBq","americium-241","kBq",0,1.00
+"Ametryn","kg","ametryne","kg",0,1.00
+"Amidosulfuron","kg","amidosulfuron","kg",0,1.00
+"Ammonia","kg","ammonia","kg",0,1.00
+"Ammonium, ion","kg","ammonium","kg",0,1.00
+"Anthraquinone","kg","2-aminoanthraquinone","kg",1,1.00
+"Antimony","kg","antimony","kg",0,1.00
+"Antimony-122","kBq","antimony-122","kBq",0,1.00
+"Antimony-124","kBq","antimony-124","kBq",0,1.00
+"Antimony-125","kBq","antimony-125","kBq",0,1.00
+"AOX, Adsorbable Organic Halogen as Cl","kg","adsorbable organic halogen compounds","kg",0,1.00
+"Argon-41","kBq","argon-41","kBq",0,1.00
+"Arsenic","kg","arsenic","kg",0,1.00
+"Arsenic, ion","kg","arsenic","kg",0,1.00
+"Arsine","kg","hydrogen arsenide","kg",0,1.00
+"Asulam","kg","asulam","kg",0,1.00
+"Atrazine","kg","atrazine","kg",0,1.00
+"Azinphos-methyl","kg","azinphos-methyl","kg",0,1.00
+"Azoxystrobin","kg","azoxystrobin","kg",0,1.00
+"Barite","kg","baryte","kg",0,1.00
+"Barite, 15% in crude ore, in ground","kg","baryte","kg",0,1.00
+"Barium","kg","barium","kg",0,1.00
+"Barium-140","kBq","barium-140","kBq",0,1.00
+"Basalt, in ground","kg","basalt","kg",0,1.00
+"Benazolin","kg","1,2-benzisothiazolin-3-one","kg",1,1.00
+"Benomyl","kg","benomyl","kg",0,1.00
+"Bensulfuron methyl ester","kg","londax","kg",0,1.00
+"Bentazone","kg","bentazone","kg",0,1.00
+"Benzal chloride","kg","benzylchloride","kg",1,1.00
+"Benzaldehyde","kg","benzaldehyde","kg",0,1.00
+"Benzene","kg","benzene","kg",0,1.00
+"Benzene, chloro-","kg","chlorobenzene","kg",0,1.00
+"Benzene, ethyl-","kg","ethyl benzene","kg",0,1.00
+"Benzene, hexachloro-","kg","hexachlorobenzene","kg",0,1.00
+"Benzene, pentachloro-","kg","pentachlorobenzene","kg",0,1.00
+"Benzo(a)pyrene","kg","benzo[a]pyrene","kg",0,1.00
+"Benzyl alcohol","kg","alpha-methylbenzyl alcohol","kg",1,1.00
+"Beryllium","kg","beryllium","kg",0,1.00
+"Bifenox","kg","bifenox","kg",0,1.00
+"Bifenthrin","kg","bifenthrin","kg",0,1.00
+"BOD5, Biological Oxygen Demand","kg","biological oxygen demand","kg",0,1.00
+"Borax, in ground","kg","borax","kg",0,1.00
+"Boron","kg","boron","kg",0,1.00
+"Boron carbide","kg","boron","kg",1,1.00
+"Boron trifluoride","kg","boron","kg",1,1.00
+"Bromate","kg","bromate","kg",0,1.00
+"Bromide","kg","bromide","kg",0,1.00
+"Bromine","kg","bromine","kg",0,1.00
+"Bromoxynil","kg","bromoxynil","kg",0,1.00
+"Bromuconazole","kg","bromuconazole","kg",0,1.00
+"Butadiene","kg","butadiene","kg",0,1.00
+"Butane","kg","n-butane","kg",0,1.00
+"Butanol","kg","n-butanol","kg",0,1.00
+"Butene","kg","butene","kg",0,1.00
+"Butyl acetate","kg","n-butyl-acetate","kg",0,1.00
+"Butyrolactone","kg","beta-butyrolactone","kg",1,1.00
+"Cadmium","kg","cadmium","kg",0,1.00
+"Cadmium, 0.30% in sulfide, Cd 0.18%, Pb, Zn, Ag, In, in ground","kg","cadmium","kg",0,1.00
+"Cadmium, ion","kg","cadmium","kg",1,1.00
+"Calcite, in ground","kg","calcium carbonate","kg",0,1.00
+"Calcium","kg","calcium","kg",0,1.00
+"Calcium, ion","kg","calcium","kg",1,1.00
+"Captan","kg","captan","kg",0,1.00
+"Carbaryl","kg","carbaryl","kg",0,1.00
+"Carbendazim","kg","carbendazim","kg",0,1.00
+"Carbetamide","kg","carbetamide","kg",0,1.00
+"Carbofuran","kg","carbofuran","kg",0,1.00
+"Carbon","kg","carbon","kg",0,1.00
+"Carbon dioxide, biogenic","kg","carbon dioxide (biogenic)","kg",0,1.00
+"Carbon dioxide, fossil","kg","carbon dioxide (fossil)","kg",0,1.00
+"Carbon dioxide, in air","kg","carbon dioxide","kg",0,1.00
+"Carbon dioxide, land transformation","kg","carbon dioxide","kg",0,1.00
+"Carbon disulfide","kg","carbon disulfide","kg",0,1.00
+"Carbon monoxide, biogenic","kg","carbon monoxide","kg",0,1.00
+"Carbon monoxide, fossil","kg","carbon monoxide","kg",0,1.00
+"Carbon, in organic matter, in soil","kg","carbon","kg",1,1.00
+"Carbon-14","kBq","carbon-14","kBq",0,1.00
+"Carbonate","kg","carbonate","kg",0,1.00
+"Carboxin","kg","carboxin","kg",0,1.00
+"Carboxylic acids, unspecified","kg","1-propanecarboxylic acid","kg",1,1.00
+"Cerium, 24% in bastnasite, 2.4% in crude ore, in ground","kg","cerium","kg",0,1.00
+"Cerium-141","kBq","cerium-141","kBq",0,1.00
+"Cerium-144","kBq","cerium-144","kBq",0,1.00
+"Cesium","kg","cesium","kg",0,1.00
+"Cesium-134","kBq","cesium-134","kBq",0,1.00
+"Cesium-136","kBq","cesium-136","kBq",0,1.00
+"Cesium-137","kBq","cesium-137","kBq",0,1.00
+"Chlorate","kg","chlorate","kg",0,1.00
+"Chloridazon","kg","chloridazon","kg",0,1.00
+"Chloride","kg","chloride","kg",0,1.00
+"Chlorimuron-ethyl","kg","chlorimuron-ethyl","kg",0,1.00
+"Chlorine","kg","chlorine","kg",0,1.00
+"Chlormequat","kg","chlormequat","kg",0,1.00
+"Chlormequat chloride","kg","chlormequat chloride","kg",0,1.00
+"Chloroform","kg","chloroform","kg",0,1.00
+"Chlorothalonil","kg","chlorothalonil","kg",0,1.00
+"Chlorotoluron","kg","chlortoluron","kg",0,1.00
+"Chlorpyrifos","kg","chlorpyrifos","kg",0,1.00
+"Chlorsulfuron","kg","chlorsulfuron","kg",0,1.00
+"Chromium","kg","chromium","kg",0,1.00
+"Chromium VI","kg","chromium VI","kg",0,1.00
+"Chromium, 25.5% in chromite, 11.6% in crude ore, in ground","kg","chromium","kg",0,1.00
+"Chromium, ion","kg","chromium III","kg",0,1.00
+"Chromium-51","kBq","chromium-51","kBq",0,1.00
+"Chrysotile, in ground","kg","asbestos (white)","kg",0,1.00
+"Cinnabar, in ground","kg","cinnabar","kg",0,1.00
+"Clay, bentonite, in ground","kg","bentonite","kg",0,1.00
+"Clay, unspecified, in ground","kg","clay","kg",0,1.00
+"Clomazone","kg","clomazone","kg",0,1.00
+"Clopyralid","kg","clopyralid","kg",0,1.00
+"Coal, brown, in ground","kg","brown coal","kg",0,1.00
+"Coal, hard, unspecified, in ground","kg","hard coal","kg",0,1.00
+"Cobalt","kg","cobalt","kg",0,1.00
+"Cobalt, in ground","kg","cobalt","kg",0,1.00
+"Cobalt-57","kBq","cobalt-57","kBq",0,1.00
+"Cobalt-58","kBq","cobalt-58","kBq",0,1.00
+"Cobalt-60","kBq","cobalt-60","kBq",0,1.00
+"COD, Chemical Oxygen Demand","kg","chemical oxygen demand","kg",0,1.00
+"Colemanite, in ground","kg","colemanite","kg",0,1.00
+"Copper","kg","copper","kg",0,1.00
+"Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore, in ground","kg","copper","kg",0,1.00
+"Copper, Cu 0.38%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Pb 0.014%, in ore, in ground","kg","copper","kg",0,1.00
+"Copper, ion","kg","copper","kg",1,1.00
+"Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore, in ground","kg","copper","kg",0,1.00
+"Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore, in ground","kg","copper","kg",0,1.00
+"Cumene","kg","cumene","kg",0,1.00
+"Curium alpha","kBq","curium","kBq",0,1.00
+"Curium-242","kBq","curium","kBq",0,1.00
+"Curium-244","kBq","curium","kBq",0,1.00
+"Cyanazine","kg","cyanazine","kg",0,1.00
+"Cyanide","kg","cyanide","kg",0,1.00
+"Cyclanilide","kg","cyclanilide","kg",0,1.00
+"Cyclohexane","kg","cyclohexane","kg",0,1.00
+"Cyfluthrin","kg","cyfluthrin","kg",0,1.00
+"Cymoxanil","kg","cymoxanil","kg",0,1.00
+"Cypermethrin","kg","cypermethrin","kg",0,1.00
+"Cyproconazole","kg","cyproconazole","kg",0,1.00
+"Cyprodinil","kg","cyprodinil","kg",0,1.00
+"Deltamethrin","kg","deltamethrin","kg",0,1.00
+"Desmedipham","kg","desmedipham","kg",0,1.00
+"Diatomite, in ground","kg","diatomite","kg",0,1.00
+"Diazinon","kg","diazinon","kg",0,1.00
+"Dicamba","kg","dicamba","kg",0,1.00
+"Dichlobenil","kg","dichlobenil","kg",0,1.00
+"Dichlorprop-P","kg","dichloroprop","kg",0,1.00
+"Diclofop","kg","diclofop-me","kg",0,1.00
+"Diclofop-methyl","kg","diclofop-me","kg",0,1.00
+"Dicofol","kg","dicofol","kg",0,1.00
+"Dicrotophos","kg","Bidrin","kg",0,1.00
+"Diethyl ether","kg","ether","kg",0,1.00
+"Diethylene glycol","kg","diethylene glycol","kg",0,1.00
+"Difenoconazole","kg","difenoconazole","kg",0,1.00
+"Diflubenzuron","kg","diflubenzuron","kg",0,1.00
+"Diflufenican","kg","diflufenican","kg",0,1.00
+"Diflufenzopyr-sodium","kg","sodium","kg",1,1.00
+"Diisobutyl ketone","kg","methyl isobutyl ketone","kg",1,1.00
+"Dimethenamid","kg","dimethenamid","kg",0,1.00
+"Dimethipin","kg","dimethipin","kg",0,1.00
+"Dimethoate","kg","dimethoate","kg",0,1.00
+"Dimethomorph","kg","dimethomorph","kg",0,1.00
+"Dimethyl ether","kg","methyl ether","kg",0,1.00
+"Dimethylamine","kg","dimethylamine","kg",0,1.00
+"Dinitrogen monoxide","kg","nitrous oxide","kg",0,1.00
+"Dinoseb","kg","dinoseb","kg",0,1.00
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","kg","2,3,7,8-tetrachlorodibenzo-p-dioxin","kg",0,1.00
+"Diquat","kg","diquat dibromide","kg",1,1.00
+"Disulfoton","kg","disulfoton","kg",0,1.00
+"Diuron","kg","diuron","kg",0,1.00
+"DNOC","kg","2-methyl-4,6-dinitrophenol","kg",0,1.00
+"Dolomite, in ground","kg","dolomite","kg",0,1.00
+"Endosulfan","kg","endosulfan","kg",0,1.00
+"Endothall","kg","endothall","kg",0,1.00
+"Energy, geothermal, converted","MJ","primary energy from geothermics","kg",0,1.00
+"Energy, kinetic (in wind), converted","MJ","primary energy from wind power","kg",0,1.00
+"Energy, potential (in hydropower reservoir), converted","MJ","primary energy from hydro power","kg",0,1.00
+"Energy, solar, converted","MJ","primary energy from solar energy","kg",0,1.00
+"Epichlorohydrin","kg","epichlorohydrin","kg",0,1.00
+"EPTC","kg","s-ethyl dipropylthiocarbamate","kg",0,1.00
+"Esfenvalerate","kg","esfenvalerate","kg",0,1.00
+"Ethalfluralin","kg","ethalfluralin","kg",0,1.00
+"Ethane","kg","ethane","kg",0,1.00
+"Ethane thiol","kg","mercaptan","kg",0,1.00
+"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","kg","HFC-134a","kg",0,1.00
+"Ethane, 1,1,1-trichloro-, HCFC-140","kg","HCFC-140","kg",0,1.00
+"Ethane, 1,1,1-trifluoro-, HFC-143a","kg","CFC-143a","kg",0,1.00
+"Ethane, 1,1,2-trichloro-","kg","1,1,2-trichloroethane","kg",0,1.00
+"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","kg","CFC-113","kg",0,1.00
+"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b","kg","HCFC-141b","kg",0,1.00
+"Ethane, 1,1-difluoro-, HFC-152a","kg","HFC-152a","kg",0,1.00
+"Ethane, 1,2-dichloro-","kg","1,2-dichloroethane","kg",0,1.00
+"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","kg","CFC-114","kg",0,1.00
+"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b","kg","HCFC-142","kg",0,1.00
+"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123","kg","HCFC-123","kg",0,1.00
+"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","kg","HCFC-124","kg",0,1.00
+"Ethane, chloropentafluoro-, CFC-115","kg","CFC-115","kg",0,1.00
+"Ethane, hexachloro-","kg","hexachloroethane","kg",0,1.00
+"Ethane, hexafluoro-, HFC-116","kg","HFC-116","kg",0,1.00
+"Ethane, pentafluoro-, HFC-125","kg","HFC-125","kg",0,1.00
+"Ethanol","kg","ethanol","kg",0,1.00
+"Ethene","kg","ethylene","kg",0,1.00
+"Ethene, chloro-","kg","vinyl chloride","kg",0,1.00
+"Ethene, tetrachloro-","kg","tetrachloroethene","kg",0,1.00
+"Ethene, trichloro-","kg","trichloroethene","kg",0,1.00
+"Ethephon","kg","ethephon","kg",0,1.00
+"Ethofumesate","kg","ethofumesate","kg",0,1.00
+"Ethoprop","kg","ethoprophos","kg",0,1.00
+"Ethyl acetate","kg","ethyl acetate","kg",0,1.00
+"Ethylene diamine","kg","ethylenediamine","kg",0,1.00
+"Ethylene glycol monoethyl ether","kg","2-ethoxyethanol","kg",1,1.00
+"Ethylene oxide","kg","ethylene oxide","kg",0,1.00
+"Ethyne","kg","ethylyne","kg",0,1.00
+"Etridiazole","kg","etridiazole","kg",0,1.00
+"Europium, 0.06% in bastnasite, 0.006% in crude ore, in ground","kg","europium","kg",0,1.00
+"Feldspar, in ground","kg","feldspar","kg",0,1.00
+"Fenbuconazole","kg","fenbuconazole","kg",0,1.00
+"Fenoxaprop ethyl ester","kg","fenoxaprop-ethyl","kg",0,1.00
+"Fenoxaprop-P ethyl ester","kg","fenoxaprop-p-ethyl","kg",0,1.00
+"Fenpiclonil","kg","fenpiclonil","kg",0,1.00
+"Fenpropathrin","kg","fenpropathrin","kg",0,1.00
+"Fenpropidin","kg","fenpropidin","kg",0,1.00
+"Fenpropimorph","kg","fenpropimorph","kg",0,1.00
+"Fentin acetate","kg","fentin acetate","kg",0,1.00
+"Fentin hydroxide","kg","fentin hydroxide","kg",0,1.00
+"Fipronil","kg","fipronil","kg",0,1.00
+"Fluazifop-P-butyl","kg","fluazifop-p-butyl","kg",0,1.00
+"Fluazinam","kg","fluazinam","kg",0,1.00
+"Fludioxonil","kg","fludioxonil","kg",0,1.00
+"Flufenacet","kg","flufenacet","kg",0,1.00
+"Flumetsulam","kg","flumetsulam","kg",0,1.00
+"Fluometuron","kg","fluometuron","kg",0,1.00
+"Fluoride","kg","fluoride","kg",0,1.00
+"Fluorine","kg","fluorine","kg",0,1.00
+"Fluorine, 4.5% in apatite, 1% in crude ore, in ground","kg","fluorine","kg",0,1.00
+"Fluorine, 4.5% in apatite, 3% in crude ore, in ground","kg","fluorine","kg",0,1.00
+"Fluorspar, 92%, in ground","kg","fluorspar","kg",0,1.00
+"Fluroxypyr","kg","fluroxypyr","kg",0,1.00
+"Flusilazole","kg","flusilazole","kg",0,1.00
+"Flutolanil","kg","flutolanil","kg",0,1.00
+"Formaldehyde","kg","formaldehyde","kg",0,1.00
+"Formic acid","kg","formic acid","kg",0,1.00
+"Furan","kg","furan","kg",0,1.00
+"Gadolinium, 0.15% in bastnasite, 0.015% in crude ore, in ground","kg","gadolinium","kg",0,1.00
+"Gallium, 0.014% in bauxite, in ground","kg","gallium","kg",0,1.00
+"Glufosinate","kg","glufosinate ammonium salt","kg",1,1.00
+"Glutaraldehyde","kg","glutaraldehyde","kg",0,1.00
+"Glyphosate","kg","glyphosate","kg",0,1.00
+"Gold","kg","gold","kg",0,1.00
+"Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 1.4E-4%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 4.3E-4%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 4.9E-5%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 6.7E-4%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 7.1E-4%, in ore, in ground","kg","gold","kg",0,1.00
+"Gold, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore, in ground","kg","gold","kg",0,1.00
+"Granite, in ground","kg","granite","kg",0,1.00
+"Gravel, in ground","kg","gravel","kg",0,1.00
+"Gypsum, in ground","kg","gypsum","kg",0,1.00
+"Halosulfuron-methyl","kg","halosulfuron-methyl","kg",0,1.00
+"Heat, waste","MJ","waste heat","kg",0,1.00
+"Helium","kg","helium","kg",0,1.00
+"Helium, 0.08% in natural gas, in ground","kg","helium","kg",0,1.00
+"Heptane","kg","heptane","kg",0,1.00
+"Hexane","kg","hexane","kg",0,1.00
+"Hydrazine","kg","hydrazine","kg",0,1.00
+"Hydrocarbons, aromatic","kg","polycyclic aromatic hydrocarbons","kg",0,1.00
+"Hydrocarbons, unspecified","kg","hydrocarbons (unspecified)","kg",0,1.00
+"Hydrogen","kg","hydrogen","kg",0,1.00
+"Hydrogen chloride","kg","hydrogen chloride","kg",0,1.00
+"Hydrogen fluoride","kg","hydrogen fluoride","kg",0,1.00
+"Hydrogen peroxide","kg","hydrogen peroxide","kg",0,1.00
+"Hydrogen sulfide","kg","hydrogen sulfide","kg",0,1.00
+"Hydrogen-3, Tritium","kBq","hydrogen-3","kBq",0,1.00
+"Hydroxide","kg","hydroxide","kg",0,1.00
+"Hypochlorite","kg","hypochlorite","kg",0,1.00
+"Imazalil","kg","imazalil","kg",0,1.00
+"Imazamox","kg","imazamox","kg",0,1.00
+"Imazapyr","kg","imazapyr","kg",0,1.00
+"Imazethapyr","kg","pursuit","kg",0,1.00
+"Indium, 0.005% in sulfide, In 0.003%, Pb, Zn, Ag, Cd, in ground","kg","indium","kg",0,1.00
+"Indoxacarb","kg","indoxacarb","kg",0,1.00
+"Iodide","kg","iodide","kg",0,1.00
+"Iodine","kg","iodine","kg",0,1.00
+"Iodine-129","kBq","iodine-129","kBq",0,1.00
+"Iodine-131","kBq","iodine-131","kBq",0,1.00
+"Iodine-133","kBq","iodine-133","kBq",0,1.00
+"Ioxynil","kg","ioxynil","kg",0,1.00
+"Iprodion","kg","iprodione","kg",0,1.00
+"Iron","kg","iron","kg",0,1.00
+"Iron, 46% in ore, 25% in crude ore, in ground","kg","iron","kg",0,1.00
+"Iron, ion","kg","iron","kg",1,1.00
+"Iron-59","kBq","iron-59","kBq",0,1.00
+"Isocyanic acid","kg","hydrocyanic acid","kg",1,1.00
+"Isoprene","kg","isoprene","kg",0,1.00
+"Isoproturon","kg","isoproturon","kg",0,1.00
+"Isoxaflutole","kg","isoxaflutole","kg",0,1.00
+"Kaolinite, 24% in crude ore, in ground","kg","kaolinite","kg",0,1.00
+"Kieserite, 25% in crude ore, in ground","kg","kieserite","kg",0,1.00
+"Kresoxim-methyl","kg","kresoxim methyl","kg",0,1.00
+"Krypton, in air","kg","krypton","kg",0,1.00
+"Krypton-85","kBq","krypton-85","kBq",0,1.00
+"Krypton-85m","kBq","krypton-85","kBq",0,1.00
+"Krypton-87","kBq","krypton-87","kBq",0,1.00
+"Krypton-88","kBq","krypton-88","kBq",0,1.00
+"Krypton-89","kBq","krypton-89","kBq",0,1.00
+"Lactofen","kg","lactofen","kg",0,1.00
+"Lambda-cyhalothrin","kg","cyhalothrin","kg",0,1.00
+"Lanthanum","kg","lanthanum","kg",0,1.00
+"Lanthanum, 7.2% in bastnasite, 0.72% in crude ore, in ground","kg","lanthanum","kg",0,1.00
+"Lanthanum-140","kBq","lanthanum-140","kBq",0,1.00
+"Lead","kg","lead","kg",0,1.00
+"Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In, in ground","kg","lead","kg",0,1.00
+"Lead, Pb 0.014%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, in ore, in ground","kg","lead","kg",0,1.00
+"Lead-210","kBq","lead-210","kBq",0,1.00
+"Lindane","kg","lindane","kg",0,1.00
+"Linuron","kg","linuron","kg",0,1.00
+"Lithium carbonate","kg","lithium","kg",1,1.00
+"Lithium, 0.15% in brine, in ground","kg","lithium","kg",0,1.00
+"Lithium, ion","kg","lithium","kg",0,1.00
+"Magnesite, 60% in crude ore, in ground","kg","magnesite","kg",0,1.00
+"Magnesium","kg","magnesium","kg",0,1.00
+"Magnesium, 0.13% in water","kg","magnesium","kg",0,1.00
+"Malathion","kg","malathion","kg",0,1.00
+"Maleic hydrazide","kg","maleic hydrazide acid","kg",0,1.00
+"Mancozeb","kg","mancozeb","kg",0,1.00
+"Maneb","kg","maneb","kg",0,1.00
+"Manganese","kg","manganese","kg",0,1.00
+"Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore, in ground","kg","manganese","kg",0,1.00
+"Manganese-54","kBq","manganese-54","kBq",0,1.00
+"Manganese-55","kBq","Manganese-55","kBq",0,1.00
+"MCPA","kg","2-methyl-4-chlorophenoxyacetic acid","kg",0,1.00
+"MCPB","kg","MCPB","kg",0,1.00
+"Mecoprop","kg","mecoprop","kg",0,1.00
+"Mecoprop-P","kg","mecoprop","kg",1,1.00
+"Mepiquat chloride","kg","mepiquat chloride","kg",0,1.00
+"Mercury","kg","mercury","kg",0,1.00
+"Metalaxil","kg","metalaxil","kg",0,1.00
+"Metalaxyl-M","kg","mefenoxam","kg",0,1.00
+"Metaldehyde","kg","metaldehyde","kg",0,1.00
+"Metamitron","kg","metamitron","kg",0,1.00
+"Metamorphous rock, graphite containing, in ground","kg","inert rock","kg",0,1.00
+"Metazachlor","kg","metazachlor","kg",0,1.00
+"Methabenzthiazuron","kg","methabenzthiazuron","kg",0,1.00
+"Methamidophos","kg","methamidophos","kg",0,1.00
+"Methane, biogenic","kg","methane (biogenic)","kg",0,1.00
+"Methane, bromo-, Halon 1001","kg","Halon-1001","kg",0,1.00
+"Methane, bromochlorodifluoro-, Halon 1211","kg","Halon-1211","kg",0,1.00
+"Methane, bromotrifluoro-, Halon 1301","kg","Halon-1301","kg",0,1.00
+"Methane, chlorodifluoro-, HCFC-22","kg","HCFC-22","kg",0,1.00
+"Methane, chloro-fluoro-, HCFC-31","kg","HCFC-31","kg",0,1.00
+"Methane, chlorotrifluoro-, CFC-13","kg","CFC-13","kg",0,1.00
+"Methane, dichloro-, HCC-30","kg","dichloromethane","kg",0,1.00
+"Methane, dichlorodifluoro-, CFC-12","kg","CFC-12","kg",0,1.00
+"Methane, dichlorofluoro-, HCFC-21","kg","HCFC-21","kg",0,1.00
+"Methane, difluoro-, HFC-32","kg","HFC-32","kg",0,1.00
+"Methane, fossil","kg","methane (fossil)","kg",0,1.00
+"Methane, monochloro-, R-40","kg","R-40","kg",0,1.00
+"Methane, tetrachloro-, R-10","kg","CFC-10","kg",0,1.00
+"Methane, tetrafluoro-, R-14","kg","FC-14","kg",0,1.00
+"Methane, trichlorofluoro-, CFC-11","kg","CFC-11","kg",0,1.00
+"Methane, trifluoro-, HFC-23","kg","HFC-23","kg",0,1.00
+"Methanol","kg","methanol","kg",0,1.00
+"Methiocarb","kg","methiocarb","kg",0,1.00
+"Methomyl","kg","methomyl","kg",0,1.00
+"Methyl acrylate","kg","methacrylate","kg",0,1.00
+"Methyl amine","kg","methylamine","kg",0,1.00
+"Methyl ethyl ketone","kg","methyl ethyl ketone","kg",0,1.00
+"Methyl formate","kg","methyl formate","kg",0,1.00
+"Methyl pentane","kg","3-methylpentane","kg",0,1.00
+"Metolachlor","kg","metolachlor","kg",0,1.00
+"Metribuzin","kg","metribuzin","kg",0,1.00
+"Metsulfuron-methyl","kg","metsulfuron-methyl","kg",0,1.00
+"Molinate","kg","molinate","kg",0,1.00
+"Molybdenum","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore, in ground","kg","molybdenum","kg",0,1.00
+"Molybdenum-99","kBq","molybdenum-99","kBq",0,1.00
+"Monochloroethane","kg","chloroethane","kg",0,1.00
+"Monoethanolamine","kg","monoethanolamine","kg",0,1.00
+"Monolinuron","kg","monolinuron","kg",0,1.00
+"m-Xylene","kg","m-xylene","kg",0,1.00
+"Naled","kg","naled","kg",0,1.00
+"Napropamide","kg","napropamide","kg",0,1.00
+"Neodymium, 4% in bastnasite, 0.4% in crude ore, in ground","kg","neodymium","kg",0,1.00
+"Neptunium-237","kBq","Neptunium-237","kBq",0,1.00
+"Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore, in ground","kg","nickel","kg",0,1.00
+"Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore, in ground","kg","nickel","kg",0,1.00
+"Nickel","kg","nickel","kg",0,1.00
+"Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore, in ground","kg","nickel","kg",0,1.00
+"Nickel, 1.98% in silicates, 1.04% in crude ore, in ground","kg","nickel","kg",0,1.00
+"Nickel, ion","kg","nickel","kg",1,1.00
+"Niobium-95","kBq","niobium-95","kBq",0,1.00
+"Nitrate","kg","nitrate","kg",0,1.00
+"Nitrite","kg","nitrite","kg",0,1.00
+"Nitrobenzene","kg","nitrobenzene","kg",0,1.00
+"Nitrogen","kg","nitrogen","kg",0,1.00
+"Nitrogen oxides","kg","nitrogen dioxide","kg",1,1.00
+"Nitrogen, organic bound","kg","nitrogen","kg",0,1.00
+"NMVOC, non-methane volatile organic compounds, unspecified origin","kg","non-methane volatile organic compounds","kg",0,1.00
+"Norflurazon","kg","norflurazon","kg",0,1.00
+"o-Dichlorobenzene","kg","1,2-dichlorobenzene","kg",0,1.00
+"Oil, crude, in ground","kg","crude oil","kg",0,1.00
+"Oils, unspecified","kg","crude oil","kg",1,1.00
+"Olivine, in ground","kg","olivine","kg",0,1.00
+"Orbencarb","kg","orbencarb","kg",0,1.00
+"Oxamyl","kg","oxamyl","kg",0,1.00
+"Oxydemeton-methyl","kg","demeton-s-methyl sulfoxide","kg",0,1.00
+"Oxyfluorfen","kg","oxyfluorofen","kg",0,1.00
+"o-Xylene","kg","o-xylene","kg",0,1.00
+"Ozone","kg","ozone","kg",0,1.00
+"PAH, polycyclic aromatic hydrocarbons","kg","polycyclic aromatic hydrocarbons","kg",0,1.00
+"Palladium","kg","palladium","kg",0,1.00
+"Paraffins","kg","hydrocarbons (unspecified)","kg",1,1.00
+"Paraquat","kg","paraquat","kg",0,1.00
+"Parathion","kg","parathion","kg",0,1.00
+"Particulates, < 2.5 um","kg","particles (PM2.5)","kg",0,1.00
+"Particulates, > 10 um","kg","particles (> PM10)","kg",0,1.00
+"Particulates, > 2.5 um, and < 10um","kg","particles (PM2.5 - PM10)","kg",0,1.00
+"Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","kg","palladium","kg",0,1.00
+"Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","kg","palladium","kg",0,1.00
+"Peat, in ground","kg","peat","kg",0,1.00
+"Pendimethalin","kg","pendimethalin","kg",0,1.00
+"Pentane","kg","pentane","kg",0,1.00
+"Perlite, in ground","kg","perlite","kg",0,1.00
+"Permethrin","kg","permethrin","kg",0,1.00
+"Phenmedipham","kg","phenmedipham","kg",0,1.00
+"Phenol","kg","phenol","kg",0,1.00
+"Phenol, pentachloro-","kg","pentachlorophenol","kg",0,1.00
+"Phorate","kg","phorate","kg",0,1.00
+"Phosmet","kg","phosmet","kg",0,1.00
+"Phosphate","kg","phosphate","kg",0,1.00
+"Phosphine","kg","phosphine","kg",0,1.00
+"Phosphoric acid","kg","phosphoric acid","kg",0,1.00
+"Phosphorus","kg","phosphorus","kg",0,1.00
+"Phosphorus, 18% in apatite, 12% in crude ore, in ground","kg","phosphorus","kg",0,1.00
+"Phosphorus, 18% in apatite, 4% in crude ore, in ground","kg","phosphorus","kg",0,1.00
+"Phthalate, butyl-benzyl-","kg","butyl benzyl phthalate","kg",0,1.00
+"Phthalate, dibutyl-","kg","dibutyl phthalate","kg",0,1.00
+"Phthalate, dimethyl-","kg","dimethyl phthalate","kg",0,1.00
+"Phthalate, dioctyl-","kg","di-sec-octyl phthalate","kg",0,1.00
+"Piperonyl butoxide","kg","piperonyl sulfoxide","kg",1,1.00
+"Pirimicarb","kg","pirimicarb","kg",0,1.00
+"Platinum","kg","platinum","kg",0,1.00
+"Plutonium-238","kBq","plutonium-238","kBq",0,1.00
+"Plutonium-241","kBq","Plutonium-241","kBq",0,1.00
+"Plutonium-alpha","kBq","plutonium","kBq",0,1.00
+"Polonium-210","kBq","polonium-210","kBq",0,1.00
+"Polychlorinated biphenyls","kg","polychlorinated biphenyls","kg",0,1.00
+"Potassium","kg","potassium","kg",0,1.00
+"Potassium chloride","kg","potassium chloride","kg",0,1.00
+"Potassium, ion","kg","potassium","kg",1,1.00
+"Potassium-40","kBq","potassium-40","kBq",0,1.00
+"Praseodymium, 0.42% in bastnasite, 0.042% in crude ore, in ground","kg","praseodymium","kg",0,1.00
+"Prochloraz","kg","prochloraz","kg",0,1.00
+"Prometryn","kg","prometryn","kg",0,1.00
+"Pronamide","kg","pronamide","kg",0,1.00
+"Propamocarb HCl","kg","propamocarb","kg",0,1.00
+"Propanal","kg","propanal","kg",0,1.00
+"Propane","kg","propane","kg",0,1.00
+"Propanil","kg","propanil","kg",0,1.00
+"Propanol","kg","n-propanol","kg",0,1.00
+"Propaquizafop","kg","propaquizafop","kg",0,1.00
+"Propargite","kg","propargite","kg",0,1.00
+"Propene","kg","propene","kg",0,1.00
+"Propiconazole","kg","propiconazole","kg",0,1.00
+"Propionic acid","kg","propionic acid","kg",0,1.00
+"Propylene oxide","kg","propylene oxide","kg",0,1.00
+"Prosulfocarb","kg","prosulfocarb","kg",0,1.00
+"Prosulfuron","kg","prosulfuron","kg",0,1.00
+"Protactinium-234","kBq","protactinium-234","kBq",0,1.00
+"Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","kg","platinum","kg",0,1.00
+"Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","kg","platinum","kg",0,1.00
+"Pumice, in ground","kg","raw pumice","kg",0,1.00
+"Pymetrozine","kg","pymetrozine","kg",0,1.00
+"Pyridate","kg","pyridate","kg",0,1.00
+"Pyriproxyfen","kg","pyriproxyfen","kg",0,1.00
+"Pyrite, in ground","kg","pyrite","kg",0,1.00
+"Pyrithiobac sodium salt","kg","pyrithiobac-sodium","kg",0,1.00
+"Quintozene","kg","pentachloronitrobenzene","kg",0,1.00
+"Quizalofop ethyl ester","kg","quizalofop-ethyl","kg",0,1.00
+"Radium-224","kBq","radium-224","kBq",0,1.00
+"Radium-226","kBq","radium-226","kBq",0,1.00
+"Radium-228","kBq","radium-228","kBq",0,1.00
+"Radon-220","kBq","radon-220","kBq",0,1.00
+"Radon-222","kBq","radon-222","kBq",0,1.00
+"Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","kg","rhodium","kg",0,1.00
+"Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","kg","rhodium","kg",0,1.00
+"Rhenium, in crude ore, in ground","kg","rhenium","kg",0,1.00
+"Rimsulfuron","kg","rimsulfuron","kg",0,1.00
+"Rubidium","kg","rubidium","kg",0,1.00
+"Ruthenium-103","kBq","ruthenium-103","kBq",0,1.00
+"Ruthenium-106","kBq","ruthenium-106","kBq",0,1.00
+"Samarium, 0.3% in bastnasite, 0.03% in crude ore, in ground","kg","samarium","kg",0,1.00
+"Sand, unspecified, in ground","kg","sand","kg",0,1.00
+"Scandium","kg","scandium","kg",0,1.00
+"Selenium","kg","selenium","kg",0,1.00
+"Sethoxydim","kg","sethoxydim","kg",0,1.00
+"Shale, in ground","kg","shale","kg",0,1.00
+"Silicon","kg","silicon","kg",0,1.00
+"Silicon tetrafluoride","kg","silicium tetrafluoride","kg",0,1.00
+"Silver","kg","silver","kg",0,1.00
+"Silver, 0.007% in sulfide, Ag 0.004%, Pb, Zn, Cd, In, in ground","kg","silver","kg",0,1.00
+"Silver, 0.01% in crude ore, in ground","kg","silver","kg",0,1.00
+"Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore, in ground","kg","silver","kg",0,1.00
+"Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore, in ground","kg","silver","kg",0,1.00
+"Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore, in ground","kg","silver","kg",0,1.00
+"Silver, Ag 4.6E-5%, Au 1.3E-4%, in ore, in ground","kg","silver","kg",0,1.00
+"Silver, Ag 9.7E-4%, Au 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore, in ground","kg","silver","kg",0,1.00
+"Silver, ion","kg","silver","kg",0,1.00
+"Silver-110","kBq","silver-110","kBq",0,1.00
+"Simazine","kg","simazine","kg",0,1.00
+"Sodium","kg","sodium","kg",0,1.00
+"Sodium chloride, in ground","kg","sodium chloride","kg",0,1.00
+"Sodium nitrate, in ground","kg","sodium nitrate","kg",0,1.00
+"Sodium sulphate, various forms, in ground","kg","sodium sulfate","kg",0,1.00
+"Sodium, ion","kg","sodium","kg",0,1.00
+"Sodium-24","kBq","sodium-24","kBq",0,1.00
+"Starane","kg","starane","kg",0,1.00
+"Stibnite, in ground","kg","antimonite","kg",0,1.00
+"Strontium","kg","strontium","kg",0,1.00
+"Strontium-89","kBq","strontium-89","kBq",0,1.00
+"Strontium-90","kBq","strontium-90","kBq",0,1.00
+"Styrene","kg","styrene","kg",0,1.00
+"Sulfate","kg","sulfate","kg",0,1.00
+"Sulfentrazone","kg","sulfentrazone","kg",0,1.00
+"Sulfide","kg","sulfide","kg",0,1.00
+"Sulfite","kg","sulfite","kg",0,1.00
+"Sulfosate","kg","glyphosate-trimesium","kg",0,1.00
+"Sulfosulfuron","kg","sulfosulfuron","kg",0,1.00
+"Sulfur","kg","sulfur","kg",0,1.00
+"Sulfur dioxide","kg","sulfur dioxide","kg",0,1.00
+"Sulfur hexafluoride","kg","sulfur hexafluoride","kg",0,1.00
+"Sulfur, in ground","kg","sulfur","kg",0,1.00
+"Sylvite, 25 % in sylvinite, in ground","kg","potassium chloride","kg",0,1.00
+"Talc, in ground","kg","talc","kg",0,1.00
+"Tantalum, 81.9% in tantalite, 1.6E-4% in crude ore, in ground","kg","tantalum","kg",0,1.00
+"tau-Fluvalinate","kg","tau-fluvalinate","kg",0,1.00
+"t-Butyl methyl ether","kg","tert-butyl methyl ether","kg",0,1.00
+"TCMTB","kg","thiocyanic acid (2-benzothiazolylthio)methyl ester","kg",0,1.00
+"Tebuconazole","kg","tebuconazole","kg",0,1.00
+"Tebufenozide","kg","tebufenozide","kg",0,1.00
+"Tebutam","kg","tebutam","kg",0,1.00
+"Technetium-99","kBq","technetium-99","kBq",0,1.00
+"Technetium-99m","kBq","technetium-99","kBq",0,1.00
+"Teflubenzuron","kg","teflubenzuron","kg",0,1.00
+"Tefluthrin","kg","tefluthrin","kg",0,1.00
+"Tellurium, 0.5ppm in sulfide, Te 0.2ppm, Cu and Ag, in crude ore, in ground","kg","tellurium","kg",0,1.00
+"Tellurium-123m","kBq","tellurium-123","kBq",0,1.00
+"Tellurium-132","kBq","tellurium-132","kBq",0,1.00
+"Terbufos","kg","terbufos","kg",0,1.00
+"Terbuthylazin","kg","terbuthylazin","kg",0,1.00
+"Terpenes","kg","hydrocarbons (unspecified)","kg",1,1.00
+"Thallium","kg","thallium","kg",0,1.00
+"Thidiazuron","kg","thidiazuron","kg",0,1.00
+"Thifensulfuron-methyl","kg","thifensulfuron-methyl","kg",0,1.00
+"Thiobencarb","kg","thiobencarb","kg",0,1.00
+"Thiocyanate, ion","kg","methyl isothiocyanate","kg",1,1.00
+"Thiram","kg","thiram","kg",0,1.00
+"Thorium","kg","thorium","kg",0,1.00
+"Thorium-228","kBq","thorium-228","kBq",0,1.00
+"Thorium-230","kBq","thorium-230","kBq",0,1.00
+"Thorium-232","kBq","thorium-232","kBq",0,1.00
+"Thorium-234","kBq","thorium-234","kBq",0,1.00
+"Tin","kg","tin","kg",0,1.00
+"Tin, 79% in cassiterite, 0.1% in crude ore, in ground","kg","tin","kg",0,1.00
+"Tin, ion","kg","tin","kg",0,1.00
+"TiO2, 54% in ilmenite, 2.6% in crude ore, in ground","kg","titanium dioxide","kg",0,1.00
+"TiO2, 95% in rutile, 0.40% in crude ore, in ground","kg","titanium dioxide","kg",1,1.00
+"Titanium","kg","titanium","kg",0,1.00
+"Titanium, ion","kg","titanium","kg",0,1.00
+"TOC, Total Organic Carbon","kg","total organic carbon","kg",0,1.00
+"Toluene","kg","toluene","kg",0,1.00
+"Tralomethrin","kg","tralomethrin","kg",0,1.00
+"Triadimenol","kg","triadimenol","kg",0,1.00
+"Tri-allate","kg","triallate","kg",0,1.00
+"Triasulfuron","kg","triasulfuron","kg",0,1.00
+"Tribenuron","kg","tribenuron-methyl","kg",0,1.00
+"Tribenuron-methyl","kg","tribenuron-methyl","kg",0,1.00
+"Tribufos","kg","tributylphosphorotrithioate","kg",0,1.00
+"Tributyltin compounds","kg","tributyltin","kg",0,1.00
+"Trichlorfon","kg","trichlorofon","kg",0,1.00
+"Triclopyr","kg","butoxyethyl triclopyr","kg",1,1.00
+"Tridemorph","kg","tridemorph","kg",0,1.00
+"Triethylene glycol","kg","triethylene glycol","kg",0,1.00
+"Trifluralin","kg","trifluralin","kg",0,1.00
+"Triflusulfuron-methyl","kg","triflusulfuron-methyl","kg",0,1.00
+"Trinexapac-ethyl","kg","trinexapac-ethyl","kg",0,1.00
+"Tungsten","kg","tungsten","kg",0,1.00
+"Uranium","kg","uranium","kg",0,1.00
+"Uranium, in ground","kg","uranium","kg",0,1.00
+"Uranium-234","kBq","uranium-234","kBq",0,1.00
+"Uranium-235","kBq","uranium-235","kBq",0,1.00
+"Uranium-238","kBq","uranium-238","kBq",0,1.00
+"Vanadium","kg","vanadium","kg",0,1.00
+"Vanadium, ion","kg","vanadium","kg",0,1.00
+"Vinclozolin","kg","vinclozolin","kg",0,1.00
+"VOC, volatile organic compounds, unspecified origin","kg","volatile organic compound","kg",0,1.00
+"Water","kg","water","kg",0,1.00
+"Water, cooling, unspecified natural origin","m3","water","kg",0,1000.00
+"Water, lake","m3","lake water","kg",0,1000.00
+"Water, river","m3","river water","kg",0,1000.00
+"Water, salt, ocean","m3","sea water","kg",0,1000.00
+"Water, salt, sole","m3","ground water","kg",0,1000.00
+"Water, turbine use, unspecified natural origin","m3","water","kg",0,1000.00
+"Water, unspecified natural origin","m3","water","kg",0,1000.00
+"Water, well, in ground","m3","ground water","kg",0,1000.00
+"Xenon, in air","kg","xenon","kg",0,1.00
+"Xenon-131m","kBq","xenon-131","kBq",0,1.00
+"Xenon-133","kBq","xenon-133","kBq",0,1.00
+"Xenon-133m","kBq","xenon-133","kBq",0,1.00
+"Xenon-135","kBq","xenon-135","kBq",0,1.00
+"Xenon-135m","kBq","xenon-135","kBq",0,1.00
+"Xenon-137","kBq","xenon-137","kBq",0,1.00
+"Xenon-138","kBq","xenon-138","kBq",0,1.00
+"Xylene","kg","xylene (all isomers)","kg",0,1.00
+"Zinc","kg","zinc","kg",0,1.00
+"Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In, in ground","kg","zinc","kg",0,1.00
+"Zinc, ion","kg","zinc","kg",0,1.00
+"Zinc, Zn 0.63%, Au 9.7E-4%, Ag 9.7E-4%, Cu 0.38%, Pb 0.014%, in ore, in ground","kg","zinc","kg",0,1.00
+"Zinc-65","kBq","zinc-65","kBq",0,1.00
+"Zirconia, as baddeleyite, in ground","kg","zirconium","kg",1,1.00
+"Zirconium","kg","zirconium","kg",0,1.00
+"Zirconium, 50% in zircon, 0.39% in crude ore, in ground","kg","zirconium","kg",0,1.00
+"Zirconium-95","kBq","zirconium-95","kBq",0,1.00

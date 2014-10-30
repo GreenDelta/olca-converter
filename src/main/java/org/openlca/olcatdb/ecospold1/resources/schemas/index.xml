@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<file>EcoInventCategories.xsd</file>
+	<file>EcoInventCompanyCodes.xsd</file>
+	<file>EcoInventRegionalCodes.xsd</file>
+	<file>EcoInventUnits.xsd</file>
+	<file>EcoSpold01Dataset.xsd</file>
+	<file>EcoSpold01DataTypes.xsd</file>
+	<file>EcoSpold01ElementaryDataset.xsd</file>
+	<file>EcoSpold01FlowData.xsd</file>
+	<file>EcoSpold01ImpactDataset.xsd</file>
+	<file>EcoSpold01MetaInformation.xsd</file>
+</index>

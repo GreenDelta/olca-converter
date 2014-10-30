@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+	<element name="error1">
+		<translation xml:lang="en">Value required for attribute referenceToPublishedSource if dataPublishedIn=2.</translation>
+		<translation xml:lang="ja">公表データ=2のとき、属性：参考文献に値が必要です。</translation>
+	</element>
+	<element name="error2">
+		<translation xml:lang="en">Value required for attribute companyCode if accessRestrictedTo=3.</translation>
+		<translation xml:lang="ja">制限アクセス＝3のとき、属性：企業コードに値が必要です。</translation>
+	</element>
+	<element name="error3">
+		<translation xml:lang="en">Value required for attribute countryCode if accessRestrictedTo=3.</translation>
+		<translation xml:lang="ja">制限アクセス＝3のとき、属性：国コードに値が必要です。</translation>
+	</element>
+	<element name="error4">
+		<translation xml:lang="en">Value required for attribute category and subCategory if inputGroup=4 or outputGroup=4.</translation>
+		<translation xml:lang="ja">入力グループ=4または出力グループ=4のとき、属性：カテゴリとサブカテゴリに値が必要です。</translation>
+	</element>
+	<element name="error5">
+		<translation xml:lang="en">Value required for attribute infrastructureProcess if inputGroup=5.</translation>
+		<translation xml:lang="ja">入力グループ=5のとき、属性：インフラプロセスに値が必要です。</translation>
+	</element>
+	<element name="error6">
+		<translation xml:lang="en">Value required for attribute location if inputGroup!=4 or outputGroup!=4.</translation>
+		<translation xml:lang="ja">入力グループ=4または出力グループ=4のとき、属性：地域に値が必要です。</translation>
+	</element>
+	<element name="error7">
+		<translation xml:lang="en">Values required for attributes minValue, maxValue and meanValue (plus eventually mostLikelyValue) and no value allowed for attribute standardDeviation95 if uncertaintyType = '3' (triang).</translation>
+		<translation xml:lang="ja">不確実性タイプ=3(三角分布)のとき、属性：最小値、最大値、平均値(+最終的な最頻値)には値が必要です。このとき、属性：SD95に値は不必要です。</translation>
+	</element>
+	<element name="error8">
+		<translation xml:lang="en">Company code not found in list of valid company codes for the given country code</translation>
+		<translation xml:lang="ja">指定された国コードで有効な企業コードリストの中に、企業コードが見つかりません。</translation>
+	</element>
+	<element name="error9">
+		<translation xml:lang="en">Value required for attribute standardDeviation95 and no values allowed for attributes min-, max- and mostLikelyValue if uncertaintyType = 1 (lognormal) or 2 (normal).</translation>
+		<translation xml:lang="ja">不確実性タイプ=1(対数正規分布)または2(正規分布)のとき、属性：SD95には値が必要です。このとき、属性：最小値、最大値、最頻値に値は不必要です。</translation>
+	</element>
+	<element name="error10">
+		<translation xml:lang="en">The file referenced by dataset/validCompanyCodes could not be found or is no valid CompanyCodes file.</translation>
+		<translation xml:lang="ja">データセット/有効な企業コードによって参照されたファイルは、見つからないか、有効な企業コードではありません。</translation>
+	</element>
+	<element name="error11">
+		<translation xml:lang="en">The file referenced by dataset/validRegionalCodes could not be found or is no valid Regional Codes file.</translation>
+		<translation xml:lang="ja">データセット/有効な地域コードによって参照されたファイルは、見つからないか、有効な地域コードではありません。</translation>
+	</element>
+	<element name="error12">
+		<translation xml:lang="en">The file referenced by dataset/validCategories could not be found or is no valid categories file.</translation>
+		<translation xml:lang="ja">データセット/有効なカテゴリによって参照されたファイルは、見つからないか、有効なカテゴリではありません。</translation>
+	</element>
+	<element name="error13">
+		<translation xml:lang="en">The file referenced by dataset/validUnits could not be found or is no valid Units file.</translation>
+		<translation xml:lang="ja">データセット/有効な単位によって参照されたファイルは、見つからないか、有効な単位ではありません。</translation>
+	</element>
+	<element name="error14">
+		<translation xml:lang="en">Attribute type is outside of valid range for the current namespace.</translation>
+		<translation xml:lang="ja">属性タイプは現在のネームスペースの有効範囲外です。</translation>
+	</element>
+	<element name="error15">
+		<translation xml:lang="en">Element inputGroup or outputGroup is required for an exchange element if dataSetInformation/@type != 4 or dataSetInformation/@impactAssessmentResult is false.</translation>
+		<translation xml:lang="ja">データセット情報/@タイプ=4またはデータセット情報/@影響評価結果がfalseのとき、交換要素のために要素：入力グループまたは出力グループが必要です。</translation>
+	</element>
+	<element name="error16">
+		<translation xml:lang="en">Every single output process must have an exchange for each referenceFunction.</translation>
+		<translation xml:lang="ja">すべての単一出力プロセスは、それぞれの参照ファンクションに対して交換できるものがなければなりません。</translation>
+	</element>
+	<element name="error17	">
+		<translation xml:lang="en">Values required for attributes minValue and maxValue and no values allowed for attributes standardDeviation95 and mostLikelyValue if uncertaintyType='4' (uniform).</translation>
+		<translation xml:lang="ja">不確実性タイプ=4（一様分布）のとき、属性：最小値と最大値に値が必要です。このとき、SD95と最頻値に値は不必要です。</translation>
+	</element>
+	<element name="error18">
+		<translation xml:lang="en">Non-ToNature output flows are not allowed to contain any uncertainty information.</translation>
+		<translation xml:lang="ja">非自然放出出力フローは不確実性情報を含めることができません。</translation>
+	</element>
+	<element name="error19">
+		<translation xml:lang="en">ReferenceProduct output flows are not allowed to contain standardDeviation95 information.</translation>
+		<translation xml:lang="ja">参照製品出力フローは、SD95情報を含めることができません。</translation>
+	</element>
+	<element name="warning1">
+		<translation xml:lang="en">Dataset has no reference to list of valid company codes. Company code not validated.</translation>
+		<translation xml:lang="ja">データセットに有効な企業コードリストへの参照がありません。企業コードが無効です。</translation>
+	</element>
+	<element name="warning2">
+		<translation xml:lang="en">Dataset has no reference to list of valid regional codes. Location not validated.</translation>
+		<translation xml:lang="ja">データセットに有効な地域コードリストへの参照がありません。地域が無効です。</translation>
+	</element>
+	<element name="warning3">
+		<translation xml:lang="en">Dataset has no reference to list of valid categories. Category and subCategory not validated.</translation>
+		<translation xml:lang="ja">データセットに有効なカテゴリリストへの参照がありません。カテゴリとサブカテゴリが無効です。</translation>
+	</element>
+	<element name="warning4">
+		<translation xml:lang="en">Dataset has no reference to list of valid units. Unit not validated.</translation>
+		<translation xml:lang="ja">データセットに有効な単位リストへの参照がありません。単位が無効です。</translation>
+	</element>
+	<element name="warning5">
+		<translation xml:lang="en">Attribute text is required in the EcoInvent context.</translation>
+		<translation xml:lang="ja">Ecoinventでは属性：テキストが必要です。</translation>
+	</element>
+	<element name="warning6">
+		<translation xml:lang="en">No values allowed for the attributes companyCode and countryCode if accessRestrictedTo=0.</translation>
+		<translation xml:lang="ja">制限アクセス＝0のとき、属性：企業コードと国コードに値は不必要です。</translation>
+	</element>
+	<element name="warning7	">
+		<translation xml:lang="en">Allocations are required for multi-output processes.</translation>
+		<translation xml:lang="ja">マルチ出力プロセスには配分が必要です</translation>
+	</element>
+	<element name="hint1024">
+		<translation xml:lang="en">category and/or subCategory not found in list of valid categories.</translation>
+		<translation xml:lang="ja">有効なカテゴリリストの中に、カテゴリと(または)サブカテゴリが見つかりません。</translation>
+	</element>
+	<element name="hint1025">
+		<translation xml:lang="en">LocalCategory and/or LocalSubCategory not found in list of valid categories.</translation>
+		<translation xml:lang="ja">有効なカテゴリリストの中に、ローカルカテゴリと（または）ローカルサブカテゴリが見つかりません。</translation>
+	</element>
+	<element name="hint1026">
+		<translation xml:lang="en">Location not found in list of valid regional codes.</translation>
+		<translation xml:lang="ja">有効な地域コードリストの中に、地域が見つかりません。</translation>
+	</element>
+	<element name="hint1027">
+		<translation xml:lang="en">Unit not found in list of valid EcoInvent units.</translation>
+		<translation xml:lang="ja">有効なecoinvent単位リストの中に、単位が見つかりません。</translation>
+	</element>
+	<element name="hint1028">
+		<translation xml:lang="en">Area allocation is present although less than 2 exchanges with outputGroup = 2 could be found.</translation>
+		<translation xml:lang="ja">出力グループ=2で交換要素が2未満しか見つかりませんが、地域配分が存在します。</translation>
+	</element>
+	<element name="hint1029">
+		<translation xml:lang="en">dataSetInformation/@type = 5 and there are less than 2 exchanges with outputGroup = 2 present.</translation>
+		<translation xml:lang="ja">データセット情報/@タイプ＝5かつ、出力グループ=2で交換要素が2未満しか存在しません。</translation>
+	</element>
+	<element name="hint1030">
+		<translation xml:lang="en">dataSetInformation/@type &lt;&gt; 5 but there is at least one exchange with outputGroup = 2 present.</translation>
+		<translation xml:lang="ja">データセット情報/@タイプは5ではありませんが、出力グループ=2で交換要素が少なくとも1つ存在しています。</translation>
+	</element>
+</elements>

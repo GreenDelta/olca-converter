@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<file>EcoSpold01.i18n.xml</file>
+	<file>EcoSpold01.i18n.xsl</file>
+	<file>EcoSpold01.xsl</file>
+	<file>EcoSpold01Data.xsl</file>
+	<file>EcoSpold01ElementaryData.xsl</file>
+	<file>EcoSpold01ElementarySV.xsl</file>
+	<file>EcoSpold01ImpactData.xsl</file>
+	<file>EcoSpold01ImpactSV.xsl</file>
+	<file>EcoSpold01SemanticValidator.xsl</file>
+	<file>EcoSpold01SV.i18n.xml</file>
+	<file>EcoSpold01SV.i18n.xsl</file>
+	<file>EcoSpold01SV.xsl</file>
+</index>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<file>ILCD_Categories.xsd</file>
+	<file>ILCD_Common_DataTypes.xsd</file>
+	<file>ILCD_Common_EnumerationValues.xsd</file>
+	<file>ILCD_Common_Groups.xsd</file>
+	<file>ILCD_Common_Validation.xsd</file>
+	<file>ILCD_ContactDataSet.xsd</file>
+	<file>ILCD_Documentation.xsd</file>
+	<file>ILCD_FlowDataSet.xsd</file>
+	<file>ILCD_FlowPropertyDataSet.xsd</file>
+	<file>ILCD_ILCD.xsd</file>
+	<file>ILCD_LCIAMethodDataSet.xsd</file>
+	<file>ILCD_Locations.xsd</file>
+	<file>ILCD_ProcessDataSet.xsd</file>
+	<file>ILCD_SourceDataSet.xsd</file>
+	<file>ILCD_UnitGroupDataSet.xsd</file>
+</index>

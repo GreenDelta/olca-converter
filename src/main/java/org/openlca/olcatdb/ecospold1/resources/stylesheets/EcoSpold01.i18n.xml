@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+	<element name="dataset">
+		<translation xml:lang="en">Dataset</translation>
+		<translation xml:lang="ja">データセット</translation>
+	</element>
+	<element name="flowData">
+		<translation xml:lang="en">Flow data</translation>
+		<translation xml:lang="ja">フローデータ</translation>
+	</element>
+	<element name="indexnumber">
+		<translation xml:lang="en">Indexnumber</translation>
+		<translation xml:lang="ja">インデックス番号</translation>
+	</element>
+	<element name="generator">
+		<translation xml:lang="en">Generator</translation>
+		<translation xml:lang="ja">作成者</translation>
+	</element>
+	<element name="timestamp">
+		<translation xml:lang="en">Timestamp</translation>
+		<translation xml:lang="ja">タイムスタンプ</translation>
+	</element>
+	<element name="validCompanyCodes">
+		<translation xml:lang="en">Valid company codes</translation>
+		<translation xml:lang="ja">有効な企業コード</translation>
+	</element>
+	<element name="validRegionalCodes">
+		<translation xml:lang="en">Valid regional codes</translation>
+		<translation xml:lang="ja">有効な地域コード</translation>
+	</element>
+	<element name="validCategories">
+		<translation xml:lang="en">Valid categories</translation>
+		<translation xml:lang="ja">有効なカテゴリー</translation>
+	</element>
+	<element name="validUnits">
+		<translation xml:lang="en">Valid units</translation>
+		<translation xml:lang="ja">有効な単位</translation>
+	</element>
+	<element name="transitionIcon">
+		<translation xml:lang="en">This dataset contains an Umberto transition icon.</translation>
+		<translation xml:lang="ja">Umbertoのトランジションアイコンを含む</translation>
+	</element>
+	<element name="transitionSpecification">
+		<translation xml:lang="en">This dataset contains an Umberto transition specification.</translation>
+		<translation xml:lang="ja">Umbertoのトランジション仕様を含む</translation>
+	</element>
+	<element name="transitionParameters">
+		<translation xml:lang="en">This dataset contains Umberto transition parameters.</translation>
+		<translation xml:lang="ja">Umbertoのトランジションパラメーターを含む</translation>
+	</element>
+	<element name="transitionSpecificationTitle">
+		<translation xml:lang="en">Umberto transition specification</translation>
+		<translation xml:lang="ja">Umbertoトランジション仕様</translation>
+	</element>
+	<element name="transitionParametersTitle">
+		<translation xml:lang="en">Umberto transition parameters</translation>
+		<translation xml:lang="ja">Umbertoトランジションパラメーター</translation>
+	</element>
+	<element name="tableOfContent">
+		<translation xml:lang="en">Table of content</translation>
+		<translation xml:lang="ja">目次</translation>
+	</element>
+	<element name="exchanges">
+		<translation xml:lang="en">Exchanges</translation>
+		<translation xml:lang="ja">交換要素</translation>
+	</element>
+	<element name="allocations">
+		<translation xml:lang="en">Allocations</translation>
+		<translation xml:lang="ja">アロケーション</translation>
+	</element>
+	<element name="metaInformation">
+		<translation xml:lang="en">Meta information</translation>
+		<translation xml:lang="ja">メタ情報</translation>
+	</element>
+	<element name="processInformation">
+		<translation xml:lang="en">Process information</translation>
+		<translation xml:lang="ja">プロセス情報</translation>
+	</element>
+	<element name="modellingAndValidation">
+		<translation xml:lang="en">Modelling and validation</translation>
+		<translation xml:lang="ja">モデル化と妥当性</translation>
+	</element>
+	<element name="administrativeInformation">
+		<translation xml:lang="en">Administrative information</translation>
+		<translation xml:lang="ja">管理情報</translation>
+	</element>
+	<element name="fromNature">
+		<translation xml:lang="en">From Nature</translation>
+		<translation xml:lang="ja">自然から　</translation>
+	</element>
+	<element name="fromTechnosphere">
+		<translation xml:lang="en">From Technosphere</translation>
+		<translation xml:lang="ja">テクノスフィアから</translation>
+	</element>
+	<element name="referenceProduct">
+		<translation xml:lang="en">Reference Product</translation>
+		<translation xml:lang="ja">参照製品</translation>
+	</element>
+	<element name="allocatedBy-product">
+		<translation xml:lang="en">Allocated By-product</translation>
+		<translation xml:lang="ja">複製品への配分</translation>
+	</element>
+	<element name="toNature">
+		<translation xml:lang="en">To Nature</translation>
+		<translation xml:lang="ja">自然へ</translation>
+	</element>
+	<element name="detailedExchanges">
+		<translation xml:lang="en">Detailed Exchanges</translation>
+		<translation xml:lang="ja">詳細な交換要素</translation>
+	</element>
+	<element name="referenceToCoproduct">
+		<translation xml:lang="en">Reference to coproduct</translation>
+		<translation xml:lang="ja">複製品への参照</translation>
+	</element>
+	<element name="allocationMethod">
+		<translation xml:lang="en">Allocation method</translation>
+		<translation xml:lang="ja">アロケーション方法</translation>
+	</element>
+	<element name="fraction">
+		<translation xml:lang="en">Fraction (%)</translation>
+		<translation xml:lang="ja">割合（%）</translation>
+	</element>
+	<element name="explanations">
+		<translation xml:lang="en">Explanations</translation>
+		<translation xml:lang="ja">説明</translation>
+	</element>
+	<element name="referenceToInputOoutput">
+		<translation xml:lang="en">Reference to input/output</translation>
+		<translation xml:lang="ja">インプット/アウトプットへの参照</translation>
+	</element>
+	<element name="datasetInformation">
+		<translation xml:lang="en">Dataset information</translation>
+		<translation xml:lang="ja">データセット情報</translation>
+	</element>
+	<element name="number">
+		<translation xml:lang="en">Number</translation>
+		<translation xml:lang="ja">番号</translation>
+	</element>
+	<element name="validation">
+		<translation xml:lang="en">Validation</translation>
+		<translation xml:lang="ja">妥当性</translation>
+	</element>
+	<element name="source">
+		<translation xml:lang="en">Source</translation>
+		<translation xml:lang="ja">文献</translation>
+	</element>
+	<element name="representativeness">
+		<translation xml:lang="en">Representativeness</translation>
+		<translation xml:lang="ja">代表性</translation>
+	</element>
+	<element name="technology">
+		<translation xml:lang="en">Technology</translation>
+		<translation xml:lang="ja">技術</translation>
+	</element>
+	<element name="timePeriod">
+		<translation xml:lang="en">Time period</translation>
+		<translation xml:lang="ja">時間的範囲</translation>
+	</element>
+	<element name="geography">
+		<translation xml:lang="en">Geography</translation>
+		<translation xml:lang="ja">地理</translation>
+	</element>
+	<element name="pageNumbers">
+		<translation xml:lang="en">Page numbers</translation>
+		<translation xml:lang="ja">ページ番号</translation>
+	</element>
+	<element name="dataEntryBy">
+		<translation xml:lang="en">Data entry by</translation>
+		<translation xml:lang="ja">データ入力</translation>
+	</element>
+	<element name="dataGeneratorAndPublication">
+		<translation xml:lang="en">Data generator and publication</translation>
+		<translation xml:lang="ja">データ作成者と出版物</translation>
+	</element>
+	<element name="person">
+		<translation xml:lang="en">Person</translation>
+		<translation xml:lang="ja">人物</translation>
+	</element>
+	<element name="referenceFunction">
+		<translation xml:lang="en">Reference function</translation>
+		<translation xml:lang="ja">参照機能</translation>
+	</element>
+	<element name="synonyms">
+		<translation xml:lang="en">Synonyms</translation>
+		<translation xml:lang="ja">同義語</translation>
+	</element>
+	<element name="datasetRelatesToProduct">
+		<translation xml:lang="en">Dataset relates to product</translation>
+		<translation xml:lang="ja">製品へのデータセットの関係</translation>
+	</element>
+	<element name="name">
+		<translation xml:lang="en">Name</translation>
+		<translation xml:lang="ja">名称</translation>
+	</element>
+	<element name="localName">
+		<translation xml:lang="en">Local name</translation>
+		<translation xml:lang="ja">名称（ローカル）</translation>
+	</element>
+	<element name="infrastructureProcess">
+		<translation xml:lang="en">Infrastructure process</translation>
+		<translation xml:lang="ja">インフラプロセス</translation>
+	</element>
+	<element name="amount">
+		<translation xml:lang="en">Amount</translation>
+		<translation xml:lang="ja">量</translation>
+	</element>
+	<element name="unit">
+		<translation xml:lang="en">Unit</translation>
+		<translation xml:lang="ja">単位</translation>
+	</element>
+	<element name="category">
+		<translation xml:lang="en">Category</translation>
+		<translation xml:lang="ja">カテゴリー</translation>
+	</element>
+	<element name="subCategory">
+		<translation xml:lang="en">Subcategory</translation>
+		<translation xml:lang="ja">サブカテゴリー</translation>
+	</element>
+	<element name="localCategory">
+		<translation xml:lang="en">Local category</translation>
+		<translation xml:lang="ja">カテゴリー（ローカル）</translation>
+	</element>
+	<element name="localSubCategory">
+		<translation xml:lang="en">Local subcategory</translation>
+		<translation xml:lang="ja">サブカテゴリー（ローカル）</translation>
+	</element>
+	<element name="includedProcesses">
+		<translation xml:lang="en">Included processes</translation>
+		<translation xml:lang="ja">含有プロセス</translation>
+	</element>
+	<element name="infrastructureIncluded">
+		<translation xml:lang="en">Infrastructure included</translation>
+		<translation xml:lang="ja">インフラの含有</translation>
+	</element>
+	<element name="location">
+		<translation xml:lang="en">Location</translation>
+		<translation xml:lang="ja">地域</translation>
+	</element>
+	<element name="text">
+		<translation xml:lang="en">Text</translation>
+		<translation xml:lang="ja">テキスト</translation>
+	</element>
+	<element name="dataValidForEntirePeriod">
+		<translation xml:lang="en">Data valid for entire period</translation>
+		<translation xml:lang="ja">全期間におけるデータの有効性</translation>
+	</element>
+	<element name="type">
+		<translation xml:lang="en">Type</translation>
+		<translation xml:lang="ja">タイプ</translation>
+	</element>
+	<element name="impactAssessmentResult">
+		<translation xml:lang="en">Impact assessment result</translation>
+		<translation xml:lang="ja">影響評価結果</translation>
+	</element>
+	<element name="version">
+		<translation xml:lang="en">Version</translation>
+		<translation xml:lang="ja">バージョン</translation>
+	</element>
+	<element name="internalVersion">
+		<translation xml:lang="en">Internal version</translation>
+		<translation xml:lang="ja">内部バージョン</translation>
+	</element>
+	<element name="energyValues">
+		<translation xml:lang="en">Energy values</translation>
+		<translation xml:lang="ja">エネルギー価</translation>
+	</element>
+	<element name="languageCode">
+		<translation xml:lang="en">Language code</translation>
+		<translation xml:lang="ja">言語コード</translation>
+	</element>
+	<element name="localLanguageCode">
+		<translation xml:lang="en">Local language code</translation>
+		<translation xml:lang="ja">言語コード（ローカル）</translation>
+	</element>
+	<element name="percent">
+		<translation xml:lang="en">Percent</translation>
+		<translation xml:lang="ja">パーセント</translation>
+	</element>
+	<element name="productionVolume">
+		<translation xml:lang="en">Production volume</translation>
+		<translation xml:lang="ja">製品量</translation>
+	</element>
+	<element name="uncertaintyAdjustments">
+		<translation xml:lang="en">Uncertainty adjustments</translation>
+		<translation xml:lang="ja">不確実性調整</translation>
+	</element>
+	<element name="sourceType">
+		<translation xml:lang="en">Source type</translation>
+		<translation xml:lang="ja">文献タイプ</translation>
+	</element>
+	<element name="firstAuthor">
+		<translation xml:lang="en">First author</translation>
+		<translation xml:lang="ja">主著者</translation>
+	</element>
+	<element name="additionalAuthors">
+		<translation xml:lang="en">Additional authors</translation>
+		<translation xml:lang="ja">その他著者</translation>
+	</element>
+	<element name="year">
+		<translation xml:lang="en">Year</translation>
+		<translation xml:lang="ja">年</translation>
+	</element>
+	<element name="title">
+		<translation xml:lang="en">Title</translation>
+		<translation xml:lang="ja">タイトル</translation>
+	</element>
+	<element name="placeOfPublications">
+		<translation xml:lang="en">Place of publications</translation>
+		<translation xml:lang="ja">出版地</translation>
+	</element>
+	<element name="publisher">
+		<translation xml:lang="en">Publisher</translation>
+		<translation xml:lang="ja">出版社</translation>
+	</element>
+	<element name="qualityNetwork">
+		<translation xml:lang="en">Quality network</translation>
+		<translation xml:lang="ja">品質ネットワーク</translation>
+	</element>
+	<element name="dataPublishedIn">
+		<translation xml:lang="en">Data published in</translation>
+		<translation xml:lang="ja">公表データ</translation>
+	</element>
+	<element name="referenceToPublishedSource">
+		<translation xml:lang="en">Reference to published source</translation>
+		<translation xml:lang="ja">出版物への参照</translation>
+	</element>
+	<element name="copyright">
+		<translation xml:lang="en">Copyright</translation>
+		<translation xml:lang="ja">著作権</translation>
+	</element>
+	<element name="accessRestrictedTo">
+		<translation xml:lang="en">Access restricted to</translation>
+		<translation xml:lang="ja">アクセス制限</translation>
+	</element>
+	<element name="address">
+		<translation xml:lang="en">Address</translation>
+		<translation xml:lang="ja">住所</translation>
+	</element>
+	<element name="telephone">
+		<translation xml:lang="en">Telephone</translation>
+		<translation xml:lang="ja">電話</translation>
+	</element>
+	<element name="telefax">
+		<translation xml:lang="en">Telefax</translation>
+		<translation xml:lang="ja">FAX</translation>
+	</element>
+	<element name="email">
+		<translation xml:lang="en">Email</translation>
+		<translation xml:lang="ja">E-mail</translation>
+	</element>
+	<element name="companyCode">
+		<translation xml:lang="en">Company code</translation>
+		<translation xml:lang="ja">企業コード</translation>
+	</element>
+	<element name="countryCode">
+		<translation xml:lang="en">Country code</translation>
+		<translation xml:lang="ja">国コード</translation>
+	</element>
+	<element name="true">
+		<translation xml:lang="en">Yes</translation>
+		<translation xml:lang="ja">あり</translation>
+	</element>
+	<element name="false">
+		<translation xml:lang="en">No</translation>
+		<translation xml:lang="ja">なし</translation>
+	</element>
+	<element name="infra">
+		<translation xml:lang="en">Infra</translation>
+		<translation xml:lang="ja">インフラ</translation>
+	</element>
+	<element name="meanValue">
+		<translation xml:lang="en">Mean value</translation>
+		<translation xml:lang="ja">平均値</translation>
+	</element>
+	<element name="uncertaintyType">
+		<translation xml:lang="en">Uncertainty type</translation>
+		<translation xml:lang="ja">不確実性タイプ</translation>
+	</element>
+	<element name="standardDeviation95">
+		<translation xml:lang="en">SD95%</translation>
+		<translation xml:lang="ja">SD95%</translation>
+	</element>
+	<element name="uncertaintyTypeUndefined">
+		<translation xml:lang="en">Undefined</translation>
+		<translation xml:lang="ja">未定義</translation>
+	</element>
+	<element name="uncertaintyTypeLognormal">
+		<translation xml:lang="en">Lognormal</translation>
+		<translation xml:lang="ja">対数正規分布</translation>
+	</element>
+	<element name="uncertaintyTypeNormal">
+		<translation xml:lang="en">Normal</translation>
+		<translation xml:lang="ja">正規分布</translation>
+	</element>
+	<element name="uncertaintyTypeTriang">
+		<translation xml:lang="en">Triang</translation>
+		<translation xml:lang="ja">三角分布</translation>
+	</element>
+	<element name="uncertaintyTypeUniform">
+		<translation xml:lang="en">Uniform</translation>
+		<translation xml:lang="ja">一様分布</translation>
+	</element>
+	<element name="generalComment">
+		<translation xml:lang="en">General comment</translation>
+		<translation xml:lang="ja">一般的記述</translation>
+	</element>
+	<element name="localSubcategory">
+		<translation xml:lang="en">Local subcategory</translation>
+		<translation xml:lang="ja">サブカテゴリー（ローカル）</translation>
+	</element>
+	<element name="CASNumber">
+		<translation xml:lang="en">CAS number</translation>
+		<translation xml:lang="ja">CAS番号</translation>
+	</element>
+	<element name="formula">
+		<translation xml:lang="en">Formula</translation>
+		<translation xml:lang="ja">化学式</translation>
+	</element>
+	<element name="minValue">
+		<translation xml:lang="en">Min value</translation>
+		<translation xml:lang="ja">最小値</translation>
+	</element>
+	<element name="maxValue">
+		<translation xml:lang="en">Max value</translation>
+		<translation xml:lang="ja">最大値</translation>
+	</element>
+	<element name="mostlikelyValue">
+		<translation xml:lang="en">Mostlikely value</translation>
+		<translation xml:lang="ja">最頻値</translation>
+	</element>
+	<element name="referenceToSource">
+		<translation xml:lang="en">Reference to source</translation>
+		<translation xml:lang="ja">文献への参照</translation>
+	</element>
+	<element name="datasetContainsInfrastructureData">
+		<translation xml:lang="en">, Infrastructure</translation>
+		<translation xml:lang="ja">インフラ</translation>
+	</element>
+	<element name="quantity">
+		<translation xml:lang="en">Quantity</translation>
+		<translation xml:lang="ja">量</translation>
+	</element>
+	<element name="variable">
+		<translation xml:lang="en">Var</translation>
+		<translation xml:lang="ja">変数</translation>
+	</element>
+	<element name="startYear">
+		<translation xml:lang="en">Start year</translation>
+		<translation xml:lang="ja">開始年</translation>
+	</element>
+	<element name="startYearMonth">
+		<translation xml:lang="en">Start year-month</translation>
+		<translation xml:lang="ja">開始年-月</translation>
+	</element>
+	<element name="startDate">
+		<translation xml:lang="en">Start date</translation>
+		<translation xml:lang="ja">開始日</translation>
+	</element>
+	<element name="endYear">
+		<translation xml:lang="en">End year</translation>
+		<translation xml:lang="ja">終了年</translation>
+	</element>
+	<element name="endYearMonth">
+		<translation xml:lang="en">End year-month</translation>
+		<translation xml:lang="ja">終了年-月</translation>
+	</element>
+	<element name="endDate">
+		<translation xml:lang="en">End date</translation>
+		<translation xml:lang="ja">終了日</translation>
+	</element>
+	<element name="characterisationFactors">
+		<translation xml:lang="en">Characterisation factors</translation>
+		<translation xml:lang="ja">特性化係数</translation>
+	</element>
+	<element name="characterisationFactorDetails">
+		<translation xml:lang="en">Characterisation factor details</translation>
+		<translation xml:lang="ja">特性化係数（詳細）</translation>
+	</element>
+	<element name="issueNo">
+		<translation xml:lang="en">Issue number</translation>
+		<translation xml:lang="ja">号数</translation>
+	</element>
+	<element name="volumeNo">
+		<translation xml:lang="en">Volume number</translation>
+		<translation xml:lang="ja">巻数</translation>
+	</element>
+	<element name="titleOfAnthology">
+		<translation xml:lang="en">Title of anthology</translation>
+		<translation xml:lang="ja">選集のタイトル</translation>
+	</element>
+	<element name="proofReadingDetails">
+		<translation xml:lang="en">Proof reading details </translation>
+		<translation xml:lang="ja">詳細な校正</translation>
+	</element>
+	<element name="proofReadingValidator">
+		<translation xml:lang="en">Proof reading validator </translation>
+		<translation xml:lang="ja">校正検証者</translation>
+	</element>
+	<element name="samplingProcedure">
+		<translation xml:lang="en">Sampling procedure</translation>
+		<translation xml:lang="ja">サンプリング手順</translation>
+	</element>
+	<element name="extrapolations">
+		<translation xml:lang="en">Extrapolations</translation>
+		<translation xml:lang="ja">外挿</translation>
+	</element>
+	<element name="otherDetails">
+		<translation xml:lang="en">Other details</translation>
+		<translation xml:lang="ja">その他詳細</translation>
+	</element>
+	<element name="nameOfEditors">
+		<translation xml:lang="en">Name of editors</translation>
+		<translation xml:lang="ja">編集者の氏名</translation>
+	</element>
+	<element name="statisticalClassification">
+		<translation xml:lang="en">Statistical classification</translation>
+		<translation xml:lang="ja">統計分類</translation>
+	</element>
+</elements>

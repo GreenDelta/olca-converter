@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>	
+	<file>EcoSpold02ActivityNames.xsd</file>
+	<file>EcoSpold02Classification.xsd</file>
+	<file>EcoSpold02Companies.xsd</file>
+	<file>EcoSpold02Compartments.xsd</file>
+	<file>EcoSpold02Context.xsd</file>
+	<file>EcoSpold02ElementaryExchanges.xsd</file>
+	<file>EcoSpold02Geographies.xsd</file>
+	<file>EcoSpold02IntermediateExchanges.xsd</file>
+	<file>EcoSpold02Languages.xsd</file>
+	<file>EcoSpold02MacroEconomicScenarios.xsd</file>
+	<file>EcoSpold02SystemModels.xsd</file>
+	<file>EcoSpold02Parameters.xsd</file>
+	<file>EcoSpold02Persons.xsd</file>
+	<file>EcoSpold02Properties.xsd</file>
+	<file>EcoSpold02Sources.xsd</file>
+	<file>EcoSpold02Tags.xsd</file>
+	<file>EcoSpold02Units.xsd</file>
+</index>

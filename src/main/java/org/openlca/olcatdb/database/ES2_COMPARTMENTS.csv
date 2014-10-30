@@ -1,0 +1,30 @@
+"9ee6ba06-4401-409c-ac4e-e8ec188aa512","resource",
+"6a098164-9f04-4f65-8104-ffab7f2677f3","resource","in ground"
+"30347aef-a90b-46ba-8746-b53741aa779d","resource","in water"
+"45bb416c-a63b-429f-8754-b3f76a069c43","resource","in air"
+"7d704b6f-d455-4f41-9c28-50b4f372f315","resource","land"
+"2d0acbd3-2083-4011-9a29-20c626b23dc3","resource","biotic"
+"ad5c1ad3-29c6-413e-a498-dcfc061f314c","water",
+"e47f0a6c-3be8-4027-9eee-de251784f708","water","unspecified"
+"963f8022-3e2e-4be9-ad4d-b3b7a2282099","water","surface water"
+"a119c440-7e83-4655-a874-97fe1468315a","water","ground-"
+"65f8d2a1-63ed-479c-b86c-3bcf38e86320","water","ocean"
+"aa4362e0-b20a-448b-b2a0-261f4510deb5","water","ground-, long-term"
+"b96b47eb-598e-4335-ae7c-b59123e8e729","direct human uptake",
+"3be13d01-8c34-4181-8fd3-298a6a8239b1","direct human uptake","unspecified"
+"58bd922f-3e28-4ae2-bafe-ab5ef5bdfc2d","social",
+"b12abab8-fee7-49c6-851e-965d0abad96f","social","unspecified"
+"7bfbc057-73fa-4c4c-aaff-9d3696a9c4f5","air",
+"e8d7772c-55ca-4dd7-b605-fee5ae764578","air","urban air close to ground"
+"be7e06e9-0bf5-462e-99dc-fe4aee383c48","air","non-urban air or from high stacks"
+"7011f0aa-f5f9-4901-8c10-884ad8296812","air","unspecified"
+"23dbff79-8037-43e7-b270-5a3da416a284","air","low population density, long-term"
+"6890faa1-312e-427d-9ca8-42309afc8866","air","indoor"
+"f335ce0e-b830-475a-adab-03858d9cbdaf","air","lower stratosphere + upper troposphere"
+"cc6b14b8-9e1c-423e-afc8-3ec5fbe5230c","economic",
+"afa7ae6d-bbd9-4d9d-8d5a-a55f815c2d05","economic","primary production factor"
+"269f1973-46b4-4092-aaa7-36b5b8eb7b3e","soil",
+"15f47463-77ea-40d0-bfe8-ca632819f556","soil","forestry"
+"dbeb0ac7-0dec-439e-887a-9924cc8005dd","soil","unspecified"
+"e1bc9a16-5b6a-494f-98ef-49f461b1a11e","soil","agricultural"
+"912f1ae3-734e-4cc6-bbf7-0f36843cd7de","soil","industrial"

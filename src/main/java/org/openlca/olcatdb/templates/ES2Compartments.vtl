@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<validCompartments
+	#if($compartmentList.contextId)
+		contextId="$compartmentList.contextId" 
+	#end
+	#if($compartmentList.majorRelease)
+		majorRelease="$compartmentList.majorRelease" 
+	#end
+	#if($compartmentList.minorRelease)
+		minorRelease="$compartmentList.minorRelease" 
+	#end 
+	
+	xmlns="http://www.EcoInvent.org/EcoSpold02" 
+	xmlns:xml="http://www.w3.org/XML/1998/namespace" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Compartments.xsd">
+	
+	#foreach($it in $compartmentList.contextNames)
+		<contextName xml:lang="$it.langCode">$it.value</contextName>
+	#end
+	
+	#foreach($c in $compartmentList.compartments)
+		<compartment
+			#if($c.id)
+				id="$c.id"
+			#end
+			>
+			#foreach($it in $c.names)
+				<name xml:lang="$it.langCode">$it.value</name>
+			#end
+			
+			#foreach($sub in $c.subCompartments)
+				<subcompartment
+					#if($c.id)
+						id="$c.id"
+					#end
+					>
+					#foreach($it in $sub.names)
+						<name xml:lang="$it.langCode">$it.value</name>
+					#end
+					
+				</subcompartment>
+			#end
+		</compartment>
+	#end
+	
+</validCompartments>

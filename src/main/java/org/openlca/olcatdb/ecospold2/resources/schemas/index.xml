@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<file>EcoSpold02.xsd</file>
+	<file>EcoSpold02Activity.xsd</file>
+	<file>EcoSpold02DataTypes.xsd</file>
+	<file>EcoSpold02FlowData.xsd</file>
+	<file>EcoSpold02MetaInformation.xsd</file>
+	<file>XmlNamespace.xsd</file>
+</index>

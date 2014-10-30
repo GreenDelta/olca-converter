@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+
+	<!--
+		ILCD Reference contact data set:: European Commission,
+		Directorate-General Environment
+	-->
+	<file>5bb337b0-9a1a-11da-a72b-0800200c9a62.xml</file>
+
+	<!-- ILCD Reference contact data set:: EPLCA project team -->
+	<file>d0d5f8bb-9311-49d1-9e30-2f20a6977f4f.xml</file>
+	
+	<!-- Added contact data set: Ecoinvent Center -->
+	<file>631b917e-eb39-4d0f-aae6-98c805513b2f.xml</file>
+	
+	
+</index>

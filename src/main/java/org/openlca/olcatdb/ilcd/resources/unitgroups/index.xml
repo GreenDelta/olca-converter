@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+
+	<!-- standard ILCD unit groups -->
+	<file>5454b231-270e-45e6-89b2-7f4f3e482245.xml</file>
+	<file>5beb6eed-33a9-47b8-9ede-1dfe8f679159.xml</file>
+	<file>838aaa21-0117-11db-92e3-0800200c9a66.xml</file>
+	<file>838aaa22-0117-11db-92e3-0800200c9a66.xml</file>
+	<file>93a60a57-a3c8-11da-a746-0800200c9a66.xml</file>
+	<file>93a60a57-a3c8-12da-a746-0800200c9a66.xml</file>
+	<file>93a60a57-a3c8-16da-a746-0800200c9a66.xml</file>
+	<file>93a60a57-a3c8-18da-a746-0800200c9a66.xml</file>
+	<file>93a60a57-a3c8-20da-a746-0800200c9a66.xml</file>
+	<file>93a60a57-a3c8-23da-a746-0800200c9a66.xml</file>
+	<file>93a60a57-a4c8-11da-a746-0800200c9a66.xml</file>
+	<file>af638906-3ec7-4314-8de7-f76039f2dd01.xml</file>
+	<file>da299c4d-1741-4da8-9fbd-5ccfb5e1d688.xml</file>
+	<file>ff8ed45d-bbfb-4531-8c7b-9b95e52bd41d.xml</file>
+
+	<!-- added unit groups -->
+	<file>b4cac580-5ce8-11df-a08a-0800200c9a66.xml</file>
+
+</index>

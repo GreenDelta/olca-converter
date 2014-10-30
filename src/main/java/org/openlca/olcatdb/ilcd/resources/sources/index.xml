@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+
+	<!-- Ecoinvent: Overview and Methodology -->
+	<file>ecoinvent_overview_and_methodology.xml</file>	
+	
+	<!-- EcoSpold format -->
+	<file>EcoSpold_Format_cada7914-53c3-47ec-ac27-659b21240a99.xml</file>	
+	
+	<!-- ILCD Compliance -->
+	<file>ILCD_Compliance_88d4f8d9-60f9-43d1-9ea3-329c10d7d727.xml</file>	
+	
+	<!-- ILCD format -->
+	<file>ILCD_Format_a97a0155-0234-4b87-b4ce-a45da52f2a40.xml</file>	
+	
+</index>

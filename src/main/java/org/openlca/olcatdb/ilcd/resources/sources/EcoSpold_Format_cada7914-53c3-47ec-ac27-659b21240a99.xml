@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet version="1.0" href="../../stylesheets/source2html.xsl" type="text/xsl"?>
+<sourceDataSet xmlns="http://lca.jrc.it/ILCD/Source" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://lca.jrc.it/ILCD/Source ../../schemas/ILCD_SourceDataSet.xsd" version="1.1">
+  <sourceInformation>
+    <dataSetInformation>
+      <common:UUID>cada7914-53c3-47ec-ac27-659b21240a99</common:UUID>
+      <common:shortName xml:lang="en">EcoSpold Format</common:shortName>
+      <classificationInformation>
+        <common:classification>
+          <common:class level="0">Data set formats</common:class>
+        </common:classification>
+      </classificationInformation>
+      <sourceCitation>J. Hedemann, I. Meinshausen: ecoinvent 2000 – Documentation EcoSpold</sourceCitation>
+      <publicationType>Monograph</publicationType>
+      <referenceToDigitalFile uri="http://www.ecoinvent.org/fileadmin/softwaredownload/new/Documentation_EcoSpold_1.3.pdf"/>
+      <referenceToContact type="contact data set" refObjectId="631b917e-eb39-4d0f-aae6-98c805513b2f" uri="../contacts/631b917e-eb39-4d0f-aae6-98c805513b2f.xml"
+        version="01.00.000">
+        <common:shortDescription xml:lang="en">Ecoinvent Centre</common:shortDescription>
+      </referenceToContact>
+    </dataSetInformation>
+  </sourceInformation>
+  <administrativeInformation>
+    <dataEntryBy>
+      <common:timeStamp>2009-01-20T15:41:19+01:00</common:timeStamp>
+      <common:referenceToDataSetFormat type="source data set" refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40"
+        uri="../sources/ILCD_Format_a97a0155-0234-4b87-b4ce-a45da52f2a40.xml" version="01.00.000">
+        <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
+      </common:referenceToDataSetFormat>
+    </dataEntryBy>
+    <publicationAndOwnership>
+      <common:dataSetVersion>01.00.000</common:dataSetVersion>
+      <common:permanentDataSetURI>http://openlca.org/media/ilcd/data/sources/EcoSpold_Format_cada7914-53c3-47ec-ac27-659b21240a99.xml</common:permanentDataSetURI>
+    </publicationAndOwnership>
+  </administrativeInformation>
+</sourceDataSet>

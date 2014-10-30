@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<validTags
+	#if($tagList.contextId)
+		contextId="$tagList.contextId" 
+	#end
+	#if($tagList.majorRelease)
+		majorRelease="$tagList.majorRelease" 
+	#end
+	#if($tagList.minorRelease)
+		minorRelease="$tagList.minorRelease" 
+	#end 
+	
+	xmlns="http://www.EcoInvent.org/EcoSpold02" 
+	xmlns:xml="http://www.w3.org/XML/1998/namespace" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Tags.xsd">
+	
+	#foreach($it in $tagList.contextNames)
+		<contextName xml:lang="$it.langCode">$it.value</contextName>
+	#end
+	
+	#foreach($t in $tagList.tags)
+		<tag
+		
+			#if($t.name)
+				name="$t.name"
+			#end
+			>
+			
+			#foreach($it in $t.comments)
+				<comment xml:lang="$it.langCode">$it.value</comment>
+			#end
+			
+		</tag>
+	#end
+	
+</validTags>
