@@ -5,5 +5,5 @@ Software distributed under the License is distributed on an "AS IS" basis, WITHO
 The Original Code consists of the EcoSpold data format and EcoSpold Access.
 The Original Code was created by the ecoinvent Centre, Switzerland (Swiss Centre for Life Cycle Inventories) and ifu Hamburg GmbH, Germany. Portions created by the ecoinvent Centre and ifu Hamburg GmbH are Copyright (C) ecoinvent Centre. All Rights Reserved.
 -->
-<companyCodes xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../Schemas/MasterData/EcoSpold02CompanyCodes.xsd" xmlns="http://www.EcoInvent.org/EcoSpold02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<companyCodes xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../schemas/MasterData/EcoSpold02CompanyCodes.xsd" xmlns="http://www.EcoInvent.org/EcoSpold02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 </companyCodes>

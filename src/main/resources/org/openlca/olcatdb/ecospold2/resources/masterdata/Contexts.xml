@@ -15,7 +15,7 @@
 	-->
 <validContext
 	xmlns="http://www.EcoInvent.org/EcoSpold02"
-	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../Schemas/MasterData/EcoSpold02Context.xsd"
+	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../schemas/masterdata/EcoSpold02Context.xsd"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	majorRelease="1"
 	minorRelease="0"
