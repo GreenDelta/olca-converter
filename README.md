@@ -21,7 +21,7 @@ repository. These additional resources can be found under
 Building
 --------
 To build this project you need to have a [Java Development Kit](http://www.oracle.com/technetwork/articles/javase/index-jsp-138363.html) 
->= 7 and [Maven](http://maven.apache.org/) installed. With this just navigate to
+\>= 7 and [Maven](http://maven.apache.org/) installed. With this just navigate to
 this source code repository and type
 
 	mvn package
