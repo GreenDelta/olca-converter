@@ -67,7 +67,7 @@ public class ES2Uncertainty extends ContextObject {
 	public ES2GammaDistribution gammaDistribution;
 
 	/**
-	 * The Lognormal-distribution with average value µ (MeanValue parameter) and
+	 * The Lognormal-distribution with average value (MeanValue parameter) and
 	 * variance s (Variance parameter) is a Normal-distribution, shaping the
 	 * natural logarithm of the characteristic values ln(x) instead of x-values.
 	 * 

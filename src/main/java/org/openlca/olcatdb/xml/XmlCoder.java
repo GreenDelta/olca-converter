@@ -2,10 +2,8 @@ package org.openlca.olcatdb.xml;
 
 import java.lang.reflect.Field;
 import java.util.Collection;
-
 import org.openlca.olcatdb.parsing.ContextField;
 import org.openlca.olcatdb.parsing.SubContext;
-import org.openlca.olcatdb.parsing.ContextField.Type;
 
 public class XmlCoder {
 
@@ -55,10 +53,10 @@ public class XmlCoder {
 	private String encodeStr(String s) {
 		return s.replaceAll("&", "&amp;").replaceAll("'", "&apos;").replaceAll(
 				"<", "&lt;").replaceAll(">", "&gt;")
-				.replaceAll("\"", "&&quot;").replaceAll("ä", "&#228;")
-				.replaceAll("ö", "&#246;").replaceAll("ü", "&#252;")
-				.replaceAll("Ä", "&#196;").replaceAll("Ö", "&#214;")
-				.replaceAll("Ü", "&#220;").replaceAll("ß", "&#223;");
+				.replaceAll("\"", "&&quot;").replaceAll("Ã¤", "&#228;")
+				.replaceAll("Ã¶", "&#246;").replaceAll("Ã¼", "&#252;")
+				.replaceAll("Ã„", "&#196;").replaceAll("Ã–", "&#214;")
+				.replaceAll("Ãœ", "&#220;").replaceAll("ÃŸ", "&#223;");
 	}
 
 }

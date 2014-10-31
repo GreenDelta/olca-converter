@@ -13,10 +13,6 @@ import org.apache.velocity.app.VelocityEngine;
 
 /**
  * Initializes and loads the Velocity templates.
- * 
- * @author Michael Srocka
- * @author Georg Kšster
- * 
  */
 public class TemplateLoader {
 

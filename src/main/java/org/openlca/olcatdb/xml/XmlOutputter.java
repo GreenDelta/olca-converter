@@ -20,10 +20,6 @@ import org.openlca.olcatdb.templates.TemplateType;
 
 /**
  * The XML writer for the respective format context objects.
- * 
- * @author Michael Srocka
- * @author Georg Kšster
- * 
  */
 public class XmlOutputter {
 
