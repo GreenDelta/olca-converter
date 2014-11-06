@@ -4,100 +4,63 @@ import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-
 import org.hsqldb.jdbcDriver;
 
-/**
- * 
- * The embedded database for semantic mapping.
- * 
- * @author Michael Srocka
- * 
- */
 public class Database {
 
-	/**
-	 * The singleton instance of this class.
-	 */
+	private static File folder;
 	private static Database inst;
-
-	/**
-	 * The database connection.
-	 */
 	private Connection con;
 
-	private Database() throws Exception {
-
-		// initialize tables etc.
-		File dbDir = new File("database");
-		if (!dbDir.exists()) {
-			dbDir.mkdirs();
+	public static Database getInstance() throws Exception {
+		if (inst == null) {
+			inst = new Database(getFolder());
 		}
-		String[] resources = new String[] {
-				// the DB script
-				"database.script",
-				// the DB properties
-				"database.properties",
+		return inst;
+	}
 
-				// the ILCD unit groups
-				"ILCD_UNIT_GROUPS.csv",
-				// the ILCD compartments
-				"ILCD_COMPARTMENTS.csv",
-				// the ILCD flow properties
-				"ILCD_FLOW_PROPERTIES.csv",
-				// the ILCD elementary flows
-				"ILCD_ELEM_FLOWS.csv",
+	private Database(File folder) throws Exception {
+		if (!folder.exists()) {
+			folder.mkdirs();
+		}
+		String[] resources = getDatabaseFiles();
+		initDatabaseDir(folder, resources);
+		DriverManager.registerDriver(new jdbcDriver());
+		String path = folder.getAbsolutePath().replace('\\', '/');
+		String url = "jdbc:hsqldb:file:" + path + "/database";
+		con = DriverManager.getConnection(url, "sa", "");
+	}
 
-				// the EcoSpold 01 compartments
-				"ES1_COMPARTMENTS.csv",
-				// the EcoSpold 01 elementary flows
-				"ES1_ELEM_FLOWS.csv",
+	/**
+	 * Returns the folder of the database. If no database location is set
+	 * explicitly the default location is the folder 'database' in the directory
+	 * where the converter is running (see also #setDatabase).
+	 */
+	public static File getFolder() {
+		if (folder == null)
+			folder = new File("database");
+		return folder;
+	}
 
-				// the EcoSpold 02 units
-				"ES2_UNITS.csv",
-				// the EcoSpold 02 compartments
-				"ES2_COMPARTMENTS.csv",
-				// the EcoSpold 02 elementary flows
-				"ES2_ELEM_FLOWS.csv",
-				// the EcoSpold 02 geographies
-				"ES2_GEOGRAPHIES.csv",
+	/**
+	 * Set a new database location. If the database was already activated it
+	 * will close the database and reactivate it at the new location.
+	 */
+	public static void setFolder(File newFolder) throws Exception {
+		folder = newFolder;
+		if(inst == null)
+			return;
+		close();
+		inst = new Database(newFolder);
+	}
 
-				// flow map: EcoSpold 01 -> ILCD
-				"FLOW_MAP_ES1_TO_ILCD.csv",
-				// flow map: EcoSpold 02 -> ILCD
-				"FLOW_MAP_ES2_TO_ILCD.csv",
-				// flow map: ILCD -> EcoSpold 01
-				"FLOW_MAP_ILCD_TO_ES1.csv",
-				// flow map: ILCD -> EcoSpold 02
-				"FLOW_MAP_ILCD_TO_ES2.csv",
-
-				// compartment map: EcoSpold 01 -> ILCD
-				"COMPARTMENT_MAP_ES1_TO_ILCD.csv",
-				// compartment map: EcoSpold 01 -> EcoSpold 02
-				"COMPARTMENT_MAP_ES1_TO_ES2.csv",
-				// compartment map: EcoSpold 02 -> ILCD
-				"COMPARTMENT_MAP_ES2_TO_ILCD.csv",
-				// compartment map: ILCD -> EcoSpold 02
-				"COMPARTMENT_MAP_ILCD_TO_ES2.csv",
-				// compartment map: ILCD -> EcoSpold 01
-				"COMPARTMENT_MAP_ILCD_TO_ES1.csv",
-
-				// unit map: ILCD -> EcoSpold 02
-				"UNIT_MAP_ILCD_TO_ES2.csv",
-				// unit map: EcoSpold 01 -> ILCD
-				"UNIT_MAP_ES1_TO_ILCD.csv",
-				// unit map: EcoSpold 02 -> ILCD
-				"UNIT_MAP_ES2_TO_ILCD.csv",
-
-				"ES2_TO_CSV_COMPARTMENT_MAP.csv",
-				"ES2_TO_CSV_ELECTRICITY_UNITS.csv",
-				"ES2_TO_CSV_GEOGRAPHY_MAP.csv", };
-		// copy required resources
+	private void initDatabaseDir(File dbDir, String[] resources) throws IOException {
 		for (String res : resources) {
 			File f = new File(dbDir, res);
 			if (!f.exists()) {
@@ -115,29 +78,48 @@ public class Database {
 				in.close();
 			}
 		}
-
-		// create the connection
-		DriverManager.registerDriver(new jdbcDriver());
-		con = DriverManager.getConnection("jdbc:hsqldb:file:database/database",
-				"sa", "");
 	}
 
-	/**
-	 * Get the singleton instance from the database.
-	 */
-	public static Database getInstance() throws Exception {
-		if (inst == null) {
-			inst = new Database();
-		}
-		return inst;
+	private String[] getDatabaseFiles() {
+		return new String[]{
+				"database.script",
+				"database.properties",
+
+				"ILCD_UNIT_GROUPS.csv",
+				"ILCD_COMPARTMENTS.csv",
+				"ILCD_FLOW_PROPERTIES.csv",
+				"ILCD_ELEM_FLOWS.csv",
+
+				"ES1_COMPARTMENTS.csv",
+				"ES1_ELEM_FLOWS.csv",
+
+				"ES2_UNITS.csv",
+				"ES2_COMPARTMENTS.csv",
+				"ES2_ELEM_FLOWS.csv",
+				"ES2_GEOGRAPHIES.csv",
+
+				"FLOW_MAP_ES1_TO_ILCD.csv",
+				"FLOW_MAP_ES2_TO_ILCD.csv",
+				"FLOW_MAP_ILCD_TO_ES1.csv",
+				"FLOW_MAP_ILCD_TO_ES2.csv",
+
+				"COMPARTMENT_MAP_ES1_TO_ILCD.csv",
+				"COMPARTMENT_MAP_ES1_TO_ES2.csv",
+				"COMPARTMENT_MAP_ES2_TO_ILCD.csv",
+				"COMPARTMENT_MAP_ILCD_TO_ES2.csv",
+				"COMPARTMENT_MAP_ILCD_TO_ES1.csv",
+
+				"UNIT_MAP_ILCD_TO_ES2.csv",
+				"UNIT_MAP_ES1_TO_ILCD.csv",
+				"UNIT_MAP_ES2_TO_ILCD.csv",
+
+				"ES2_TO_CSV_COMPARTMENT_MAP.csv",
+				"ES2_TO_CSV_ELECTRICITY_UNITS.csv",
+				"ES2_TO_CSV_GEOGRAPHY_MAP.csv"
+		};
 	}
 
-	/**
-	 * 
-	 * @param sql
-	 * @return
-	 * @throws Exception
-	 */
+
 	public ResultSet query(String sql) throws Exception {
 		return con.createStatement().executeQuery(sql);
 	}
@@ -155,7 +137,9 @@ public class Database {
 	 * database are not allowed any more. However, you can get a new database
 	 * instance by calling the {@link #getInstance()} method.
 	 */
-	public void close() throws Exception {
-		con.createStatement().execute("SHUTDOWN");
+	public static void close() throws Exception {
+		if(inst == null)
+			return;
+		inst.con.createStatement().execute("SHUTDOWN");
 	}
 }

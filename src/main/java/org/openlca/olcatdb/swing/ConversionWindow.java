@@ -67,6 +67,9 @@ public class ConversionWindow extends JFrame {
 	 * Creates a new instance of the conversion window.
 	 */
 	private ConversionWindow() {
+
+		loadIni();
+
 		// initialize the window
 		setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		setSize(600, 600);
@@ -84,14 +87,13 @@ public class ConversionWindow extends JFrame {
 		int y = (screen.height - height) / 2;
 		setBounds(x, y, width, height);
 
-		// load / store the INI file + database shutdown
-		loadIni();
+
 		this.addWindowListener(new WindowAdapter() {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				writeIni();
 				try {
-					Database.getInstance().close();
+					Database.close();
 				} catch (Exception ex) {
 					ex.printStackTrace();
 				}
@@ -111,19 +113,6 @@ public class ConversionWindow extends JFrame {
 			}
 		});
 		databaseThread.start();
-
-		// new Thread() {
-		// @Override
-		// public void run() {
-		// try {
-		// Database.getInstance();
-		// TemplateLoader.getInstance();
-		// } catch (Exception e) {
-		// e.printStackTrace();
-		// }
-		// }
-		// }.start();
-
 	}
 
 	/**
@@ -137,6 +126,9 @@ public class ConversionWindow extends JFrame {
 				props.load(new FileReader(iniFile));
 				lastSource = props.getProperty("lastSource");
 				lastTarget = props.getProperty("lastTarget");
+				String dbFolder = props.getProperty("dbFolder");
+				if(dbFolder != null)
+					Database.setFolder(new File(dbFolder));
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -149,6 +141,9 @@ public class ConversionWindow extends JFrame {
 			props.put("lastSource", lastSource);
 		if (lastTarget != null)
 			props.put("lastTarget", lastTarget);
+		File dbFolder = Database.getFolder();
+		if(dbFolder != null)
+			props.put("dbFolder", dbFolder.getAbsolutePath());
 		if (!props.isEmpty()) {
 			File iniFile = new File("converter.ini");
 			try {
