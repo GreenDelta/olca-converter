@@ -75,7 +75,7 @@ public class ConversionWindow extends JFrame {
 		setSize(600, 600);
 		getContentPane().setBackground(Color.WHITE);
 		initComponents();
-		setTitle("openLCA - Data Converter 3.0");
+		setTitle("openLCA - Data Converter 3.1");
 		setIconImage(new ImageIcon(this.getClass().getResource("app_icon.png"))
 				.getImage());
 
