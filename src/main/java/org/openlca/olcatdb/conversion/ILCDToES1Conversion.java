@@ -985,9 +985,6 @@ public class ILCDToES1Conversion extends AbstractConversionImpl {
 
 	}
 
-	/**
-	  * 
-	  */
 	private double productFlow(ILCDFlow flow, ES1Exchange eExchange) {
 
 		if (flow.description != null) {
@@ -1114,12 +1111,11 @@ public class ILCDToES1Conversion extends AbstractConversionImpl {
 	}
 
 	private String formatCAS(String ilcdCAS) {
+		if (Util.nullOrEmpty(ilcdCAS))
+			return null;
 		String cas = ilcdCAS;
-		if (cas != null) {
-			while (cas.length() < 11) {
-				cas = "0" + cas;
-			}
-		}
+		while (cas.length() < 11)
+			cas = "0" + cas;
 		return cas;
 	}
 }

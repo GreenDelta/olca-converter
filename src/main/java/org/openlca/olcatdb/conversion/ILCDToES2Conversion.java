@@ -76,9 +76,9 @@ import org.openlca.olcatdb.xml.XmlOutputter;
 
 /**
  * Converts ILCD to EcoSpold 02 data sets.
- * 
+ *
  * @author Michael Srocka
- * 
+ *
  */
 class ILCDToES2Conversion extends AbstractConversionImpl {
 
@@ -530,7 +530,8 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 		eDataset.getElementaryExchanges().add(eExchange);
 
 		eExchange.amount = iExchange.resultingAmount;
-		eExchange.casNumber = iElemFlowRec.getCas();
+		if(Util.notEmpty(iElemFlowRec.getCas()))
+			eExchange.casNumber = iElemFlowRec.getCas();
 		eExchange.elementaryExchangeId = iElemFlowRec.getId();
 		eExchange.formula = iElemFlowRec.getFormula();
 		eExchange.id = UUID.randomUUID().toString();
@@ -569,22 +570,24 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 				}
 			}
 		}
+		createMasterDataEntry(eExchange);
+	}
 
-		// create the master data entry
-		if (!elemFlows.contains(eExchange.elementaryExchangeId)) {
-			ES2ElemFlow eFlow = new ES2ElemFlow();
-			elemFlows.getElemFlows().add(eFlow);
-			eFlow.casNumber = eExchange.casNumber;
-			eFlow.formula = eExchange.formula;
-			eFlow.id = eExchange.elementaryExchangeId;
-			eFlow.subCompartmentId = eExchange.compartmentId;
-			eFlow.unitId = eExchange.unitId;
-			eFlow.getName().addAll(eExchange.getName());
-			eFlow.getCompartment().addAll(eExchange.getCompartment());
-			eFlow.getSubCompartment().addAll(eExchange.getSubCompartment());
-			eFlow.getSynonyms().addAll(eExchange.getSynonym());
-			eFlow.getUnitName().addAll(eExchange.getUnitNames());
-		}
+	private void createMasterDataEntry(ES2ElementaryExchange e) {
+		if (elemFlows.contains(e.elementaryExchangeId))
+			return;
+		ES2ElemFlow entry = new ES2ElemFlow();
+		elemFlows.getElemFlows().add(entry);
+		entry.casNumber = e.casNumber;
+		entry.formula = e.formula;
+		entry.id = e.elementaryExchangeId;
+		entry.subCompartmentId = e.compartmentId;
+		entry.unitId = e.unitId;
+		entry.getName().addAll(e.getName());
+		entry.getCompartment().addAll(e.getCompartment());
+		entry.getSubCompartment().addAll(e.getSubCompartment());
+		entry.getSynonyms().addAll(e.getSynonym());
+		entry.getUnitName().addAll(e.getUnitNames());
 	}
 
 	/**
@@ -614,7 +617,8 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 			// the flow description
 			if (iFlow.description != null) {
 				eExchange.getName().addAll(iFlow.description.getName());
-				eExchange.casNumber = iFlow.description.casNumber;
+				if(Util.notEmpty(iFlow.description.casNumber))
+					eExchange.casNumber = iFlow.description.casNumber;
 			}
 
 			// the input / output group
@@ -636,7 +640,6 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 					// stock addition
 					eExchange.outputGroup = 5;
 				}
-
 			}
 
 			// product classification
@@ -664,29 +667,29 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 				}
 			}
 
-			// create the master data entry
-			if (!productFlows.contains(eExchange.intermediateExchangeId)) {
-
-				ES2ProductFlow eFlow = new ES2ProductFlow();
-				productFlows.getProductFlows().add(eFlow);
-
-				eFlow.casNumber = eExchange.casNumber;
-				eFlow.id = eExchange.intermediateExchangeId;
-				eFlow.unitId = eExchange.unitId;
-				eFlow.getName().addAll(eExchange.getName());
-				eFlow.getProductClassifications().addAll(
-						eExchange.getProductClassifications());
-				eFlow.getSynonyms().addAll(eExchange.getSynonym());
-				eFlow.getUnitName().addAll(eExchange.getUnitNames());
-
-			}
+			createMasterDateEntry(eExchange);
 
 		}// else
 	}
 
+	private void createMasterDateEntry(ES2IntermediateExchange e) {
+		if (productFlows.contains(e.intermediateExchangeId))
+			return;
+		ES2ProductFlow entry = new ES2ProductFlow();
+		productFlows.getProductFlows().add(entry);
+		entry.casNumber = e.casNumber;
+		entry.id = e.intermediateExchangeId;
+		entry.unitId = e.unitId;
+		entry.getName().addAll(e.getName());
+		entry.getProductClassifications().addAll(
+				e.getProductClassifications());
+		entry.getSynonyms().addAll(e.getSynonym());
+		entry.getUnitName().addAll(e.getUnitNames());
+	}
+
 	/**
 	 * Maps the ILCD process description to the EcoSpold 2 activity data set.
-	 * 
+	 *
 	 * @param iDescription
 	 *            the ILCD process description
 	 * @param eDataset
@@ -827,7 +830,7 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 
 	/**
 	 * Maps the ILCD time type to the given EcoSpold 02 activity data set.
-	 * 
+	 *
 	 * @param iTime
 	 *            the ILCD time type
 	 * @param eDataset
@@ -875,7 +878,7 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 
 	/**
 	 * Maps the ILCD geography type to the given EcoSpold 02 activity data set.
-	 * 
+	 *
 	 * @param iGeography
 	 *            the ILCD geography type
 	 * @param eDataset
@@ -922,7 +925,7 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 
 	/**
 	 * Maps the ILCD technology type to the given EcoSpold 02 activity data set.
-	 * 
+	 *
 	 * @param iTechnology
 	 *            the ILCD technology type
 	 * @param eDataset
@@ -978,7 +981,7 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 
 	/**
 	 * Maps the ILCD math section to the EcoSpold activity data set.
-	 * 
+	 *
 	 */
 	private void map(ILCDMathSection iMathSection, ES2Dataset eDataset) {
 

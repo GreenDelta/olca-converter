@@ -14,9 +14,6 @@ import org.openlca.olcatdb.parsing.SubContext;
 
 /**
  * The EcoSpold 02 master-data list for elementary flows.
- * 
- * @author Michael Srocka
- * 
  */
 @Context(name = "validElementaryExchanges")
 public class ES2ElemFlowList extends ContextObject {
@@ -25,13 +22,13 @@ public class ES2ElemFlowList extends ContextObject {
 	public String contextId;
 
 	@ContextField(name = "validElementaryExchanges", attributeName = "majorRelease", isAttribute = true, isRequired = true, type = Type.Integer)
-	public int majorRelease = 1; // default
+	public int majorRelease = 1;
 
 	@ContextField(name = "validElementaryExchanges", attributeName = "majorRevision", isAttribute = true, type = Type.Integer)
 	public Integer majorRevision;
 
 	@ContextField(name = "validElementaryExchanges", attributeName = "minorRelease", isAttribute = true, isRequired = true, type = Type.Integer)
-	public int minorRelease = 0; // default
+	public int minorRelease = 0;
 
 	@ContextField(name = "validElementaryExchanges", attributeName = "minorRevision", isAttribute = true, type = Type.Integer)
 	public Integer minorRevision;
@@ -72,9 +69,6 @@ public class ES2ElemFlowList extends ContextObject {
 	/**
 	 * Returns true if this list contains an elementary name with the given
 	 * name, otherwise false.
-	 * 
-	 * @param names
-	 * @return
 	 */
 	public boolean containsName(List<LangString> names) {
 		boolean result = false;
