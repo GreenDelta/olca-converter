@@ -7,4 +7,7 @@
 	minorRelease="0"
 	contextId="DE659012-50C4-4e96-B54A-FC781BF987AB">
 	<contextName xml:lang="en">ecoinvent</contextName>
+	<parameter id="3d8743a3-f27e-493e-aee3-b1652395da81" defaultVariableName="vehicle_consumption">
+		<name xml:lang="en">vehicle consumption</name>
+	</parameter>
 </validParameters>

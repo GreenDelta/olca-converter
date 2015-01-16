@@ -7,4 +7,7 @@
 	minorRelease="0"
 	contextId="DE659012-50C4-4e96-B54A-FC781BF987AB">
 	<contextName xml:lang="en">ecoinvent</contextName>
+	<language code="en">
+		<comment xml:lang="en">English</comment>
+	</language>
 </validLanguages>

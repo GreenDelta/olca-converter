@@ -7,4 +7,9 @@
 	minorRelease="0"
 	contextId="DE659012-50C4-4e96-B54A-FC781BF987AB">
 	<contextName xml:lang="en">ecoinvent</contextName>
+	<property id="22ca28a0-51e6-4f82-9ae7-b6c22a59abb9" defaultVariableName="He_content" unitId="577e242a-461f-44a7-922c-d8e1c3d2bf45">
+		<name xml:lang="en">helium content</name>
+		<unitName xml:lang="en">dimensionless</unitName>
+		<comment xml:lang="en">helium content on a dry matter basis</comment>
+	</property>
 </validProperties>

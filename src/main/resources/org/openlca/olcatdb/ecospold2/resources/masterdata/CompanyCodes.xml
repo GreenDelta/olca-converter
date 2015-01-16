@@ -1,6 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<companyCodes
-        xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02CompanyCodes.xsd"
+<validCompanies
+        majorRelease="3" minorRelease="0" majorRevision="0" minorRevision="263"
+        contextId="de659012-50c4-4e96-b54a-fc781bf987ab"
+        xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Companies.xsd"
         xmlns="http://www.EcoInvent.org/EcoSpold02"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-</companyCodes>
+        <contextName xml:lang="en">ecoinvent</contextName>
+        <company id="d62f5701-e740-47ef-b76d-c92ffa2e8745" code="PRE">
+                <name xml:lang="en">PRé Consultants</name>
+        </company>
+        <company id="ca667a2e-76ca-4518-92cf-1645f7e67668" code="UMILANB">
+                <name xml:lang="en">University of Milano–Bicocca</name>
+        </company>
+        <company id="55f06a13-f32a-4a71-a512-acd6f5b54aa1" code="SINUM">
+                <name xml:lang="en">Sinum AG</name>
+        </company>
+        <company id="8ae66377-73b6-4a64-abe6-129d7a52c718" code="GREENHO">
+                <name xml:lang="en">The Green House</name>
+        </company>
+        <company id="e4db2e0c-d8cc-4452-a252-408939ee4135" code="MSG">
+                <name xml:lang="en">MSG Management System Group AB</name>
+        </company>
+        <company id="fc9772f0-d238-430c-b567-451aed2aec38" code="Inèdit" >
+                <name xml:lang="en">Inèdit Innovation S.L.</name>
+                <comment xml:lang="en">Inèdit is the spin off of the Sostenipra research group (UAB). www.sostenipra.cat</comment>
+        </company>
+        <company id="c06ed0fb-18da-4fc0-a974-8c7612537080" code="FAT">
+                <name xml:lang="en">Forschungsanstalt für Agrarwissenschaft und Landtech (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="a32b9141-2845-4069-9715-ad2921b366f7" code="MINESPT">
+                <name xml:lang="en">Mines ParisTech</name>
+        </company>
+        <company id="e6d80742-6e84-4a34-82f2-63ca03db0f9b" code="DTU">
+                <name xml:lang="en">Technical University of Denmark</name>
+        </company>
+        <company id="57ad4b94-8447-476f-8642-e19580089b2d" code="ETH-UNS">
+                <name xml:lang="en">Umweltnatur- und -socialwissenschaften, ETH Zürich (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="55302d03-856a-4b9d-bf3c-e63fa7211160" code="IFEU" >
+                <name xml:lang="en">IFEU GmbH</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="9f022e15-6478-40e7-b613-68e22c7f7fe6" code="TSC" >
+                <name xml:lang="en">Arizona State University, The Sustainability Consortium</name>
+                <comment xml:lang="en">The Sustainability Consortium (TSC) is jointly administered by Arizona State University (Tempe, Arizona [USA]) and the University of Arkansas (Fayetteville, Arkansas [USA]).</comment>
+        </company>
+        <company id="e85a173e-4484-4a65-b5f1-d4c1edbbfc4a" code="B+H">
+                <name xml:lang="en">Basler und Hofmann</name>
+        </company>
+        <company id="3586fcf5-3eae-4a35-a395-92099f50ce3a" code="NTNU" >
+                <name xml:lang="en">Norwegian University of Science and Technology</name>
+        </company>
+        <company id="950fd121-d3a7-40dd-8f18-84c4f7e5cf71" code="EPFL">
+                <name xml:lang="en">Ecole Polytechnique Federale de Lausanne</name>
+        </company>
+        <company id="a55e3aaa-ccee-4a14-bdb8-46e9c2a39af8" code="SBB">
+                <name xml:lang="en">SBB</name>
+        </company>
+        <company id="a468e77f-1d55-4fb8-8480-5682b71959a0" code="UAM">
+                <name xml:lang="en">Universidad Autonoma Metropolitana</name>
+        </company>
+        <company id="26c315c4-a32b-41d0-a326-7464b9f32312" code="DBL">
+                <name xml:lang="en">De Beaufort-Langeveld</name>
+        </company>
+        <company id="83cb6cd0-2946-4a3b-9089-6faa236f87c0" code="JGPEMMG">
+                <name xml:lang="en">JG Proyectos, El Masnou Marcel Gómez Consultoria Ambiental SL</name>
+        </company>
+        <company id="e55639d9-7d5e-4b22-a7a1-559d33a513c1" code="USAKUNI">
+                <name xml:lang="en">Usak University</name>
+        </company>
+        <company id="bbf9cfb4-e253-4419-9d84-f206a3b64de7" code="ECOINV">
+                <name xml:lang="en">ecoinvent Centre</name>
+        </company>
+        <company id="f3ed705a-eb4a-47d3-a982-e0259d8e55e9" code="oeko" >
+                <name xml:lang="en">Öko-Institut e. V.</name>
+        </company>
+        <company id="54b5cd68-ce23-4c09-8fa2-a7922f348785" code="FOURELE" >
+                <name xml:lang="en">Four Elements Consulting, LLC</name>
+                <comment xml:lang="en">Certified Life Cycle Assessment practitioners</comment>
+        </company>
+        <company id="cf735038-eb44-4c9c-bd65-3f66a4487641" code="AARHUSU">
+                <name xml:lang="en">Aarhus University</name>
+        </company>
+        <company id="ec77ba21-4f5d-4544-aac0-f3f412fe4c18" code="PERUGIA">
+                <name xml:lang="en">Università degli Studi di Perugia</name>
+        </company>
+        <company id="0dafd880-5a70-4f92-b4d5-8eedc73cf898" code="IFU">
+                <name xml:lang="en">Institut für Umweltinformatik</name>
+        </company>
+        <company id="10112009-bd5e-47e4-afb3-a568462ed08a" code="U+E">
+                <name xml:lang="en">Werner Umwelt &amp; Entwicklung</name>
+        </company>
+        <company id="58969e52-c68d-4a90-8334-e69a5672fe30" code="ATLANTC">
+                <name xml:lang="en">Atlantic Consulting</name>
+        </company>
+        <company id="4961460e-b59c-4657-8b33-71647f93013b" code="IERS" >
+                <name xml:lang="en">IERS, LLC</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="47b248b7-d191-4e53-921b-8bfb4692ebef" code="ESU">
+                <name xml:lang="en">ESU-services</name>
+        </company>
+        <company id="9d4b4780-3a01-43f0-bc28-13d0c3b0c284" code="OEKOSCI">
+                <name xml:lang="en">Chudacoff Oekoscience</name>
+        </company>
+        <company id="8b05ba4e-0fdc-46b7-94d7-90a747d02d13" code="CIRAIG">
+                <name xml:lang="en">CIRAIG, Ecole Polytechnique Montreal</name>
+        </company>
+        <company id="9eb9641e-0c3f-4f6c-89b0-13bcfade0f14" code="UNIBARI">
+                <name xml:lang="en">University of Bari</name>
+        </company>
+        <company id="a7d7e41e-2693-4dd7-b05f-f1196543676c" code="BSESMUC">
+                <name xml:lang="en">Bren School of Environmental Science &amp; Management, University of California Santa Barbara</name>
+        </company>
+        <company id="6d8e2e43-8463-4d80-95e8-803c2005f0fa" code="EMPA">
+                <name xml:lang="en">Eidgenössische Materialprüf- und -forschungsanstalt</name>
+        </company>
+        <company id="3e3bd3c4-4d55-4ed8-8142-58ec81f948cc" code="MYC" >
+                <name xml:lang="en">Stiftung myclimate - The Climate Protection Partnership</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="652a0849-bdfa-4de5-87a4-a25564acebd7" code="GDTC">
+                <name xml:lang="en">GreenDeltaTC</name>
+        </company>
+        <company id="ee0f093b-8180-4cae-a509-1aee524e3d30" code="UFBA" >
+                <name xml:lang="en">Federal University of Bahia</name>
+                <comment xml:lang="en">www.teclim.ufba.br</comment>
+        </company>
+        <company id="10aa5c2c-bf78-4737-b9a5-e9f3ad530b74" code="CARBOTE">
+                <name xml:lang="en">Carbotech AG</name>
+        </company>
+        <company id="5c2c844e-8a68-425d-b6aa-052564660e7c" code="IIASA">
+                <name xml:lang="en">International Institute for Applied Systems Analysis</name>
+        </company>
+        <company id="40d1707f-1333-4a10-86e4-557ac6aacaef" code="USSIENA">
+                <name xml:lang="en">Università degli Studi di Siena</name>
+        </company>
+        <company id="0d50c8bf-2d81-4f34-9703-0f60c3e9e693" code="USP">
+                <name xml:lang="en">Universidade de São Paulo</name>
+        </company>
+        <company id="75e8d59a-919a-4339-ab04-b1d35fd617a7" code="UPC" >
+                <name xml:lang="en">Universitat Politècnica de Catalunya</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="e7864012-d383-4169-a50d-285ca9160670" code="ZE" >
+                <name xml:lang="en">Zuhlke Engineering</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="4df9d47a-5fbc-40f4-a534-b2edfb725b8e" code="ETH-ESD">
+                <name xml:lang="en">Ecological Systems Design, ETH Zürich (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="29f0aea4-8bb3-405c-b3bb-44f35a65202b" code="SCHLEIS">
+                <name xml:lang="en">Umwelt- und Kompostberatung</name>
+        </company>
+        <company id="a4be09c6-43c2-428d-913e-44e5c5d69d05" code="HYU" >
+                <name xml:lang="en">Hanyang Univ. suBest Lab.</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="ec912006-a30a-43e6-92fa-83954da09492" code="VEOLIA">
+                <name xml:lang="en">Veolia</name>
+        </company>
+        <company id="e01cc883-b52b-463f-87f0-0718e33230df" code="MASSEYU">
+                <name xml:lang="en">Massey University</name>
+        </company>
+        <company id="0ff3fe4d-c614-4eb5-a756-5768b5f7262f" code="CRPHTLU">
+                <name xml:lang="en">Centre de Ressources des Technologies pour l'Environnement, CRP Henri Tudor</name>
+        </company>
+        <company id="c679c9ab-c5eb-4f59-874a-4c98bc5c39ce" code="LCS">
+                <name xml:lang="en">Ecointesys - Life Cycle Systems</name>
+        </company>
+        <company id="a3121287-f2ba-4819-a916-c0270e1f625e" code="CYCU">
+                <name xml:lang="en">Chung Yuan Christian University</name>
+        </company>
+        <company id="553ab078-fe09-415f-93fe-752ae2a4fafe" code="VTT">
+                <name xml:lang="en">VTT Technical Research Centre</name>
+        </company>
+        <company id="b80adab6-341c-4aa2-9309-5cd3b0fd14d9" code="KERP" >
+                <name xml:lang="en">KERP Research GmbH</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="d68a32e1-2fe5-43fb-96f9-8746b09b9afc" code="EAWAG">
+                <name xml:lang="en">Eidg. Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz</name>
+        </company>
+        <company id="e43ddfaf-bcc4-41d3-8f08-7eeb7e8e345a" code="ULPGC" >
+                <name xml:lang="en">Universidad de Las Palmas de Gran Canaria</name>
+                <comment xml:lang="en">alozano@dfis.ulpgc.es</comment>
+        </company>
+        <company id="6a55e2ca-c9e8-44ec-abbb-f3de306d8acc" code="DANISCO">
+                <name xml:lang="en">Danisco A/S</name>
+        </company>
+        <company id="ad0ed468-cb7d-4f22-b60c-f97a33a2f5b5" code="NOENTRY">
+                <name xml:lang="en">NOENTRY</name>
+                <comment xml:lang="en">legacy company entry not to be used</comment>
+        </company>
+        <company id="a5d7ecbc-46d0-48ac-a51e-fe78bf24703f" code="ACTI">
+                <name xml:lang="en">Agência Cérebro Tecnologia da Informação Ltda</name>
+        </company>
+        <company id="f1423bcc-aa33-4f34-8bb6-f7c6bdfaf261" code="E2MC">
+                <name xml:lang="en">E2 Management Consulting AG</name>
+        </company>
+        <company id="f93340e9-5136-498c-8bb3-61d99252f201" code="IRTA">
+                <name xml:lang="en">Institut de Reserca i Technologica Agroalimentaries</name>
+        </company>
+        <company id="7233e523-7005-43e5-afcb-ea507b8cca18" code="JHTI">
+                <name xml:lang="en">Johann Heinrich von Thünen Institut</name>
+        </company>
+        <company id="acf26e68-822d-4774-8adf-8d18014b5ccb" code="EMPA-SG">
+                <name xml:lang="en">Empa St. Gallen (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="e2541f85-6438-4040-8057-91e2f9090f89" code="PE">
+                <name xml:lang="en">PE International</name>
+        </company>
+        <company id="67add2e1-d92f-415f-a59f-fe39f4897334" code="RADBOUD">
+                <name xml:lang="en">Radboud University Nijmegen</name>
+        </company>
+        <company id="cfdf340c-2e6c-4ba7-a8f5-b9e599aad975" code="UU">
+                <name xml:lang="en">Utrecht University</name>
+        </company>
+        <company id="89945d34-8841-4b76-b3b1-0864129ae2bd" code="TULISBO">
+                <name xml:lang="en">Technical University of Lisbon</name>
+        </company>
+        <company id="dc1bfe46-07ee-4da0-8360-77c1a9fd10f8" code="BIOIS">
+                <name xml:lang="en">Bio Intelligence Service</name>
+        </company>
+        <company id="bbe98747-8bda-4617-bf54-4904a25c8935" code="UBAYREU">
+                <name xml:lang="en">University Bayreuth</name>
+        </company>
+        <company id="a08786a2-8cb8-46a4-a5e3-3abcae759d1c" code="ART">
+                <name xml:lang="en">Forschungsanstalt Agroscope Reckenholz-Tänikon ART</name>
+        </company>
+        <company id="fa6cc9f1-5b6f-4923-9886-d7b6a4bd3408" code="ALMERIA">
+                <name xml:lang="en">Universidad de Almería</name>
+        </company>
+        <company id="3f7bc4bb-4a28-4d34-b834-ac0a865e58bc" code="MTTAGRO">
+                <name xml:lang="en">MTT Agrifood Research</name>
+        </company>
+        <company id="21911f8c-77c0-449d-9651-7e4d4935f871" code="UTSYDNE">
+                <name xml:lang="en">University of Technology Sydney</name>
+        </company>
+        <company id="d5024fa4-604b-4afc-a8ba-73becb08392f" code="WUPPERT">
+                <name xml:lang="en">Wuppertal Institute for Climate, Environment and Energy</name>
+        </company>
+        <company id="4efaf62a-9844-4edd-803c-2bd2a4ad78c1" code="UTFP">
+                <name xml:lang="en">Universidade Tecnológica Federal do Paraná</name>
+        </company>
+        <company id="c9fb9106-e13c-4752-a7d5-da14c764ba8f" code="2BCA">
+                <name xml:lang="en">2B Consulenza Ambientale</name>
+        </company>
+        <company id="2671e43a-555b-4ed1-a6a9-e8e32b10116d" code="BAUCHEM">
+                <name xml:lang="en">BAU- UND UMWELTCHEMIE Beratungen + Messungen AG</name>
+        </company>
+        <company id="4cc03c52-145e-403d-aa84-22d6cb5e15e4" code="treeze">
+                <name xml:lang="en">treeze</name>
+        </company>
+        <company id="ab5082c8-b55d-43dc-b4de-d06c989c36f9" code="ETH S+U">
+                <name xml:lang="en">Gruppe für Umwelt- und Sicherheitstechnologien, ETH Zürich (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="382ac484-3b32-4741-9d38-e906c971545b" code="LCE" >
+                <name xml:lang="en">Life Cycle Engineering</name>
+        </company>
+        <company id="8b5d0b44-0b93-4882-a511-3717c8c5bb6f" code="CIRAD">
+                <name xml:lang="en">Centre de coopération Internationale en Recherche Agronomique pour le Développement</name>
+        </company>
+        <company id="c06a0d84-3d1b-4955-b635-069acb9fb9ab" code="ULEIDEN">
+                <name xml:lang="en">Universiteit Leiden</name>
+        </company>
+        <company id="7e5958fc-dd23-432b-bf0b-cef6cedee572" code="CYCLECO">
+                <name xml:lang="en">Cycleco</name>
+        </company>
+        <company id="a6b2a2ce-48c1-497d-b12b-67107ad24fb3" code="UMWELTC" >
+                <name xml:lang="en">Büro für Umweltchemie</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="13e92627-0323-4a5b-8ea0-ef5497f5ec1d" code="INFRAS">
+                <name xml:lang="en">Infras</name>
+        </company>
+        <company id="55b1528c-1301-456c-b851-24125d2f47c1" code="QUANTIS">
+                <name xml:lang="en">Quantis</name>
+        </company>
+        <company id="21aed770-3078-4da8-940f-a3b04a3c68d2" code="ETHZ">
+                <name xml:lang="en">ETH Zürich</name>
+        </company>
+        <company id="d5564944-38e9-4a8f-82e5-996002a6f2a8" code="RMIT">
+                <name xml:lang="en">RMIT University</name>
+        </company>
+        <company id="91ba92dd-3c30-4ac7-a831-d52b6b6fbc0b" code="LCSTRAT">
+                <name xml:lang="en">Life Cycle Strategies</name>
+        </company>
+        <company id="a7712b38-b404-4020-b484-eb40c0624a82" code="2.-0LCA">
+                <name xml:lang="en">2.-0 LCA consultants</name>
+        </company>
+        <company id="d02341df-4e92-458a-ae91-c41240da0004" code="INTEP">
+                <name xml:lang="en">Intep Integrale Planung GmbH</name>
+        </company>
+        <company id="0c6f9ad8-5a12-4dc8-ae57-46df1116d972" code="IntlAlu" >
+                <name xml:lang="en">International Aluminium Institute</name>
+        </company>
+        <company id="eb20c3cb-155a-4e32-b47b-d928d0cddf32" code="UNILEV">
+                <name xml:lang="en">Unilever</name>
+        </company>
+        <company id="8890668d-b4a5-4035-9ac2-ce1d038811d8" code="FAL">
+                <name xml:lang="en">Forschungsanstalt für Agrarökologie und Landbau (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="caf5d798-e699-4481-8a77-645e0565682f" code="SAMME">
+                <name xml:lang="en">School of Aerospace, Mechanical and Manufacturing Engineering</name>
+        </company>
+        <company id="d4a3460b-616e-4afa-be4a-0cc5a4f5ca6c" code="GHENTU">
+                <name xml:lang="en">Ghent University</name>
+        </company>
+        <company id="068c5950-c33b-4f82-9d38-97fcd67b14f8" code="DOKA">
+                <name xml:lang="en">Doka Life Cycle Assessments</name>
+        </company>
+        <company id="7a4044a8-e22b-4f23-aa56-26a32749ee9a" code="NCASI">
+                <name xml:lang="en">National Council for Air &amp; Stream Improvement</name>
+        </company>
+        <company id="00c0dbac-3979-466f-a799-a677838619ba" code="APPR">
+                <name xml:lang="en">Association of Postconsumer Plastic Recyclers</name>
+        </company>
+        <company id="5905bd8d-5878-40da-b110-54b797a88f63" code="ECN">
+                <name xml:lang="en">Energy research Centre of the Netherlands ECN, Unit Solar Energy</name>
+        </company>
+        <company id="e22989d2-b4c7-4bec-bedf-fe1990cb64d4" code="PSI">
+                <name xml:lang="en">Paul Scherrer Institute</name>
+        </company>
+        <company id="6e5ab197-fef5-4a0a-a50c-5fe9d49e2cf4" code="INRA">
+                <name xml:lang="en">INRA</name>
+        </company>
+        <company id="758b7bfd-1e55-4bb5-b39c-f2334078923f" code="UAVEIRO">
+                <name xml:lang="en">University of Aveiro</name>
+        </company>
+        <company id="bf9b2678-8335-48ca-a741-e63f4ab4a5e6" code="EMPA-DU">
+                <name xml:lang="en">Empa Dübendorf (obsolete)</name>
+                <comment xml:lang="en">obsolete</comment>
+        </company>
+        <company id="09dce163-59db-422d-8623-f6aee7aa52b3" code="SIK">
+                <name xml:lang="en">SIK - Swedish Institute for Food and Biotechnology</name>
+        </company>
+        <company id="6e8315b5-8281-48b9-a170-6f03e5aaac3d" code="TCMEBRO">
+                <name xml:lang="en">Technological Centre of Miranda de Ebro</name>
+        </company>
+        <company id="4c8a9f72-24df-456c-80f3-c4297a2359a6" code="ENERS">
+                <name xml:lang="en">ENERS Energy Concept</name>
+        </company>
+        <company id="67a3ac5d-9e62-4498-8daf-485d8920375b" code="AVENY" >
+                <name xml:lang="en">Aveny</name>
+                <comment xml:lang="en"></comment>
+        </company>
+        <company id="12b0857b-7a23-418d-960b-3c0bfffc11d7" code="ASMI" >
+                <name xml:lang="en">Athena Sustainable Materials Institute</name>
+                <comment xml:lang="en"></comment>
+        </company>
+</validCompanies>

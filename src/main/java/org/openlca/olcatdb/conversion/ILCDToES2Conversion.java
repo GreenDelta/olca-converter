@@ -1156,9 +1156,10 @@ class ILCDToES2Conversion extends AbstractConversionImpl {
 		}
 
 		// copyright
-		if (iPublication.copyright != null) {
+		if (iPublication.copyright != null)
 			ePublication.isCopyrightProtected = iPublication.copyright;
-		}
+		else
+			ePublication.isCopyrightProtected = false;
 	}
 
 	/**

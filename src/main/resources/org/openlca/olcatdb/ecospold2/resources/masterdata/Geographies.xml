@@ -1,6 +1,1723 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<geographies
+<validGeographies
+		majorRelease="3" minorRelease="0" majorRevision="0" minorRevision="1186"
+		contextId="de659012-50c4-4e96-b54a-fc781bf987ab"
 	xmlns="http://www.EcoInvent.org/EcoSpold02"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Geographies.xsd">
-</geographies>
+	<contextName xml:lang="en">ecoinvent</contextName>
+	<geography id="fd6f25d2-7e2d-11de-9820-0019e336be3a" longitude="48.6680092068" latitude="28.5463502064">
+		<name xml:lang="en">Middle East</name>
+		<shortname xml:lang="en">RME</shortname>
+		<kml />
+	</geography>
+	<geography id="105b361e-7d7e-11de-9ae2-0019e336be3a" longitude="21.304" latitude="-80.446">
+		<name xml:lang="en">Antarctica</name>
+		<shortname xml:lang="en">AQ</shortname>
+		<kml />
+	</geography>
+	<geography id="0a46f524-7d7e-11de-9ae2-0019e336be3a" longitude="25.231" latitude="42.761">
+		<name xml:lang="en">Bulgaria</name>
+		<shortname xml:lang="en">BG</shortname>
+		<kml />
+	</geography>
+	<geography id="2b57aeea-88d5-11de-99d3-0019e336be3a" longitude="105.256771985" latitude="38.2144415109">
+		<name xml:lang="en">Eastern Asia</name>
+		<shortname xml:lang="en">UN-EASIA</shortname>
+		<kml />
+	</geography>
+	<geography id="10061efe-7d7e-11de-9ae2-0019e336be3a" longitude="-5.345" latitude="36.138">
+		<name xml:lang="en">Gibraltar</name>
+		<shortname xml:lang="en">GI</shortname>
+		<kml />
+	</geography>
+	<geography id="cef71bbd-ab04-4959-ac3b-89a0c55e2e8c">
+		<name xml:lang="en">Bonaire, Sint Eustatius, and Saba</name>
+		<shortname xml:lang="en">BQ</shortname>
+		<kml />
+	</geography>
+	<geography id="1347b0a0-7d7e-11de-9ae2-0019e336be3a" longitude="35.179" latitude="39.061">
+		<name xml:lang="en">Turkey</name>
+		<shortname xml:lang="en">TR</shortname>
+		<kml />
+	</geography>
+	<geography id="42e6cfaf-ffa3-4f42-85bb-55e1b1c40c56" longitude="-82.2395749616" latitude="40.8119077976">
+		<name xml:lang="en">ReliabilityFirst Corporation</name>
+		<shortname xml:lang="en">RFC</shortname>
+		<kml />
+	</geography>
+	<geography id="10f1ec30-7d7e-11de-9ae2-0019e336be3a" longitude="8.74" latitude="61.152">
+		<name xml:lang="en">Norway</name>
+		<shortname xml:lang="en">NO</shortname>
+		<kml />
+	</geography>
+	<geography id="13fd916a-e62c-11de-ba56-0019e336be3a" longitude="147.878212248" latitude="-7.79665942325">
+		<name xml:lang="en">Melanesia</name>
+		<shortname xml:lang="en">UN-MELANESIA</shortname>
+		<kml />
+	</geography>
+	<geography id="13293cec-7d7e-11de-9ae2-0019e336be3a" longitude="69.42" latitude="38.665">
+		<name xml:lang="en">Tajikistan</name>
+		<shortname xml:lang="en">TJ</shortname>
+		<kml />
+	</geography>
+	<geography id="0f0215a8-7d7e-11de-9ae2-0019e336be3a" longitude="126.451" latitude="39.778">
+		<name xml:lang="en">Korea, Democratic People's Republic of</name>
+		<shortname xml:lang="en">KP</shortname>
+		<kml />
+	</geography>
+	<geography id="0d7e9abc-7d7e-11de-9ae2-0019e336be3a" longitude="-15.386" latitude="13.453">
+		<name xml:lang="en">Gambia</name>
+		<shortname xml:lang="en">GM</shortname>
+		<kml />
+	</geography>
+	<geography id="09b1a988-7d7e-11de-9ae2-0019e336be3a" longitude="136.189" latitude="-24.973">
+		<name xml:lang="en">Australia</name>
+		<shortname xml:lang="en">AU</shortname>
+		<kml />
+	</geography>
+	<geography id="39185d7c-a546-424b-8605-6bc8e94e109f" longitude="-99.6458396937" latitude="50.5879226965">
+		<name xml:lang="en">Midwest Reliability Organization</name>
+		<shortname xml:lang="en">MRO</shortname>
+		<kml />
+	</geography>
+	<geography id="0eed3c64-7d7e-11de-9ae2-0019e336be3a" longitude="-77.32" latitude="18.151">
+		<name xml:lang="en">Jamaica</name>
+		<shortname xml:lang="en">JM</shortname>
+		<kml />
+	</geography>
+	<geography id="0e6a7860-7d7e-11de-9ae2-0019e336be3a" longitude="78.5" latitude="21">
+		<name xml:lang="en">India</name>
+		<shortname xml:lang="en">IN</shortname>
+		<kml />
+	</geography>
+	<geography id="114ebb04-7d7e-11de-9ae2-0019e336be3a" longitude="19.401" latitude="52.125">
+		<name xml:lang="en">Poland</name>
+		<shortname xml:lang="en">PL</shortname>
+		<kml />
+	</geography>
+	<geography id="cff5fe64-d6cf-4256-8bd0-428dc0f104f6">
+		<name xml:lang="en">South Sudan</name>
+		<shortname xml:lang="en">SS</shortname>
+		<kml />
+	</geography>
+	<geography id="09f36814-7d7e-11de-9ae2-0019e336be3a" longitude="-88.602" latitude="17.219">
+		<name xml:lang="en">Belize</name>
+		<shortname xml:lang="en">BZ</shortname>
+		<kml />
+	</geography>
+	<geography id="09db3260-7e2a-11de-9820-0019e336be3a" longitude="-65.6243982724" latitude="-10.1194147825">
+		<name xml:lang="en">Latin America and the Caribbean</name>
+		<shortname xml:lang="en">RLA</shortname>
+		<kml />
+	</geography>
+	<geography id="0d8feaa6-7d7e-11de-9ae2-0019e336be3a" longitude="43.518" latitude="42.176">
+		<name xml:lang="en">Georgia</name>
+		<shortname xml:lang="en">GE</shortname>
+		<kml />
+	</geography>
+	<geography id="0e3b3d98-7d7e-11de-9ae2-0019e336be3a" longitude="-58.974" latitude="4.792">
+		<name xml:lang="en">Guyana</name>
+		<shortname xml:lang="en">GY</shortname>
+		<kml />
+	</geography>
+	<geography id="12a65db8-7d7e-11de-9ae2-0019e336be3a" longitude="55.474" latitude="-4.647">
+		<name xml:lang="en">Seychelles</name>
+		<shortname xml:lang="en">SC</shortname>
+		<kml />
+	</geography>
+	<geography id="34dbbff8-88ce-11de-ad60-0019e336be3a">
+		<name xml:lang="en">Global</name>
+		<shortname xml:lang="en">GLO</shortname>
+		<comment>
+			<text xml:lang="en" index="0">Generic global geography</text>
+		</comment>
+	</geography>
+	<geography id="0a4bff9c-7d7e-11de-9ae2-0019e336be3a" longitude="114.591" latitude="4.468">
+		<name xml:lang="en">Brunei Darussalam</name>
+		<shortname xml:lang="en">BN</shortname>
+		<kml />
+	</geography>
+	<geography id="de74489a-e3bf-4b3a-8463-b7b9eba8a8fb" longitude="6.48722066413" latitude="48.5320673436">
+		<name xml:lang="en">Western Europe</name>
+		<shortname xml:lang="en">WEU</shortname>
+		<kml />
+	</geography>
+	<geography id="26c31b7c-e0d1-11de-823b-0019e336be3a" longitude="12.5273848868" latitude="46.0384312358">
+		<name xml:lang="en">UCTE without France</name>
+		<shortname xml:lang="en">UCTE without France</shortname>
+		<kml />
+	</geography>
+	<geography id="132fcda0-7d7e-11de-9ae2-0019e336be3a" longitude="-171.853" latitude="-9.193">
+		<name xml:lang="en">Tokelau</name>
+		<shortname xml:lang="en">TK</shortname>
+		<kml />
+	</geography>
+	<geography id="101cf458-7d7e-11de-9ae2-0019e336be3a" longitude="19.254" latitude="42.792">
+		<name xml:lang="en">Montenegro</name>
+		<shortname xml:lang="en">ME</shortname>
+		<kml />
+	</geography>
+	<geography id="a7b38401-afb6-4130-86f6-cd5184c6c40e" longitude="-86.4752411726" latitude="34.9951368575">
+		<name xml:lang="en">SERC Reliability Corporation</name>
+		<shortname xml:lang="en">SERC</shortname>
+		<kml />
+	</geography>
+	<geography id="10cadb86-7d7e-11de-9ae2-0019e336be3a" longitude="-160.027" latitude="-0.385">
+		<name xml:lang="en">United States Minor Outlying Islands</name>
+		<shortname xml:lang="en">UM</shortname>
+		<kml />
+	</geography>
+	<geography id="1387ef8a-7d7e-11de-9ae2-0019e336be3a" longitude="31.388" latitude="49.016">
+		<name xml:lang="en">Ukraine</name>
+		<shortname xml:lang="en">UA</shortname>
+		<kml />
+	</geography>
+	<geography id="0f0882c6-7d7e-11de-9ae2-0019e336be3a" longitude="175.036" latitude="-1.508">
+		<name xml:lang="en">Kiribati</name>
+		<shortname xml:lang="en">KI</shortname>
+		<kml />
+	</geography>
+	<geography id="15177c76-7d7e-11de-9ae2-0019e336be3a" longitude="-71.95" latitude="21.902">
+		<name xml:lang="en">Turks and Caicos Islands</name>
+		<shortname xml:lang="en">TC</shortname>
+		<kml />
+	</geography>
+	<geography id="153e85be-7d7e-11de-9ae2-0019e336be3a" longitude="-63.043" latitude="18.04">
+		<name xml:lang="en">Saint Barthelemy</name>
+		<shortname xml:lang="en">BL</shortname>
+		<kml />
+	</geography>
+	<geography id="119679bc-7d7e-11de-9ae2-0019e336be3a" longitude="122.466" latitude="11.118">
+		<name xml:lang="en">Philippines</name>
+		<shortname xml:lang="en">PH</shortname>
+		<kml />
+	</geography>
+	<geography id="100cd4b0-7d7e-11de-9ae2-0019e336be3a" longitude="6.088" latitude="49.771">
+		<name xml:lang="en">Luxembourg</name>
+		<shortname xml:lang="en">LU</shortname>
+		<kml />
+	</geography>
+	<geography id="09818690-7d7e-11de-9ae2-0019e336be3a" longitude="44.563" latitude="40.534">
+		<name xml:lang="en">Armenia</name>
+		<shortname xml:lang="en">AM</shortname>
+		<kml />
+	</geography>
+	<geography id="8cd8dbae-aa08-44b0-be67-6ed7e876cedd">
+		<name xml:lang="en">Nova Scotia</name>
+		<shortname xml:lang="en">CA-NS</shortname>
+		<kml />
+	</geography>
+	<geography id="0f6c1a98-7d7e-11de-9ae2-0019e336be3a" longitude="102.876" latitude="46.056">
+		<name xml:lang="en">Mongolia</name>
+		<shortname xml:lang="en">MN</shortname>
+		<kml />
+	</geography>
+	<geography id="10df2fe6-7d7e-11de-9ae2-0019e336be3a" longitude="5.389" latitude="52.077">
+		<name xml:lang="en">Netherlands</name>
+		<shortname xml:lang="en">NL</shortname>
+		<kml />
+	</geography>
+	<geography id="14ba15f4-7d7e-11de-9ae2-0019e336be3a" longitude="114.252" latitude="-0.976">
+		<name xml:lang="en">Indonesia</name>
+		<shortname xml:lang="en">ID</shortname>
+		<kml />
+	</geography>
+	<geography id="0e56bc44-7d7e-11de-9ae2-0019e336be3a" longitude="19.134" latitude="47.07">
+		<name xml:lang="en">Hungary</name>
+		<shortname xml:lang="en">HU</shortname>
+		<kml />
+	</geography>
+	<geography id="0cd04f34-7d7e-11de-9ae2-0019e336be3a" longitude="-83.946" latitude="9.971">
+		<name xml:lang="en">Costa Rica</name>
+		<shortname xml:lang="en">CR</shortname>
+		<kml />
+	</geography>
+	<geography id="0c33b64c-7d7e-11de-9ae2-0019e336be3a" longitude="29.887" latitude="-3.356">
+		<name xml:lang="en">Burundi</name>
+		<shortname xml:lang="en">BI</shortname>
+		<kml />
+	</geography>
+	<geography id="f3b8b2cb-5fd9-4cfc-b947-783a102c739e">
+		<name xml:lang="en">IAl producing Area 3, South America</name>
+		<shortname xml:lang="en">IAI Area 3</shortname>
+		<kml />
+	</geography>
+	<geography id="0a2c8c66-7d7e-11de-9ae2-0019e336be3a" longitude="-53.089" latitude="-10.772">
+		<name xml:lang="en">Brazil</name>
+		<shortname xml:lang="en">BR</shortname>
+		<kml />
+	</geography>
+	<geography id="11663ae0-7d7e-11de-9ae2-0019e336be3a" longitude="143.459" latitude="-5.949">
+		<name xml:lang="en">Papua New Guinea</name>
+		<shortname xml:lang="en">PG</shortname>
+		<kml />
+	</geography>
+	<geography id="0f55e480-7d7e-11de-9ae2-0019e336be3a" longitude="9.555" latitude="47.153">
+		<name xml:lang="en">Liechtenstein</name>
+		<shortname xml:lang="en">LI</shortname>
+		<kml />
+	</geography>
+	<geography id="12f2d954-7d7e-11de-9ae2-0019e336be3a" longitude="-60.969" latitude="13.898">
+		<name xml:lang="en">Saint Lucia</name>
+		<shortname xml:lang="en">LC</shortname>
+		<kml />
+	</geography>
+	<geography id="0fff8e5e-7d7e-11de-9ae2-0019e336be3a" longitude="-6.864" latitude="62.05">
+		<name xml:lang="en">Faroe Islands</name>
+		<shortname xml:lang="en">FO</shortname>
+		<kml />
+	</geography>
+	<geography id="1d87302d-fd96-4acb-9f9f-d3389ba929b7">
+		<name xml:lang="en">Ontario</name>
+		<shortname xml:lang="en">CA-ON</shortname>
+		<kml />
+	</geography>
+	<geography id="e6d3af00-88d2-11de-99d3-0019e336be3a" longitude="22.5350177988" latitude="-25.4900597391">
+		<name xml:lang="en">Southern Africa</name>
+		<shortname xml:lang="en">UN-SASIA</shortname>
+		<kml />
+	</geography>
+	<geography id="09da334e-7d7e-11de-9ae2-0019e336be3a" longitude="-78.014" latitude="24.628">
+		<name xml:lang="en">Bahamas</name>
+		<shortname xml:lang="en">BS</shortname>
+		<kml />
+	</geography>
+	<geography id="096781b4-7d7e-11de-9ae2-0019e336be3a" longitude="47.395" latitude="40.43">
+		<name xml:lang="en">Azerbaijan</name>
+		<shortname xml:lang="en">AZ</shortname>
+		<kml />
+	</geography>
+	<geography id="0e1a52e0-7d7e-11de-9ae2-0019e336be3a" longitude="144.707" latitude="13.385">
+		<name xml:lang="en">Guam</name>
+		<shortname xml:lang="en">GU</shortname>
+		<kml />
+	</geography>
+	<geography id="14644bba-7d7e-11de-9ae2-0019e336be3a" longitude="-177.143975234" latitude="-13.7842681723">
+		<name xml:lang="en">Wallis and Futuna</name>
+		<shortname xml:lang="en">WF</shortname>
+		<kml />
+	</geography>
+	<geography id="144e6f5c-7d7e-11de-9ae2-0019e336be3a" longitude="105.314" latitude="21.491">
+		<name xml:lang="en">Viet Nam</name>
+		<shortname xml:lang="en">VN</shortname>
+		<kml />
+	</geography>
+	<geography id="f87aa98c-d820-11de-a736-0019e336be3a">
+		<name xml:lang="en">European Network of Transmission Systems Operators for Electricity</name>
+		<shortname xml:lang="en">ENTSO-E</shortname>
+		<kml />
+	</geography>
+	<geography id="1351b0f0-7d7e-11de-9ae2-0019e336be3a" longitude="179.219" latitude="-8.514">
+		<name xml:lang="en">Tuvalu</name>
+		<shortname xml:lang="en">TV</shortname>
+		<kml />
+	</geography>
+	<geography id="0a13f5c0-7d7e-11de-9ae2-0019e336be3a" longitude="2.469" latitude="10.541">
+		<name xml:lang="en">Benin</name>
+		<shortname xml:lang="en">BJ</shortname>
+		<kml />
+	</geography>
+	<geography id="ae85cec6-cc61-4a0d-a322-5fb10b6b4ece" longitude="29.8383451426" latitude="54.8047928951">
+		<name xml:lang="en">Europe without Germany, the Netherlands, and Norway</name>
+		<shortname xml:lang="en">RER w/o DE+NL+NO</shortname>
+		<kml />
+	</geography>
+	<geography id="446707ca-ceb0-4e24-b794-73e95e6154c0">
+		<name xml:lang="en">IAl producing Area 2, North America</name>
+		<shortname xml:lang="en">Al producing Area 2, North America</shortname>
+		<kml />
+	</geography>
+	<geography id="1520c2a4-7d7e-11de-9ae2-0019e336be3a" longitude="20.806" latitude="44.032">
+		<name xml:lang="en">Serbia</name>
+		<shortname xml:lang="en">RS</shortname>
+		<kml />
+	</geography>
+	<geography id="0d0e72a0-7d7e-11de-9ae2-0019e336be3a" longitude="-78.497" latitude="-1.385">
+		<name xml:lang="en">Ecuador</name>
+		<shortname xml:lang="en">EC</shortname>
+		<kml />
+	</geography>
+	<geography id="854cdfab-82bf-4c25-8515-ba33589d3efe" longitude="-99.2126487428" latitude="30.9172174315">
+		<name xml:lang="en">Texas Regional Entity</name>
+		<shortname xml:lang="en">TRE</shortname>
+		<kml />
+	</geography>
+	<geography id="0d45a5d6-7d7e-11de-9ae2-0019e336be3a" longitude="15.338" latitude="49.743">
+		<name xml:lang="en">Czech Republic</name>
+		<shortname xml:lang="en">CZ</shortname>
+		<kml />
+	</geography>
+	<geography id="0ff7be54-7d7e-11de-9ae2-0019e336be3a" longitude="114.129" latitude="22.423">
+		<name xml:lang="en">Hong Kong</name>
+		<shortname xml:lang="en">HK</shortname>
+		<kml />
+	</geography>
+	<geography id="f37ced82-5df8-48c2-a207-1e36dd11a112">
+		<name xml:lang="en">Western Electricity Coordinating Council, US part only</name>
+		<shortname xml:lang="en">WECC, US only</shortname>
+		<kml />
+	</geography>
+	<geography id="14a80a4c-7e2a-11de-9820-0019e336be3a" longitude="92.1393690129" latitude="60.9882831546">
+		<name xml:lang="en">Commonwealth of Independent States</name>
+		<shortname xml:lang="en">FSU</shortname>
+		<kml />
+	</geography>
+	<geography id="0f1fdb74-7d7e-11de-9ae2-0019e336be3a" longitude="67.301" latitude="48.16">
+		<name xml:lang="en">Kazakhstan</name>
+		<shortname xml:lang="en">KZ</shortname>
+		<kml />
+	</geography>
+	<geography id="0d751636-7d7e-11de-9ae2-0019e336be3a" longitude="2.55" latitude="46.565">
+		<name xml:lang="en">France</name>
+		<shortname xml:lang="en">FR</shortname>
+		<kml />
+	</geography>
+	<geography id="e3daf92a-88d2-11de-99d3-0019e336be3a" longitude="37.0951986001" latitude="-5.50953147664">
+		<name xml:lang="en">Eastern Africa</name>
+		<shortname xml:lang="en">UN-EAFRICA</shortname>
+		<kml />
+	</geography>
+	<geography id="79565b15-098f-471f-aa28-d7dd611657db" longitude="-97.9052853202" latitude="36.1893042759">
+		<name xml:lang="en">Southwest Power Pool</name>
+		<shortname xml:lang="en">SPP</shortname>
+		<kml />
+	</geography>
+	<geography id="0f59bb46-7d7e-11de-9ae2-0019e336be3a" longitude="18.023" latitude="27.044">
+		<name xml:lang="en">Libya</name>
+		<shortname xml:lang="en">LY</shortname>
+		<kml />
+	</geography>
+	<geography id="0f0f980e-7d7e-11de-9ae2-0019e336be3a" longitude="128.103" latitude="36.504">
+		<name xml:lang="en">Korea, Republic of</name>
+		<shortname xml:lang="en">KR</shortname>
+		<kml />
+	</geography>
+	<geography id="0d0167a4-7d7e-11de-9ae2-0019e336be3a" longitude="42.516" latitude="11.9">
+		<name xml:lang="en">Djibouti</name>
+		<shortname xml:lang="en">DJ</shortname>
+		<kml />
+	</geography>
+	<geography id="1019325a-7d7e-11de-9ae2-0019e336be3a" longitude="35.278" latitude="32.037">
+		<name xml:lang="en">Palestinian Territory, Occupied</name>
+		<shortname xml:lang="en">PS</shortname>
+		<kml />
+	</geography>
+	<geography id="146f1702-7d7e-11de-9ae2-0019e336be3a" longitude="48.355" latitude="15.807">
+		<name xml:lang="en">Yemen</name>
+		<shortname xml:lang="en">YE</shortname>
+		<kml />
+	</geography>
+	<geography id="151bdf00-7d7e-11de-9ae2-0019e336be3a" longitude="-13.706" latitude="24.554">
+		<name xml:lang="en">Western Sahara</name>
+		<shortname xml:lang="en">EH</shortname>
+		<kml />
+	</geography>
+	<geography id="13725fee-7d7e-11de-9ae2-0019e336be3a" longitude="-1.6" latitude="53">
+		<name xml:lang="en">United Kingdom</name>
+		<shortname xml:lang="en">GB</shortname>
+		<kml />
+	</geography>
+	<geography id="147563fa-7d7e-11de-9ae2-0019e336be3a" longitude="26.32" latitude="-14.614">
+		<name xml:lang="en">Zambia</name>
+		<shortname xml:lang="en">ZM</shortname>
+		<kml />
+	</geography>
+	<geography id="09cf6a0e-7d7e-11de-9ae2-0019e336be3a" longitude="50.562" latitude="26.019">
+		<name xml:lang="en">Bahrain</name>
+		<shortname xml:lang="en">BH</shortname>
+		<kml />
+	</geography>
+	<geography id="14fec0f0-7d7e-11de-9ae2-0019e336be3a" longitude="125.878" latitude="-8.822">
+		<name xml:lang="en">Timor-Leste</name>
+		<shortname xml:lang="en">TL</shortname>
+		<kml />
+	</geography>
+	<geography id="09d5d736-7d7e-11de-9ae2-0019e336be3a" longitude="-64.709" latitude="32.336">
+		<name xml:lang="en">Bermuda</name>
+		<shortname xml:lang="en">BM</shortname>
+		<kml />
+	</geography>
+	<geography id="0fe7b522-7d7e-11de-9ae2-0019e336be3a" longitude="9.398" latitude="17.426">
+		<name xml:lang="en">Niger</name>
+		<shortname xml:lang="en">NE</shortname>
+		<kml />
+	</geography>
+	<geography id="12b21766-7d7e-11de-9ae2-0019e336be3a" longitude="23.121" latitude="-30.558">
+		<name xml:lang="en">South Africa</name>
+		<shortname xml:lang="en">ZA</shortname>
+		<kml />
+	</geography>
+	<geography id="154830be-7d7e-11de-9ae2-0019e336be3a" longitude="-36.891" latitude="-54.209">
+		<name xml:lang="en">South Georgia and the South Sandwich Islands</name>
+		<shortname xml:lang="en">GS</shortname>
+		<kml />
+	</geography>
+	<geography id="10033c48-7d7e-11de-9ae2-0019e336be3a" longitude="1.576" latitude="42.549">
+		<name xml:lang="en">Andorra</name>
+		<shortname xml:lang="en">AD</shortname>
+		<kml />
+	</geography>
+	<geography id="12dcac1a-7d7e-11de-9ae2-0019e336be3a" longitude="103.808" latitude="1.351">
+		<name xml:lang="en">Singapore</name>
+		<shortname xml:lang="en">SG</shortname>
+		<kml />
+	</geography>
+	<geography id="117d1850-7d7e-11de-9ae2-0019e336be3a" longitude="55.538" latitude="-21.122">
+		<name xml:lang="en">Reunion</name>
+		<shortname xml:lang="en">RE</shortname>
+		<kml />
+	</geography>
+	<geography id="4ed30b08-88d5-11de-99d3-0019e336be3a" longitude="43.3694647552" latitude="28.4681643997">
+		<name xml:lang="en">Western Asia</name>
+		<shortname xml:lang="en">UN-WASIA</shortname>
+		<kml />
+	</geography>
+	<geography id="1505b46e-7d7e-11de-9ae2-0019e336be3a" longitude="134.57" latitude="7.501">
+		<name xml:lang="en">Palau</name>
+		<shortname xml:lang="en">PW</shortname>
+		<kml />
+	</geography>
+	<geography id="1356be2e-7d7e-11de-9ae2-0019e336be3a" longitude="59.384" latitude="39.122">
+		<name xml:lang="en">Turkmenistan</name>
+		<shortname xml:lang="en">TM</shortname>
+		<kml />
+	</geography>
+	<geography id="7d7ebeeb-b5d0-43c9-9be5-4db6c938bbb3">
+		<name xml:lang="en">Churchill Falls Generating Station</name>
+		<shortname xml:lang="en">Churchill Falls</shortname>
+		<kml />
+	</geography>
+	<geography id="0f4c70f8-7d7e-11de-9ae2-0019e336be3a" longitude="-9.657" latitude="6.682">
+		<name xml:lang="en">Liberia</name>
+		<shortname xml:lang="en">LR</shortname>
+		<kml />
+	</geography>
+	<geography id="0ff33cbc-7d7e-11de-9ae2-0019e336be3a" longitude="4.664" latitude="50.643">
+		<name xml:lang="en">Belgium</name>
+		<shortname xml:lang="en">BE</shortname>
+		<kml />
+	</geography>
+	<geography id="c08de0ce-64e7-4efb-a37f-8df754c262c8">
+		<name xml:lang="en">Curaçao</name>
+		<shortname xml:lang="en">CW</shortname>
+		<kml />
+	</geography>
+	<geography id="14f9e5d0-7d7e-11de-9ae2-0019e336be3a" longitude="54.163" latitude="23.549">
+		<name xml:lang="en">United Arab Emirates</name>
+		<shortname xml:lang="en">AE</shortname>
+		<kml />
+	</geography>
+	<geography id="12ba54da-7d7e-11de-9ae2-0019e336be3a" longitude="28.243" latitude="-29.581">
+		<name xml:lang="en">Lesotho</name>
+		<shortname xml:lang="en">LS</shortname>
+		<kml />
+	</geography>
+	<geography id="0f515f00-7d7e-11de-9ae2-0019e336be3a" longitude="19.491" latitude="48.707">
+		<name xml:lang="en">Slovakia</name>
+		<shortname xml:lang="en">SK</shortname>
+		<kml />
+	</geography>
+	<geography id="868a66d1-7428-4ba2-9125-253b07afc119" longitude="-71.7558689582" latitude="53.390446309">
+		<name xml:lang="en">Québec</name>
+		<shortname xml:lang="en">Québec</shortname>
+		<kml />
+	</geography>
+	<geography id="115546c2-7d7e-11de-9ae2-0019e336be3a" longitude="-80.92" latitude="8.384">
+		<name xml:lang="en">Panama</name>
+		<shortname xml:lang="en">PA</shortname>
+		<kml />
+	</geography>
+	<geography id="6a0f08e3-19ed-4748-a62f-f0920f99d65a" longitude="-15.6740912111" latitude="28.3379092912">
+		<name xml:lang="en">Canary Islands</name>
+		<shortname xml:lang="en">Canary Islands</shortname>
+		<kml />
+	</geography>
+	<geography id="3af78f04-f008-43fd-8e29-dccfba3075c7" longitude="-116.200187823" latitude="46.6002120409">
+		<name xml:lang="en">Western Electricity Coordinating Council</name>
+		<shortname xml:lang="en">WECC</shortname>
+		<kml />
+	</geography>
+	<geography id="0d5bcf64-7d7e-11de-9ae2-0019e336be3a" longitude="177.974" latitude="-17.819">
+		<name xml:lang="en">Fiji</name>
+		<shortname xml:lang="en">FJ</shortname>
+		<kml />
+	</geography>
+	<geography id="92618f91-5370-41d9-b5d4-6a9d60b3239f">
+		<name xml:lang="en">Newfoundland and Labrador</name>
+		<shortname xml:lang="en">CA-NF</shortname>
+		<kml />
+	</geography>
+	<geography id="13685c7e-7d7e-11de-9ae2-0019e336be3a" longitude="32.386" latitude="1.28">
+		<name xml:lang="en">Uganda</name>
+		<shortname xml:lang="en">UG</shortname>
+		<kml />
+	</geography>
+	<geography id="1436d536-7d7e-11de-9ae2-0019e336be3a" longitude="-61.194" latitude="13.248">
+		<name xml:lang="en">Saint Vincent and the Grenadines</name>
+		<shortname xml:lang="en">VC</shortname>
+		<kml />
+	</geography>
+	<geography id="0f35d820-7d7e-11de-9ae2-0019e336be3a" longitude="35.888" latitude="33.92">
+		<name xml:lang="en">Lebanon</name>
+		<shortname xml:lang="en">LB</shortname>
+		<kml />
+	</geography>
+	<geography id="0d9a9384-7d7e-11de-9ae2-0019e336be3a" longitude="-61.678" latitude="12.118">
+		<name xml:lang="en">Grenada</name>
+		<shortname xml:lang="en">GD</shortname>
+		<kml />
+	</geography>
+	<geography id="0e22b962-7d7e-11de-9ae2-0019e336be3a" longitude="21.766" latitude="39.666">
+		<name xml:lang="en">Greece</name>
+		<shortname xml:lang="en">GR</shortname>
+		<kml />
+	</geography>
+	<geography id="0c29d73a-7d7e-11de-9ae2-0019e336be3a" longitude="23.654" latitude="-2.876">
+		<name xml:lang="en">Congo, Democratic Republic of the</name>
+		<shortname xml:lang="en">CD</shortname>
+		<kml />
+	</geography>
+	<geography id="0c0d5768-7d7e-11de-9ae2-0019e336be3a" longitude="104.564" latitude="12.714">
+		<name xml:lang="en">Cambodia</name>
+		<shortname xml:lang="en">KH</shortname>
+		<kml />
+	</geography>
+	<geography id="1188faee-7d7e-11de-9ae2-0019e336be3a" longitude="28.599" latitude="47.193">
+		<name xml:lang="en">Moldova, Republic of</name>
+		<shortname xml:lang="en">MD</shortname>
+		<kml />
+	</geography>
+	<geography id="0e34b6f8-7d7e-11de-9ae2-0019e336be3a" longitude="-10.942" latitude="10.439">
+		<name xml:lang="en">Guinea</name>
+		<shortname xml:lang="en">GN</shortname>
+		<kml />
+	</geography>
+	<geography id="b7ac8bd0-a9d4-4caf-a832-48a0f3660da7">
+		<name xml:lang="en">Asia without China</name>
+		<shortname xml:lang="en">Asia without China</shortname>
+		<kml />
+	</geography>
+	<geography id="0cc14d18-7d7e-11de-9ae2-0019e336be3a" longitude="43.337" latitude="-11.758">
+		<name xml:lang="en">Comoros</name>
+		<shortname xml:lang="en">KM</shortname>
+		<kml />
+	</geography>
+	<geography id="4c344fd5-a67d-412e-adb4-f3191817011f">
+		<name xml:lang="en">Sint Maarten, Dutch part</name>
+		<shortname xml:lang="en">SX</shortname>
+		<kml />
+	</geography>
+	<geography id="12d0bd4c-7d7e-11de-9ae2-0019e336be3a" longitude="14.827" latitude="46.124">
+		<name xml:lang="en">Slovenia</name>
+		<shortname xml:lang="en">SI</shortname>
+		<kml />
+	</geography>
+	<geography id="150dbd3a-7d7e-11de-9ae2-0019e336be3a" longitude="-56.325" latitude="47.042">
+		<name xml:lang="en">Saint Pierre and Miquelon</name>
+		<shortname xml:lang="en">PM</shortname>
+		<kml />
+	</geography>
+	<geography id="f2d812a2-e631-11de-ba56-0019e336be3a" longitude="78.9617689134" latitude="59.9701276677">
+		<name xml:lang="en">Europe, UN Region</name>
+		<shortname xml:lang="en">UN-EUROPE</shortname>
+		<kml />
+	</geography>
+	<geography id="0f6066da-7d7e-11de-9ae2-0019e336be3a" longitude="46.706" latitude="-19.374">
+		<name xml:lang="en">Madagascar</name>
+		<shortname xml:lang="en">MG</shortname>
+		<kml />
+	</geography>
+	<geography id="0fecb5e8-7e2a-11de-9820-0019e336be3a" longitude="-91.9682943062" latitude="58.7105997541">
+		<name xml:lang="en">Northern America</name>
+		<shortname xml:lang="en">RNA</shortname>
+		<kml />
+	</geography>
+	<geography id="6bf93cce-7c23-463e-9962-898efa030fa2">
+		<name xml:lang="en">Alberta</name>
+		<shortname xml:lang="en">CA-AB</shortname>
+		<kml />
+	</geography>
+	<geography id="fd95ae8c-7e2d-11de-9820-0019e336be3a" longitude="18.8218742069" latitude="50.6703682233">
+		<name xml:lang="en">Central European Power Association</name>
+		<shortname xml:lang="en">CENTREL</shortname>
+		<kml />
+	</geography>
+	<geography id="0ce31d3a-7d7e-11de-9ae2-0019e336be3a" longitude="-77.781" latitude="21.297">
+		<name xml:lang="en">Cuba</name>
+		<shortname xml:lang="en">CU</shortname>
+		<kml />
+	</geography>
+	<geography id="b8ce14f4-e09b-4117-b4dd-d74af99da744">
+		<name xml:lang="en">New Brunswick</name>
+		<shortname xml:lang="en">CA-NB</shortname>
+		<kml />
+	</geography>
+	<geography id="0f8a5012-7d7e-11de-9ae2-0019e336be3a" longitude="57.583" latitude="-20.255">
+		<name xml:lang="en">Mauritius</name>
+		<shortname xml:lang="en">MU</shortname>
+		<kml />
+	</geography>
+	<geography id="14679ce8-7d7e-11de-9ae2-0019e336be3a" longitude="-172.414" latitude="-13.652">
+		<name xml:lang="en">Samoa</name>
+		<shortname xml:lang="en">WS</shortname>
+		<kml />
+	</geography>
+	<geography id="0fc883d2-7d7e-11de-9ae2-0019e336be3a" longitude="37.923" latitude="-14.422">
+		<name xml:lang="en">Mozambique</name>
+		<shortname xml:lang="en">MZ</shortname>
+		<kml />
+	</geography>
+	<geography id="1023d322-7d7e-11de-9ae2-0019e336be3a" longitude="19.952" latitude="60.198">
+		<name xml:lang="en">Åland Islands</name>
+		<shortname xml:lang="en">AX</shortname>
+		<kml />
+	</geography>
+	<geography id="09581fbc-7d7e-11de-9ae2-0019e336be3a" longitude="-61.783" latitude="17.078">
+		<name xml:lang="en">Antigua and Barbuda</name>
+		<shortname xml:lang="en">AG</shortname>
+		<kml />
+	</geography>
+	<geography id="5d5718f2-ee74-462a-888c-be4d534ef542" longitude="28.9675361967" latitude="55.6601051637">
+		<name xml:lang="en">Europe without Germany and Switzerland</name>
+		<shortname xml:lang="en">RER w/o CH+DE</shortname>
+		<kml />
+	</geography>
+	<geography id="1ae80e7c-e5e3-11de-a739-0019e336be3a" longitude="-60.7393077459" latitude="-15.0396024424">
+		<name xml:lang="en">South America</name>
+		<shortname xml:lang="en">UN-SAMERICA</shortname>
+		<kml />
+	</geography>
+	<geography id="9232290c-e62b-11de-ba56-0019e336be3a" longitude="136.406721244" latitude="-25.2828869146">
+		<name xml:lang="en">Oceania</name>
+		<shortname xml:lang="en">UN-OCEANIA</shortname>
+		<kml />
+	</geography>
+	<geography id="d509536a-7e28-11de-9820-0019e336be3a" longitude="84.5713463063" latitude="32.2204776952">
+		<name xml:lang="en">Asia, UN Region</name>
+		<shortname xml:lang="en">UN-ASIA</shortname>
+		<kml />
+	</geography>
+	<geography id="50f826e7-ab13-444e-987b-180701b691c9">
+		<name xml:lang="en">Northeast Power Coordinating Council, US part only</name>
+		<shortname xml:lang="en">NPCC, US only</shortname>
+		<kml />
+	</geography>
+	<geography id="13615776-7d7e-11de-9ae2-0019e336be3a" longitude="34.823" latitude="-6.27">
+		<name xml:lang="en">Tanzania, United Republic Of</name>
+		<shortname xml:lang="en">TZ</shortname>
+		<kml />
+	</geography>
+	<geography id="12bee8d8-7d7e-11de-9ae2-0019e336be3a" longitude="23.815" latitude="-22.182">
+		<name xml:lang="en">Botswana</name>
+		<shortname xml:lang="en">BW</shortname>
+		<kml />
+	</geography>
+	<geography id="0cb02330-7d7e-11de-9ae2-0019e336be3a" longitude="-81.198" latitude="19.314">
+		<name xml:lang="en">Cayman Islands</name>
+		<shortname xml:lang="en">KY</shortname>
+		<kml />
+	</geography>
+	<geography id="152d7e40-7d7e-11de-9ae2-0019e336be3a" longitude="18.3744034941" latitude="78.8296488647">
+		<name xml:lang="en">Svalbard and Jan Mayen</name>
+		<shortname xml:lang="en">SJ</shortname>
+		<kml />
+	</geography>
+	<geography id="146af956-7d7e-11de-9ae2-0019e336be3a" longitude="31.497" latitude="-26.562">
+		<name xml:lang="en">Swaziland</name>
+		<shortname xml:lang="en">SZ</shortname>
+		<kml />
+	</geography>
+	<geography id="26bf514e-e62c-11de-ba56-0019e336be3a" longitude="94.3894285779" latitude="7.54880723118">
+		<name xml:lang="en">Micronesia</name>
+		<shortname xml:lang="en">UN-MICRONESIA</shortname>
+		<kml />
+	</geography>
+	<geography id="130d4f28-7d7e-11de-9ae2-0019e336be3a" longitude="38.506" latitude="35.013">
+		<name xml:lang="en">Syrian Arab Republic</name>
+		<shortname xml:lang="en">SY</shortname>
+		<kml />
+	</geography>
+	<geography id="a9c3be27-affe-464c-8ebf-996d8ab6a958" longitude="-143.141803538" latitude="60.5327829034">
+		<name xml:lang="en">Alaska Systems Coordinating Council</name>
+		<shortname xml:lang="en">ASCC</shortname>
+		<kml />
+	</geography>
+	<geography id="0fa9a53e-7d7e-11de-9ae2-0019e336be3a" longitude="-102.535" latitude="23.951">
+		<name xml:lang="en">Mexico</name>
+		<shortname xml:lang="en">MX</shortname>
+		<kml />
+	</geography>
+	<geography id="e89dc6f4-88d2-11de-99d3-0019e336be3a" longitude="-1.1785251683" latitude="14.7414136183">
+		<name xml:lang="en">Western Africa</name>
+		<shortname xml:lang="en">UN-WAFRICA</shortname>
+		<kml />
+	</geography>
+	<geography id="f9221622-cc45-11de-98ed-0019e336be3a" longitude="6.42110325623" latitude="48.5975083916">
+		<name xml:lang="en">Europe without Switzerland</name>
+		<shortname xml:lang="en">Europe without Switzerland</shortname>
+		<kml />
+	</geography>
+	<geography id="0e4809f6-7d7e-11de-9ae2-0019e336be3a" longitude="-86.863" latitude="14.819">
+		<name xml:lang="en">Honduras</name>
+		<shortname xml:lang="en">HN</shortname>
+		<kml />
+	</geography>
+	<geography id="11387d6c-7d7e-11de-9ae2-0019e336be3a" longitude="-75.552" latitude="-9.326">
+		<name xml:lang="en">Peru</name>
+		<shortname xml:lang="en">PE</shortname>
+		<kml />
+	</geography>
+	<geography id="115c647a-7d7e-11de-9ae2-0019e336be3a" longitude="-8.058" latitude="40.309">
+		<name xml:lang="en">Portugal</name>
+		<shortname xml:lang="en">PT</shortname>
+		<kml />
+	</geography>
+	<geography id="0fd0c588-7d7e-11de-9ae2-0019e336be3a" longitude="33.808" latitude="-13.4">
+		<name xml:lang="en">Malawi</name>
+		<shortname xml:lang="en">MW</shortname>
+		<kml />
+	</geography>
+	<geography id="0d95a34c-7d7e-11de-9ae2-0019e336be3a" longitude="-1.207" latitude="7.96">
+		<name xml:lang="en">Ghana</name>
+		<shortname xml:lang="en">GH</shortname>
+		<kml />
+	</geography>
+	<geography id="0ea9e766-7d7e-11de-9ae2-0019e336be3a" longitude="54.301" latitude="32.565">
+		<name xml:lang="en">Iran (Islamic Republic of)</name>
+		<shortname xml:lang="en">IR</shortname>
+		<kml />
+	</geography>
+	<geography id="0d2ed0a4-7d7e-11de-9ae2-0019e336be3a" longitude="38.219" latitude="16.045">
+		<name xml:lang="en">Eritrea</name>
+		<shortname xml:lang="en">ER</shortname>
+		<kml />
+	</geography>
+	<geography id="0f848e98-7d7e-11de-9ae2-0019e336be3a" longitude="-5.758" latitude="32.706">
+		<name xml:lang="en">Morocco</name>
+		<shortname xml:lang="en">MA</shortname>
+		<kml />
+	</geography>
+	<geography id="129718da-7d7e-11de-9ae2-0019e336be3a" longitude="29.917" latitude="-1.998">
+		<name xml:lang="en">Rwanda</name>
+		<shortname xml:lang="en">RW</shortname>
+		<kml />
+	</geography>
+	<geography id="0c852cde-7d7e-11de-9ae2-0019e336be3a" longitude="-69.433" latitude="-23.389">
+		<name xml:lang="en">Chile</name>
+		<shortname xml:lang="en">CL</shortname>
+		<kml />
+	</geography>
+	<geography id="0d04edb6-7d7e-11de-9ae2-0019e336be3a" longitude="-61.356" latitude="15.475">
+		<name xml:lang="en">Dominica</name>
+		<shortname xml:lang="en">DM</shortname>
+		<kml />
+	</geography>
+	<geography id="0cf01346-7d7e-11de-9ae2-0019e336be3a" longitude="-159.782" latitude="-21.219">
+		<name xml:lang="en">Cook Islands</name>
+		<shortname xml:lang="en">CK</shortname>
+		<kml />
+	</geography>
+	<geography id="e675a82e-88d2-11de-99d3-0019e336be3a" longitude="15.9667099565" latitude="23.8836323758">
+		<name xml:lang="en">Northern Africa</name>
+		<shortname xml:lang="en">UN-NAFRICA</shortname>
+		<kml />
+	</geography>
+	<geography id="39c8f992-22b7-4d59-9be0-eb461b36df2f">
+		<name xml:lang="en">Canada without Alberta</name>
+		<shortname xml:lang="en">Canada without Alberta</shortname>
+		<kml />
+	</geography>
+	<geography id="10c7c482-7d7e-11de-9ae2-0019e336be3a" longitude="105.704" latitude="-10.444">
+		<name xml:lang="en">Christmas Island</name>
+		<shortname xml:lang="en">CX</shortname>
+		<kml />
+	</geography>
+	<geography id="1541988a-7d7e-11de-9ae2-0019e336be3a" longitude="-2.576" latitude="49.459">
+		<name xml:lang="en">Guernsey</name>
+		<shortname xml:lang="en">GG</shortname>
+		<kml />
+	</geography>
+	<geography id="4d22983c-e62c-11de-ba56-0019e336be3a" longitude="-158.90462565" latitude="-15.2991323878">
+		<name xml:lang="en">Polynesia</name>
+		<shortname xml:lang="en">UN-POLYNESIA</shortname>
+		<kml />
+	</geography>
+	<geography id="0ecd6952-7d7e-11de-9ae2-0019e336be3a" longitude="43.772" latitude="33.048">
+		<name xml:lang="en">Iraq</name>
+		<shortname xml:lang="en">IQ</shortname>
+		<kml />
+	</geography>
+	<geography id="098771a4-7d7e-11de-9ae2-0019e336be3a" longitude="17.544" latitude="-12.296">
+		<name xml:lang="en">Angola</name>
+		<shortname xml:lang="en">AO</shortname>
+		<kml />
+	</geography>
+	<geography id="1013310c-7d7e-11de-9ae2-0019e336be3a" longitude="7.412" latitude="43.75">
+		<name xml:lang="en">Monaco</name>
+		<shortname xml:lang="en">MC</shortname>
+		<kml />
+	</geography>
+	<geography id="11258d1a-7d7e-11de-9ae2-0019e336be3a" longitude="172.235" latitude="-42.634">
+		<name xml:lang="en">New Zealand</name>
+		<shortname xml:lang="en">NZ</shortname>
+		<kml />
+	</geography>
+	<geography id="150266d8-7d7e-11de-9ae2-0019e336be3a" longitude="-128.316" latitude="-24.366">
+		<name xml:lang="en">Pitcairn</name>
+		<shortname xml:lang="en">PN</shortname>
+		<kml />
+	</geography>
+	<geography id="1420c7f0-7d7e-11de-9ae2-0019e336be3a" longitude="-1.74" latitude="12.278">
+		<name xml:lang="en">Burkina Faso</name>
+		<shortname xml:lang="en">BF</shortname>
+		<kml />
+	</geography>
+	<geography id="153b614a-7d7e-11de-9ae2-0019e336be3a" longitude="-63.041" latitude="18.094">
+		<name xml:lang="en">Saint Martin</name>
+		<shortname xml:lang="en">MF</shortname>
+		<kml />
+	</geography>
+	<geography id="131dd2ee-7d7e-11de-9ae2-0019e336be3a" longitude="100.844" latitude="15.7">
+		<name xml:lang="en">Thailand</name>
+		<shortname xml:lang="en">TH</shortname>
+		<kml />
+	</geography>
+	<geography id="0d083d04-7d7e-11de-9ae2-0019e336be3a" longitude="-70.729" latitude="19.015">
+		<name xml:lang="en">Dominican Republic</name>
+		<shortname xml:lang="en">DO</shortname>
+		<kml />
+	</geography>
+	<geography id="30e68c9c-7e2a-11de-9820-0019e336be3a" longitude="109.936790036" latitude="7.9333408562">
+		<name xml:lang="en">South Asia</name>
+		<shortname xml:lang="en">SAS</shortname>
+		<kml />
+	</geography>
+	<geography id="fc467bec-d8f0-11de-b1d3-0019e336be3a" longitude="-99.2511306382" latitude="21.8095940381">
+		<name xml:lang="en">Central America</name>
+		<shortname xml:lang="en">UN-CAMERICA</shortname>
+		<kml />
+	</geography>
+	<geography id="10c45112-7d7e-11de-9ae2-0019e336be3a" longitude="72.416" latitude="-7.335">
+		<name xml:lang="en">British Indian Ocean Territory</name>
+		<shortname xml:lang="en">IO</shortname>
+		<kml />
+	</geography>
+	<geography id="0ebb28b4-7d7e-11de-9ae2-0019e336be3a" longitude="12.8" latitude="42.7">
+		<name xml:lang="en">Italy</name>
+		<shortname xml:lang="en">IT</shortname>
+		<kml />
+	</geography>
+	<geography id="2ea604e6-e5e8-11de-8102-0019e336be3a" longitude="-83.1088762649" latitude="35.5487612419">
+		<name xml:lang="en">Americas</name>
+		<shortname xml:lang="en">UN-AMERICAS</shortname>
+		<kml />
+	</geography>
+	<geography id="aae610ca-cdef-4c81-9631-ded55d455444">
+		<name xml:lang="en">Manitoba</name>
+		<shortname xml:lang="en">CA-MB</shortname>
+		<kml />
+	</geography>
+	<geography id="1301c428-7d7e-11de-9ae2-0019e336be3a" longitude="15.27" latitude="62.011">
+		<name xml:lang="en">Sweden</name>
+		<shortname xml:lang="en">SE</shortname>
+		<kml />
+	</geography>
+	<geography id="e3aa6506-9887-4e27-9102-b3671e430090">
+		<name xml:lang="en">Saskatchewan</name>
+		<shortname xml:lang="en">CA-SK</shortname>
+		<kml />
+	</geography>
+	<geography id="0c608726-7d7e-11de-9ae2-0019e336be3a" longitude="65.216" latitude="33.677">
+		<name xml:lang="en">Afghanistan</name>
+		<shortname xml:lang="en">AF</shortname>
+		<kml />
+	</geography>
+	<geography id="0f9402ce-7d7e-11de-9ae2-0019e336be3a" longitude="14.442" latitude="35.89">
+		<name xml:lang="en">Malta</name>
+		<shortname xml:lang="en">MT</shortname>
+		<kml />
+	</geography>
+	<geography id="0d512a50-7d7e-11de-9ae2-0019e336be3a" longitude="26.272" latitude="64.504">
+		<name xml:lang="en">Finland</name>
+		<shortname xml:lang="en">FI</shortname>
+		<kml />
+	</geography>
+	<geography id="0cb47d54-7d7e-11de-9ae2-0019e336be3a" longitude="12.277" latitude="5.133">
+		<name xml:lang="en">Cameroon</name>
+		<shortname xml:lang="en">CM</shortname>
+		<kml />
+	</geography>
+	<geography id="102a1b92-7d7e-11de-9ae2-0019e336be3a" longitude="96.839" latitude="-12.173">
+		<name xml:lang="en">Cocos (Keeling) Islands</name>
+		<shortname xml:lang="en">CC</shortname>
+		<kml />
+	</geography>
+	<geography id="0e5d5856-7d7e-11de-9ae2-0019e336be3a" longitude="-18.48" latitude="64.764">
+		<name xml:lang="en">Iceland</name>
+		<shortname xml:lang="en">IS</shortname>
+		<kml />
+	</geography>
+	<geography id="598f9aa4-e409-11de-bce5-0019e336be3a" longitude="-156.350435076" latitude="20.2519006094">
+		<name xml:lang="en">HICC</name>
+		<shortname xml:lang="en">HICC</shortname>
+		<kml />
+	</geography>
+	<geography id="0f759550-7d7e-11de-9ae2-0019e336be3a" longitude="-62.187" latitude="16.736">
+		<name xml:lang="en">Montserrat</name>
+		<shortname xml:lang="en">MS</shortname>
+		<kml />
+	</geography>
+	<geography id="0d627bf2-7d7e-11de-9ae2-0019e336be3a" longitude="-58.694" latitude="-51.665">
+		<name xml:lang="en">Falkland Islands (Malvinas)</name>
+		<shortname xml:lang="en">FK</shortname>
+		<kml />
+	</geography>
+	<geography id="117936fe-7d7e-11de-9ae2-0019e336be3a" longitude="51.191" latitude="25.316">
+		<name xml:lang="en">Qatar</name>
+		<shortname xml:lang="en">QA</shortname>
+		<kml />
+	</geography>
+	<geography id="09d2df90-7d7e-11de-9ae2-0019e336be3a" longitude="-59.559" latitude="13.153">
+		<name xml:lang="en">Barbados</name>
+		<shortname xml:lang="en">BB</shortname>
+		<kml />
+	</geography>
+	<geography id="0f46d4ea-7d7e-11de-9ae2-0019e336be3a" longitude="23.897" latitude="55.336">
+		<name xml:lang="en">Lithuania</name>
+		<shortname xml:lang="en">LT</shortname>
+		<kml />
+	</geography>
+	<geography id="12c6a37a-7d7e-11de-9ae2-0019e336be3a" longitude="-14.881" latitude="15.013">
+		<name xml:lang="en">Senegal</name>
+		<shortname xml:lang="en">SN</shortname>
+		<kml />
+	</geography>
+	<geography id="dc8d48a0-e8ab-494f-a2a2-270ef43cef95">
+		<name xml:lang="en">IAl producing Area 6A, West Europe</name>
+		<shortname xml:lang="en">IAI Area 6A</shortname>
+		<kml />
+	</geography>
+	<geography id="09f7dc00-7d7e-11de-9ae2-0019e336be3a" longitude="17.786" latitude="44.169">
+		<name xml:lang="en">Bosnia and Herzegovina</name>
+		<shortname xml:lang="en">BA</shortname>
+		<kml />
+	</geography>
+	<geography id="11636ae9-23c9-4477-9e10-f4bc2767ebff">
+		<name xml:lang="en">Central and Eastern Europe</name>
+		<shortname xml:lang="en">EEU</shortname>
+	</geography>
+	<geography id="0fbd80a4-7d7e-11de-9ae2-0019e336be3a" longitude="102.195" latitude="4.201">
+		<name xml:lang="en">Malaysia</name>
+		<shortname xml:lang="en">MY</shortname>
+		<kml />
+	</geography>
+	<geography id="0ffb63d8-7d7e-11de-9ae2-0019e336be3a" longitude="145.623" latitude="15.005">
+		<name xml:lang="en">Northern Mariana Islands</name>
+		<shortname xml:lang="en">MP</shortname>
+		<kml />
+	</geography>
+	<geography id="6432879f-dc31-4e80-bc55-573f72dafee8">
+		<name xml:lang="en">Midwest Reliability Organization, US part only</name>
+		<shortname xml:lang="en">MRO, US only</shortname>
+		<kml />
+	</geography>
+	<geography id="e60b420e-88d2-11de-99d3-0019e336be3a" longitude="19.4720488185" latitude="0.631925242963">
+		<name xml:lang="en">Middle Africa</name>
+		<shortname xml:lang="en">UN-MAFRICA</shortname>
+		<kml />
+	</geography>
+	<geography id="b5b34218-bee7-4196-b70c-1b5ad433801a">
+		<name xml:lang="en">Prince Edward Island</name>
+		<shortname xml:lang="en">CA-PE</shortname>
+		<kml />
+	</geography>
+	<geography id="0e422e82-7d7e-11de-9ae2-0019e336be3a" longitude="-72.278" latitude="19.142">
+		<name xml:lang="en">Haiti</name>
+		<shortname xml:lang="en">HT</shortname>
+		<kml />
+	</geography>
+	<geography id="0d3f4416-7d7e-11de-9ae2-0019e336be3a" longitude="14.912" latitude="47.683">
+		<name xml:lang="en">Austria</name>
+		<shortname xml:lang="en">AT</shortname>
+		<kml />
+	</geography>
+	<geography id="0cf950f0-7d7e-11de-9ae2-0019e336be3a" longitude="9.264" latitude="56.058">
+		<name xml:lang="en">Denmark</name>
+		<shortname xml:lang="en">DK</shortname>
+		<kml />
+	</geography>
+	<geography id="0cbbba9c-7d7e-11de-9ae2-0019e336be3a" longitude="18.665" latitude="15.361">
+		<name xml:lang="en">Chad</name>
+		<shortname xml:lang="en">TD</shortname>
+		<kml />
+	</geography>
+	<geography id="11738740-7d7e-11de-9ae2-0019e336be3a" longitude="-14.651" latitude="12.125">
+		<name xml:lang="en">Guinea-Bissau</name>
+		<shortname xml:lang="en">GW</shortname>
+		<kml />
+	</geography>
+	<geography id="047116e2-d932-11de-9627-0019e336be3a" longitude="-104.015961963" latitude="53.425457874">
+		<name xml:lang="en">North American Free Trade Agreement</name>
+		<shortname xml:lang="en">NAFTA</shortname>
+		<kml />
+	</geography>
+	<geography id="12f773b0-7d7e-11de-9ae2-0019e336be3a" longitude="30.05" latitude="13.832">
+		<name xml:lang="en">Sudan</name>
+		<shortname xml:lang="en">SD</shortname>
+		<kml />
+	</geography>
+	<geography id="10207fa6-7d7e-11de-9ae2-0019e336be3a" longitude="45.155" latitude="-12.777">
+		<name xml:lang="en">Mayotte</name>
+		<shortname xml:lang="en">YT</shortname>
+		<kml />
+	</geography>
+	<geography id="0b2a8a96-7d7e-11de-9ae2-0019e336be3a" longitude="-109.433" latitude="59.081">
+		<name xml:lang="en">Canada</name>
+		<shortname xml:lang="en">CA</shortname>
+		<kml />
+	</geography>
+	<geography id="145e04ee-7d7e-11de-9ae2-0019e336be3a" longitude="17.218" latitude="-22.133">
+		<name xml:lang="en">Namibia</name>
+		<shortname xml:lang="en">NA</shortname>
+		<kml />
+	</geography>
+	<geography id="57c8c52c-88d5-11de-99d3-0019e336be3a" longitude="7.317939892" latitude="41.4852158506">
+		<name xml:lang="en">Southern Europe</name>
+		<shortname xml:lang="en">UN-SEUROPE</shortname>
+		<kml />
+	</geography>
+	<geography id="15099fa2-7d7e-11de-9ae2-0019e336be3a" longitude="168.963" latitude="7.595">
+		<name xml:lang="en">Marshall Islands</name>
+		<shortname xml:lang="en">MH</shortname>
+		<kml />
+	</geography>
+	<geography id="2f693dc6-7e28-11de-9820-0019e336be3a" longitude="18.287021196" latitude="6.41788156451">
+		<name xml:lang="en">Africa</name>
+		<shortname xml:lang="en">RAF</shortname>
+		<kml />
+	</geography>
+	<geography id="14480004-7d7e-11de-9ae2-0019e336be3a" longitude="-64.4818926621" latitude="18.5099568045">
+		<name xml:lang="en">Virgin Islands, British</name>
+		<shortname xml:lang="en">VG</shortname>
+		<kml />
+	</geography>
+	<geography id="c231d8f9-39e9-408c-9884-8508b8f9baf7" longitude="-72.3896091361" latitude="50.4994008308">
+		<name xml:lang="en">Québec, Hydro-Québec distribution network</name>
+		<shortname xml:lang="en">Québec, HQ distribution network</shortname>
+		<kml />
+	</geography>
+	<geography id="0efacce4-7d7e-11de-9ae2-0019e336be3a" longitude="74.555" latitude="41.465">
+		<name xml:lang="en">Kyrgyzstan</name>
+		<shortname xml:lang="en">KG</shortname>
+		<kml />
+	</geography>
+	<geography id="29dca13b-9d4b-4714-9c80-1808b9127dda">
+		<name xml:lang="en">Yukon Territory</name>
+		<shortname xml:lang="en">CA-YK</shortname>
+		<kml />
+	</geography>
+	<geography id="4484cb2d-50e8-43a0-a79f-80313021306a">
+		<name xml:lang="en">IAl producing Area 1, Africa</name>
+		<shortname xml:lang="en">IAI Area 1</shortname>
+		<kml />
+	</geography>
+	<geography id="1317a572-7d7e-11de-9ae2-0019e336be3a" longitude="-61.253" latitude="10.468">
+		<name xml:lang="en">Trinidad and Tobago</name>
+		<shortname xml:lang="en">TT</shortname>
+		<kml />
+	</geography>
+	<geography id="0e2fbd60-7d7e-11de-9ae2-0019e336be3a" longitude="-90.398" latitude="15.256">
+		<name xml:lang="en">Guatemala</name>
+		<shortname xml:lang="en">GT</shortname>
+		<kml />
+	</geography>
+	<geography id="1337d22a-7d7e-11de-9ae2-0019e336be3a" longitude="1.081" latitude="8.799">
+		<name xml:lang="en">Togo</name>
+		<shortname xml:lang="en">TG</shortname>
+		<kml />
+	</geography>
+	<geography id="09951f84-7d7e-11de-9ae2-0019e336be3a" longitude="-65.167" latitude="-35.377">
+		<name xml:lang="en">Argentina</name>
+		<shortname xml:lang="en">AR</shortname>
+		<kml />
+	</geography>
+	<geography id="10b7703c-7d7e-11de-9ae2-0019e336be3a" longitude="3.412" latitude="-54.422">
+		<name xml:lang="en">Bouvet Island</name>
+		<shortname xml:lang="en">BV</shortname>
+		<kml />
+	</geography>
+	<geography id="0dc048d6-7d7e-11de-9ae2-0019e336be3a" longitude="-41.391" latitude="74.719">
+		<name xml:lang="en">Greenland</name>
+		<shortname xml:lang="en">GL</shortname>
+		<kml />
+	</geography>
+	<geography id="15146d88-7d7e-11de-9ae2-0019e336be3a" longitude="12.46" latitude="43.942">
+		<name xml:lang="en">San Marino</name>
+		<shortname xml:lang="en">SM</shortname>
+		<kml />
+	</geography>
+	<geography id="1009d666-7d7e-11de-9ae2-0019e336be3a" longitude="-4.527" latitude="54.229">
+		<name xml:lang="en">Isle of Man</name>
+		<shortname xml:lang="en">IM</shortname>
+		<kml />
+	</geography>
+	<geography id="10cf3776-7d7e-11de-9ae2-0019e336be3a" longitude="166.899" latitude="-15.376">
+		<name xml:lang="en">Vanuatu</name>
+		<shortname xml:lang="en">VU</shortname>
+		<kml />
+	</geography>
+	<geography id="0c13823c-7d7e-11de-9ae2-0019e336be3a" longitude="80.704" latitude="7.612">
+		<name xml:lang="en">Sri Lanka</name>
+		<shortname xml:lang="en">LK</shortname>
+		<kml />
+	</geography>
+	<geography id="154d2934-7d7e-11de-9ae2-0019e336be3a" longitude="120.946207233" latitude="23.7537043927">
+		<name xml:lang="en">Taiwan, Province of China</name>
+		<shortname xml:lang="en">TW</shortname>
+		<kml />
+	</geography>
+	<geography id="133bfb7a-7d7e-11de-9ae2-0019e336be3a" longitude="6.629" latitude="0.201">
+		<name xml:lang="en">Sao Tome and Principe</name>
+		<shortname xml:lang="en">ST</shortname>
+		<kml />
+	</geography>
+	<geography id="14f2285e-7d7e-11de-9ae2-0019e336be3a" longitude="-61.441" latitude="16.286">
+		<name xml:lang="en">Guadeloupe</name>
+		<shortname xml:lang="en">GP</shortname>
+		<kml />
+	</geography>
+	<geography id="fe0113e8-7e2d-11de-9820-0019e336be3a" longitude="18.8837373748" latitude="63.7641163015">
+		<name xml:lang="en">Nordic Countries Power Association</name>
+		<shortname xml:lang="en">NORDEL</shortname>
+		<comment>
+			<text xml:lang="en" index="0">The split of Denmark between NORDEL and UCTE is approximate.</text>
+		</comment>
+		<kml />
+	</geography>
+	<geography id="111cdba2-7d7e-11de-9ae2-0019e336be3a" longitude="-85.034" latitude="12.84">
+		<name xml:lang="en">Nicaragua</name>
+		<shortname xml:lang="en">NI</shortname>
+		<kml />
+	</geography>
+	<geography id="10105c52-7d7e-11de-9ae2-0019e336be3a" longitude="113.545" latitude="22.2">
+		<name xml:lang="en">Macau</name>
+		<shortname xml:lang="en">MO</shortname>
+		<kml />
+	</geography>
+	<geography id="0eb3bcbe-7d7e-11de-9ae2-0019e336be3a" longitude="34.851" latitude="31.026">
+		<name xml:lang="en">Israel</name>
+		<shortname xml:lang="en">IL</shortname>
+		<kml />
+	</geography>
+	<geography id="7cff1986-1a1e-4aae-a27d-7199915cd44c">
+		<name xml:lang="en">Spain, including overseas territories</name>
+		<shortname xml:lang="en">Spain, including overseas territories</shortname>
+		<kml />
+	</geography>
+	<geography id="0f405034-7d7e-11de-9ae2-0019e336be3a" longitude="28.047" latitude="53.54">
+		<name xml:lang="en">Belarus</name>
+		<shortname xml:lang="en">BY</shortname>
+		<kml />
+	</geography>
+	<geography id="095ec4f2-7d7e-11de-9ae2-0019e336be3a" longitude="2.632" latitude="28.163">
+		<name xml:lang="en">Algeria</name>
+		<shortname xml:lang="en">DZ</shortname>
+		<kml />
+	</geography>
+	<geography id="0ed905c8-7d7e-11de-9ae2-0019e336be3a" longitude="139.068" latitude="36.491">
+		<name xml:lang="en">Japan</name>
+		<shortname xml:lang="en">JP</shortname>
+		<kml />
+	</geography>
+	<geography id="131278d6-7d7e-11de-9ae2-0019e336be3a" longitude="7.908" latitude="46.861">
+		<name xml:lang="en">Switzerland</name>
+		<shortname xml:lang="en">CH</shortname>
+		<kml />
+	</geography>
+	<geography id="12e2e22e-7d7e-11de-9ae2-0019e336be3a" longitude="48.316" latitude="9.774">
+		<name xml:lang="en">Somalia</name>
+		<shortname xml:lang="en">SO</shortname>
+		<kml />
+	</geography>
+	<geography id="c428af56-39c0-4dca-a617-8716b52a6640" longitude="31.3090547185" latitude="56.7968574951">
+		<name xml:lang="en">Europe without Austria, Belgium, France, Germany, Italy, Liechtenstein, Monaco, San Marino, Switzerland, and the Vatican</name>
+		<shortname xml:lang="en">RER w/o AT+BE+CH+DE+FR+IT</shortname>
+		<kml />
+	</geography>
+	<geography id="533c318c-a189-4fc6-84a8-e9d48eab987c">
+		<name xml:lang="en">British Columbia</name>
+		<shortname xml:lang="en">CA-BC</shortname>
+		<kml />
+	</geography>
+	<geography id="fb4bde60-e62b-11de-ba56-0019e336be3a" longitude="135.9868509" latitude="-26.3822685337">
+		<name xml:lang="en">Australia and New Zealand</name>
+		<shortname xml:lang="en">UN-AUSTRALIANZ</shortname>
+		<kml />
+	</geography>
+	<geography id="0d349e44-7d7e-11de-9ae2-0019e336be3a" longitude="-88.866" latitude="13.736">
+		<name xml:lang="en">El Salvador</name>
+		<shortname xml:lang="en">SV</shortname>
+		<kml />
+	</geography>
+	<geography id="0d4ac2be-7d7e-11de-9ae2-0019e336be3a" longitude="-53.241" latitude="3.924">
+		<name xml:lang="en">French Guiana</name>
+		<shortname xml:lang="en">GF</shortname>
+		<kml />
+	</geography>
+	<geography id="4eb91d59-44f6-4ec6-9f21-0c48bcf3becf" longitude="20.5992884506" latitude="43.8674682931">
+		<name xml:lang="en">Serbia and Montenegro</name>
+		<shortname xml:lang="en">CS</shortname>
+		<kml />
+	</geography>
+	<geography id="0a06dd7c-7d7e-11de-9ae2-0019e336be3a" longitude="96.041" latitude="21.718">
+		<name xml:lang="en">Myanmar</name>
+		<shortname xml:lang="en">MM</shortname>
+		<kml />
+	</geography>
+	<geography id="d48cee40-0ff1-49d6-a80d-9e0be3e0c2f6" longitude="-76.3224748286" latitude="51.2575217691">
+		<name xml:lang="en">Northeast Power Coordinating Council</name>
+		<shortname xml:lang="en">NPCC</shortname>
+		<kml />
+	</geography>
+	<geography id="097c2556-7d7e-11de-9ae2-0019e336be3a" longitude="20.068" latitude="41.143">
+		<name xml:lang="en">Albania</name>
+		<shortname xml:lang="en">AL</shortname>
+		<kml />
+	</geography>
+	<geography id="110f1ea4-7d7e-11de-9ae2-0019e336be3a" longitude="83.939" latitude="28.253">
+		<name xml:lang="en">Nepal</name>
+		<shortname xml:lang="en">NP</shortname>
+		<kml />
+	</geography>
+	<geography id="1117f7f4-7d7e-11de-9ae2-0019e336be3a" longitude="-55.912" latitude="4.127">
+		<name xml:lang="en">Suriname</name>
+		<shortname xml:lang="en">SR</shortname>
+		<kml />
+	</geography>
+	<geography id="0cec2628-7d7e-11de-9ae2-0019e336be3a" longitude="-23.634" latitude="15.071">
+		<name xml:lang="en">Cape Verde</name>
+		<shortname xml:lang="en">CV</shortname>
+		<kml />
+	</geography>
+	<geography id="0f980b80-7d7e-11de-9ae2-0019e336be3a" longitude="57.407" latitude="21.656">
+		<name xml:lang="en">Oman</name>
+		<shortname xml:lang="en">OM</shortname>
+		<kml />
+	</geography>
+	<geography id="12ea642c-7d7e-11de-9ae2-0019e336be3a" longitude="-3.649" latitude="40.227">
+		<name xml:lang="en">Spain</name>
+		<shortname xml:lang="en">ES</shortname>
+		<kml />
+	</geography>
+	<geography id="0f7d8030-7d7e-11de-9ae2-0019e336be3a" longitude="-3.524" latitude="17.35">
+		<name xml:lang="en">Mali</name>
+		<shortname xml:lang="en">ML</shortname>
+		<kml />
+	</geography>
+	<geography id="09e8ed3a-7d7e-11de-9ae2-0019e336be3a" longitude="89.941" latitude="24.218">
+		<name xml:lang="en">Bangladesh</name>
+		<shortname xml:lang="en">BD</shortname>
+		<kml />
+	</geography>
+	<geography id="1544d680-7d7e-11de-9ae2-0019e336be3a" longitude="-2.129" latitude="49.219">
+		<name xml:lang="en">Jersey</name>
+		<shortname xml:lang="en">JE</shortname>
+		<kml />
+	</geography>
+	<geography id="11311298-7d7e-11de-9ae2-0019e336be3a" longitude="-58.391" latitude="-23.236">
+		<name xml:lang="en">Paraguay</name>
+		<shortname xml:lang="en">PY</shortname>
+		<kml />
+	</geography>
+	<geography id="0fefde28-7d7e-11de-9ae2-0019e336be3a" longitude="-63.032" latitude="18.237">
+		<name xml:lang="en">Anguilla</name>
+		<shortname xml:lang="en">AI</shortname>
+		<kml />
+	</geography>
+	<geography id="0d28a62a-7d7e-11de-9ae2-0019e336be3a" longitude="25.793" latitude="58.674">
+		<name xml:lang="en">Estonia</name>
+		<shortname xml:lang="en">EE</shortname>
+		<kml />
+	</geography>
+	<geography id="50ec320c-88d5-11de-99d3-0019e336be3a" longitude="92.1393690129" latitude="60.9882831546">
+		<name xml:lang="en">Eastern Europe</name>
+		<shortname xml:lang="en">UN-EEUROPE</shortname>
+		<kml />
+	</geography>
+	<geography id="10d6bc3a-7d7e-11de-9ae2-0019e336be3a" longitude="8.105" latitude="9.594">
+		<name xml:lang="en">Nigeria</name>
+		<shortname xml:lang="en">NG</shortname>
+		<kml />
+	</geography>
+	<geography id="77b2f7ee-3f79-4946-a2d7-50c46d1756d2">
+		<name xml:lang="en">IAI producing Area 4 and 5, South and East Asia, without China</name>
+		<shortname xml:lang="en">IAI Area 4&amp;5 without China</shortname>
+		<kml />
+	</geography>
+	<geography id="a2d4e588-e0d1-11de-823b-0019e336be3a" longitude="29.6744292776" latitude="54.0646438595">
+		<name xml:lang="en">Europe without NORDEL (NCPA)</name>
+		<shortname xml:lang="en">Europe without NORDEL (NCPA)</shortname>
+		<kml />
+	</geography>
+	<geography id="0d6d36be-7d7e-11de-9ae2-0019e336be3a" longitude="-149.462" latitude="-17.626">
+		<name xml:lang="en">French Polynesia</name>
+		<shortname xml:lang="en">PF</shortname>
+		<kml />
+	</geography>
+	<geography id="0fdb5bec-7d7e-11de-9ae2-0019e336be3a" longitude="165.447" latitude="-21.359">
+		<name xml:lang="en">New Caledonia</name>
+		<shortname xml:lang="en">NC</shortname>
+		<kml />
+	</geography>
+	<geography id="0c40fa1e-7d7e-11de-9ae2-0019e336be3a" longitude="106.514" latitude="33.42">
+		<name xml:lang="en">China</name>
+		<shortname xml:lang="en">CN</shortname>
+		<kml />
+	</geography>
+	<geography id="0c193b28-7d7e-11de-9ae2-0019e336be3a" longitude="15.986" latitude="-0.055">
+		<name xml:lang="en">Congo</name>
+		<shortname xml:lang="en">CG</shortname>
+		<kml />
+	</geography>
+	<geography id="12a2ee3a-7d7e-11de-9ae2-0019e336be3a" longitude="-62.769" latitude="17.34">
+		<name xml:lang="en">Saint Kitts and Nevis</name>
+		<shortname xml:lang="en">KN</shortname>
+		<kml />
+	</geography>
+	<geography id="10271ce4-7d7e-11de-9ae2-0019e336be3a" longitude="167.953" latitude="-29.037">
+		<name xml:lang="en">Norfolk Island</name>
+		<shortname xml:lang="en">NF</shortname>
+		<kml />
+	</geography>
+	<geography id="0f78e944-7d7e-11de-9ae2-0019e336be3a" longitude="21.6981140778" latitude="41.5997125241">
+		<name xml:lang="en">Macedonia, the Former Yugoslav Republic of</name>
+		<shortname xml:lang="en">MK</shortname>
+		<kml />
+	</geography>
+	<geography id="0cf40280-7d7e-11de-9ae2-0019e336be3a" longitude="33.219" latitude="35.043">
+		<name xml:lang="en">Cyprus</name>
+		<shortname xml:lang="en">CY</shortname>
+		<kml />
+	</geography>
+	<geography id="0a1ab78e-7d7e-11de-9ae2-0019e336be3a" longitude="160.109" latitude="-9.611">
+		<name xml:lang="en">Solomon Islands</name>
+		<shortname xml:lang="en">SB</shortname>
+		<kml />
+	</geography>
+	<geography id="0c67c0cc-7d7e-11de-9ae2-0019e336be3a" longitude="90.429" latitude="27.415">
+		<name xml:lang="en">Bhutan</name>
+		<shortname xml:lang="en">BT</shortname>
+		<kml />
+	</geography>
+	<geography id="0d1de104-7d7e-11de-9ae2-0019e336be3a" longitude="-8.152" latitude="53.177">
+		<name xml:lang="en">Ireland</name>
+		<shortname xml:lang="en">IE</shortname>
+		<kml />
+	</geography>
+	<geography id="548bd19c-88d5-11de-99d3-0019e336be3a" longitude="13.8010098598" latitude="63.0698630469">
+		<name xml:lang="en">Northern Europe</name>
+		<shortname xml:lang="en">UN-NEUROPE</shortname>
+		<kml />
+	</geography>
+	<geography id="c670b4a0-6051-4935-bafe-866736a010a9">
+		<name xml:lang="en">Europe, without Russia and Turkey</name>
+		<shortname xml:lang="en">Europe, without Russia and Turkey</shortname>
+		<kml />
+	</geography>
+	<geography id="0f3a36f4-7d7e-11de-9ae2-0019e336be3a" longitude="25.641" latitude="56.858">
+		<name xml:lang="en">Latvia</name>
+		<shortname xml:lang="en">LV</shortname>
+		<kml />
+	</geography>
+	<geography id="129c6a88-7d7e-11de-9ae2-0019e336be3a" longitude="44.585" latitude="24.023">
+		<name xml:lang="en">Saudi Arabia</name>
+		<shortname xml:lang="en">SA</shortname>
+		<kml />
+	</geography>
+	<geography id="dde7310e-e0d0-11de-823b-0019e336be3a" longitude="10.9203583995" latitude="45.450612256">
+		<name xml:lang="en">UCTE without Germany</name>
+		<shortname xml:lang="en">UCTE without Germany</shortname>
+		<kml />
+	</geography>
+	<geography id="0ef4e126-7d7e-11de-9ae2-0019e336be3a" longitude="37.858" latitude="0.53">
+		<name xml:lang="en">Kenya</name>
+		<shortname xml:lang="en">KE</shortname>
+		<kml />
+	</geography>
+	<geography id="ce1503be-7060-4959-8387-bc3ea3f4c885" longitude="10.8049501384" latitude="46.0922152861">
+		<name xml:lang="en">Union for the Co-ordination of Transmission of Electricity </name>
+		<shortname xml:lang="en">UCTE</shortname>
+		<comment>
+			<text xml:lang="en" index="0">The split of Denmark between NORDEL and UCTE is approximate. The western part of the Ukraine is also in the UCTE, but is not included here, as no geographic information was available to accurately represent the division of the Ukraine correctly.</text>
+		</comment>
+		<kml />
+	</geography>
+	<geography id="088a91da-e0cc-11de-823b-0019e336be3a" longitude="12.8849410214" latitude="45.1890735487">
+		<name xml:lang="en">UCTE without Germany and France</name>
+		<shortname xml:lang="en">UCTE without Germany and France</shortname>
+		<kml />
+	</geography>
+	<geography id="0d168940-7d7e-11de-9ae2-0019e336be3a" longitude="29.872" latitude="26.494">
+		<name xml:lang="en">Egypt</name>
+		<shortname xml:lang="en">EG</shortname>
+		<kml />
+	</geography>
+	<geography id="09fd4f82-7d7e-11de-9ae2-0019e336be3a" longitude="-64.671" latitude="-16.715">
+		<name xml:lang="en">Bolivia, Plurinational State of</name>
+		<shortname xml:lang="en">BO</shortname>
+		<kml />
+	</geography>
+	<geography id="28d52c97-56c5-4bcd-9504-ccc5b4797c67">
+		<name xml:lang="en">France, including overseas territories</name>
+		<shortname xml:lang="en">France, including overseas territories</shortname>
+		<kml />
+	</geography>
+	<geography id="957d3a44-9ec2-4829-b5fe-17ba975a45da">
+		<name xml:lang="en">IAl producing Area 6B, East/Central Europe</name>
+		<shortname xml:lang="en">IAI Area 6B</shortname>
+		<kml />
+	</geography>
+	<geography id="11a7c1a4-7d7e-11de-9ae2-0019e336be3a" longitude="-66.466" latitude="18.221">
+		<name xml:lang="en">Puerto Rico</name>
+		<shortname xml:lang="en">PR</shortname>
+		<kml />
+	</geography>
+	<geography id="098df75e-7d7e-11de-9ae2-0019e336be3a" longitude="-170.73" latitude="-14.318">
+		<name xml:lang="en">American Samoa</name>
+		<shortname xml:lang="en">AS</shortname>
+		<kml />
+	</geography>
+	<geography id="143d4e2a-7d7e-11de-9ae2-0019e336be3a" longitude="-66.166" latitude="7.125">
+		<name xml:lang="en">Venezuela</name>
+		<shortname xml:lang="en">VE</shortname>
+		<kml />
+	</geography>
+	<geography id="14266b60-7d7e-11de-9ae2-0019e336be3a" longitude="-56.012" latitude="-32.8">
+		<name xml:lang="en">Uruguay</name>
+		<shortname xml:lang="en">UY</shortname>
+		<kml />
+	</geography>
+	<geography id="0e0e1020-7d7e-11de-9ae2-0019e336be3a" longitude="9.851" latitude="51.11">
+		<name xml:lang="en">Germany</name>
+		<shortname xml:lang="en">DE</shortname>
+		<kml />
+	</geography>
+	<geography id="1510fb80-7d7e-11de-9ae2-0019e336be3a" longitude="-5.71" latitude="-15.953">
+		<name xml:lang="en">Saint Helena</name>
+		<shortname xml:lang="en">SH</shortname>
+		<kml />
+	</geography>
+	<geography id="dfd92cab-e7c7-4ca8-8abc-2fb6fd064dbc" longitude="-81.8998890766" latitude="28.3282233447">
+		<name xml:lang="en">Florida Reliability Coordinating Council</name>
+		<shortname xml:lang="en">FRCC</shortname>
+		<kml />
+	</geography>
+	<geography id="12d57c60-7d7e-11de-9ae2-0019e336be3a" longitude="-11.792" latitude="8.56">
+		<name xml:lang="en">Sierra Leone</name>
+		<shortname xml:lang="en">SL</shortname>
+		<kml />
+	</geography>
+	<geography id="0f2f07ac-7d7e-11de-9ae2-0019e336be3a" longitude="102.471" latitude="19.905">
+		<name xml:lang="en">Lao People's Democratic Republic</name>
+		<shortname xml:lang="en">LA</shortname>
+		<kml />
+	</geography>
+	<geography id="0e4ef37e-7d7e-11de-9ae2-0019e336be3a" longitude="16.693" latitude="45.723">
+		<name xml:lang="en">Croatia</name>
+		<shortname xml:lang="en">HR</shortname>
+		<kml />
+	</geography>
+	<geography id="0d245584-7d7e-11de-9ae2-0019e336be3a" longitude="10.488" latitude="1.607">
+		<name xml:lang="en">Equatorial Guinea</name>
+		<shortname xml:lang="en">GQ</shortname>
+		<kml />
+	</geography>
+	<geography id="11148498-7d7e-11de-9ae2-0019e336be3a" longitude="166.93" latitude="-0.522">
+		<name xml:lang="en">Nauru</name>
+		<shortname xml:lang="en">NR</shortname>
+		<kml />
+	</geography>
+	<geography id="0cc6c45a-7d7e-11de-9ae2-0019e336be3a" longitude="-73.076" latitude="3.9">
+		<name xml:lang="en">Colombia</name>
+		<shortname xml:lang="en">CO</shortname>
+		<kml />
+	</geography>
+	<geography id="ae9d0b20-e4e3-4cd3-9699-63eca5319c9b">
+		<name xml:lang="en">Canada without Alberta and Quebec</name>
+		<shortname xml:lang="en">Canada without Alberta and Quebec</shortname>
+		<kml />
+	</geography>
+	<geography id="11813638-7d7e-11de-9ae2-0019e336be3a" longitude="24.969" latitude="45.844">
+		<name xml:lang="en">Romania</name>
+		<shortname xml:lang="en">RO</shortname>
+		<kml />
+	</geography>
+	<geography id="10c0fae4-7d7e-11de-9ae2-0019e336be3a" longitude="73.507" latitude="-53.111">
+		<name xml:lang="en">Heard Island and McDonald Islands</name>
+		<shortname xml:lang="en">HM</shortname>
+		<kml />
+	</geography>
+	<geography id="23ccc3fe-88d5-11de-99d3-0019e336be3a" longitude="66.4858014842" latitude="45.9159879708">
+		<name xml:lang="en">Central Asia</name>
+		<shortname xml:lang="en">Central Asia</shortname>
+		<kml />
+	</geography>
+	<geography id="0d8399c2-7d7e-11de-9ae2-0019e336be3a" longitude="11.797" latitude="-0.591">
+		<name xml:lang="en">Gabon</name>
+		<shortname xml:lang="en">GA</shortname>
+		<kml />
+	</geography>
+	<geography id="13d387f6-7d7e-11de-9ae2-0019e336be3a" longitude="-98.606" latitude="39.622">
+		<name xml:lang="en">United States</name>
+		<shortname xml:lang="en">US</shortname>
+		<kml />
+	</geography>
+	<geography id="142f54c8-7d7e-11de-9ae2-0019e336be3a" longitude="63.17" latitude="41.75">
+		<name xml:lang="en">Uzbekistan</name>
+		<shortname xml:lang="en">UZ</shortname>
+		<kml />
+	</geography>
+	<geography id="4aff9c9e-88d5-11de-99d3-0019e336be3a" longitude="109.936790036" latitude="7.9333408562">
+		<name xml:lang="en">South-Eastern Asia</name>
+		<shortname xml:lang="en">UN-SEASIA</shortname>
+		<kml />
+	</geography>
+	<geography id="13335286-7d7e-11de-9ae2-0019e336be3a" longitude="-175.185" latitude="-21.202">
+		<name xml:lang="en">Tonga</name>
+		<shortname xml:lang="en">TO</shortname>
+		<kml />
+	</geography>
+	<geography id="0ec6dff6-7d7e-11de-9ae2-0019e336be3a" longitude="-5.556" latitude="7.632">
+		<name xml:lang="en">Cote d'Ivoire</name>
+		<shortname xml:lang="en">CI</shortname>
+		<kml />
+	</geography>
+	<geography id="7846b897-7c04-4f9f-b607-2b83fcd9a74c">
+		<name xml:lang="en">Rest-of-World</name>
+		<shortname xml:lang="en">RoW</shortname>
+		<comment>
+			<text xml:lang="en" index="0">The rest of world is the GLO geography minus all the corresponding datasets in non-GLO geographies. The actual content of the RoW geography therefor depends on the dataset context it is used in.</text>
+		</comment>
+	</geography>
+	<geography id="0ef0fe6c-7d7e-11de-9ae2-0019e336be3a" longitude="36.319" latitude="30.703">
+		<name xml:lang="en">Jordan</name>
+		<shortname xml:lang="en">JO</shortname>
+		<kml />
+	</geography>
+	<geography id="0f671a66-7d7e-11de-9ae2-0019e336be3a" longitude="-61.021" latitude="14.653">
+		<name xml:lang="en">Martinique</name>
+		<shortname xml:lang="en">MQ</shortname>
+		<kml />
+	</geography>
+	<geography id="d4c8443a-d821-11de-b50d-0019e336be3a" longitude="24.7255465575" latitude="56.8154961753">
+		<name xml:lang="en">Baltic System Operator</name>
+		<shortname xml:lang="en">BALTSO</shortname>
+		<kml />
+	</geography>
+	<geography id="11430eee-7d7e-11de-9ae2-0019e336be3a" longitude="69.386" latitude="29.967">
+		<name xml:lang="en">Pakistan</name>
+		<shortname xml:lang="en">PK</shortname>
+		<kml />
+	</geography>
+	<geography id="5fb3ee97-3981-4918-b09a-4de1b1fdb517">
+		<name xml:lang="en">Northwest Territories</name>
+		<shortname xml:lang="en">CA-NT</shortname>
+		<kml />
+	</geography>
+	<geography id="10bb74b6-7d7e-11de-9ae2-0019e336be3a" longitude="69.117" latitude="-49.302">
+		<name xml:lang="en">French Southern Territories</name>
+		<shortname xml:lang="en">TF</shortname>
+		<kml />
+	</geography>
+	<geography id="058885d6-d0a9-48ff-8d95-4baacf75ce97">
+		<name xml:lang="en">IAl producing Area 8, Gulf-Aluminium Council/Gulf Region</name>
+		<shortname xml:lang="en">IAI Area 8</shortname>
+		<kml />
+	</geography>
+	<geography id="0f16e870-7d7e-11de-9ae2-0019e336be3a" longitude="47.376" latitude="29.476">
+		<name xml:lang="en">Kuwait</name>
+		<shortname xml:lang="en">KW</shortname>
+		<kml />
+	</geography>
+	<geography id="0fec983a-7d7e-11de-9ae2-0019e336be3a" longitude="-69.977" latitude="12.517">
+		<name xml:lang="en">Aruba</name>
+		<shortname xml:lang="en">AW</shortname>
+		<kml />
+	</geography>
+	<geography id="0f8e6c2e-7d7e-11de-9ae2-0019e336be3a" longitude="-10.332" latitude="20.26">
+		<name xml:lang="en">Mauritania</name>
+		<shortname xml:lang="en">MR</shortname>
+		<kml />
+	</geography>
+	<geography id="19c7cdd2-e590-11de-9dfe-0019e336be3a" longitude="96.0759241232" latitude="45.2011798524">
+		<name xml:lang="en">Asia</name>
+		<shortname xml:lang="en">RAS</shortname>
+		<kml />
+	</geography>
+	<geography id="12143bfe-7d7e-11de-9ae2-0019e336be3a" longitude="97.0373776875" latitude="61.8473803207">
+		<name xml:lang="en">Russian Federation</name>
+		<shortname xml:lang="en">RU</shortname>
+		<kml />
+	</geography>
+	<geography id="14599396-7d7e-11de-9ae2-0019e336be3a" longitude="-64.7869270922" latitude="17.9678894622">
+		<name xml:lang="en">Virgin Islands, U.S.</name>
+		<shortname xml:lang="en">VI</shortname>
+		<kml />
+	</geography>
+	<geography id="0d684cbc-7d7e-11de-9ae2-0019e336be3a" longitude="158.235" latitude="6.883">
+		<name xml:lang="en">Micronesia, Federated States of</name>
+		<shortname xml:lang="en">FM</shortname>
+		<kml />
+	</geography>
+	<geography id="133fc02a-7d7e-11de-9ae2-0019e336be3a" longitude="9.596" latitude="35.383">
+		<name xml:lang="en">Tunisia</name>
+		<shortname xml:lang="en">TN</shortname>
+		<kml />
+	</geography>
+	<geography id="15265aa2-7d7e-11de-9ae2-0019e336be3a" longitude="12.4511346138" latitude="41.9041775266">
+		<name xml:lang="en">Holy See (Vatican City State)</name>
+		<shortname xml:lang="en">VA</shortname>
+		<kml />
+	</geography>
+	<geography id="1325cfa3-2b0d-487e-8d46-3e66b4b00f85">
+		<name xml:lang="en">Nunavut</name>
+		<shortname xml:lang="en">CA-NU</shortname>
+		<kml />
+	</geography>
+	<geography id="147cde5a-7d7e-11de-9ae2-0019e336be3a" longitude="29.872" latitude="-19">
+		<name xml:lang="en">Zimbabwe</name>
+		<shortname xml:lang="en">ZW</shortname>
+		<kml />
+	</geography>
+	<geography id="0723d252-7e2a-11de-9820-0019e336be3a" longitude="78.9617689134" latitude="59.9701276677">
+		<name xml:lang="en">Europe</name>
+		<shortname xml:lang="en">RER</shortname>
+		<kml />
+	</geography>
+	<geography id="0cd759a0-7d7e-11de-9ae2-0019e336be3a" longitude="20.483" latitude="6.571">
+		<name xml:lang="en">Central African Republic</name>
+		<shortname xml:lang="en">CF</shortname>
+		<kml />
+	</geography>
+	<geography id="0fe1621c-7d7e-11de-9ae2-0019e336be3a" longitude="-169.869" latitude="-19.052">
+		<name xml:lang="en">Niue</name>
+		<shortname xml:lang="en">NU</shortname>
+		<kml />
+	</geography>
+	<geography id="0f9f2f00-7d7e-11de-9ae2-0019e336be3a" longitude="72.92" latitude="3.548">
+		<name xml:lang="en">Maldives</name>
+		<shortname xml:lang="en">MV</shortname>
+		<kml />
+	</geography>
+	<geography id="0d3920fe-7d7e-11de-9ae2-0019e336be3a" longitude="39.616" latitude="8.626">
+		<name xml:lang="en">Ethiopia</name>
+		<shortname xml:lang="en">ET</shortname>
+		<kml />
+	</geography>
+	<geography id="4a81aea7-bf37-4c83-ac1e-9a2050f88920">
+		<name xml:lang="en">IAI producing Area 2, North America, without Quebec</name>
+		<shortname xml:lang="en">IAI Area 2, without Quebec</shortname>
+		<kml />
+	</geography>
+</validGeographies>

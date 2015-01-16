@@ -1,11 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <validUnits
-	xmlns="http://www.EcoInvent.org/EcoSpold02"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Units.xsd"
-	majorRelease="1"
-	minorRelease="0"
-	contextId="DE659012-50C4-4e96-B54A-FC781BF987AB">
+		majorRelease="3" minorRelease="0" majorRevision="0" minorRevision="256"
+		contextId="de659012-50c4-4e96-b54a-fc781bf987ab"
+		xmlns="http://www.EcoInvent.org/EcoSpold02"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Units.xsd">
 	<contextName
 		xml:lang="en">ecoinvent</contextName>
+	<contextName xml:lang="en">ecoinvent</contextName>
+	<unit id="8eb185f8-2c71-455b-ae6a-da6afba9e10d">
+		<name xml:lang="en">m2*K/W</name>
+		<comment xml:lang="en">square metre*degree Kelvin per Watt (Thermal insulance. Used for R value of insulation materials. The inverse of the heat transfer coefficient (U) given in J/s*m2*degree K)</comment>
+	</unit>
+	<unit id="1c978f18-15a0-4595-9835-123ef90c12bc">
+		<name xml:lang="en">kWh/kWp</name>
+		<comment xml:lang="en">Yield / (annual) output in photovoltaics</comment>
+	</unit>
+	<unit id="af3de57e-0133-4d5c-8a8e-4f4277226256">
+		<name xml:lang="en">EUR2008</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2008</comment>
+	</unit>
+	<unit id="08bd0c61-0b9a-4280-bc25-3444d52c15bf">
+		<name xml:lang="en">km*year</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="481b9712-c417-44f1-bfba-38d58088173c">
+		<name xml:lang="en">m3*year</name>
+		<comment xml:lang="en">cubic metre year</comment>
+	</unit>
+	<unit id="0e6f38bc-51be-4382-802d-1f389a88e589">
+		<name xml:lang="en">person*km</name>
+		<comment xml:lang="en">person-kilometre </comment>
+	</unit>
+	<unit id="a5d2899a-ea3f-4810-a530-a26fff736aac">
+		<name xml:lang="en">s</name>
+		<comment xml:lang="en">second. Basic SI-unit for time. Used in combination with other units, e.g. kg/s for capacity.</comment>
+	</unit>
+	<unit id="f2aaa4ba-fb58-49a7-a552-e7f64366f379">
+		<name xml:lang="en">m</name>
+		<comment xml:lang="en">metre</comment>
+	</unit>
+	<unit id="4923348e-591b-4772-b224-d19df86f04c9">
+		<name xml:lang="en">kBq</name>
+		<comment xml:lang="en">kilo Becquerel</comment>
+	</unit>
+	<unit id="83ecd334-1b5b-4784-8938-6a0d0a9d8954">
+		<name xml:lang="en">kg/kg</name>
+		<comment xml:lang="en">kg/kg of dry mass (DM)</comment>
+	</unit>
+	<unit id="11043416-55ef-4135-8435-5124dbe3fdc1">
+		<name xml:lang="en">kWp</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="7de7e78f-ccf0-46b4-a549-20b04f4b1421">
+		<name xml:lang="en">kW</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="86b0e4a2-57e5-48b8-a43d-22c7f8490dca">
+		<name xml:lang="en">l</name>
+		<comment xml:lang="en">liter</comment>
+	</unit>
+	<unit id="b8a43d95-cb0e-4f19-a980-21555780f05c">
+		<name xml:lang="en">EUR2004</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2004</comment>
+	</unit>
+	<unit id="83598ec6-74ed-4315-9ef4-52a0b8b35ad8">
+		<name xml:lang="en">hour/m3</name>
+		<comment xml:lang="en">hour per cubic meter</comment>
+	</unit>
+	<unit id="40065b9e-8171-4fe1-a37a-9e8ba4980ab7">
+		<name xml:lang="en">m2/unit</name>
+		<comment xml:lang="en">Area per unit, e.g. panel area for a 3kWp photovoltaic unit.</comment>
+	</unit>
+	<unit id="f003f001-61c7-4713-9111-1516a6e6f772">
+		<name xml:lang="en">K</name>
+		<comment xml:lang="en">Kelvin temperature scale</comment>
+	</unit>
+	<unit id="1017f68a-f818-4f9d-a34d-a31e7386f628">
+		<name xml:lang="en">m2</name>
+		<comment xml:lang="en">square metre</comment>
+	</unit>
+	<unit id="de5b3c87-0e35-4fb0-9765-4f3ba34c99e5">
+		<name xml:lang="en">m3</name>
+		<comment xml:lang="en">cubic metre; volume; for Natural gas, biogas, compogas, town gas: normal cubic metre = cubic metre of gas at 15°C; 101.325 kPa (ISO 13443)</comment>
+	</unit>
+	<unit id="35dc944d-443f-48a5-a2fd-e310c3e11cf5">
+		<name xml:lang="en">m2/kg</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="b06bab82-f0e8-426d-849a-ebdb5b553519">
+		<name xml:lang="en">kg/l</name>
+		<comment xml:lang="en">kilo gram per liter</comment>
+	</unit>
+	<unit id="980b811e-3905-4797-82a5-173f5568bc7e">
+		<name xml:lang="en">MJ</name>
+		<comment xml:lang="en">mega Joule = 1000 J</comment>
+	</unit>
+	<unit id="eb955b7c-7bed-401f-9c76-5db716ca3640">
+		<name xml:lang="en">m2*year</name>
+		<comment xml:lang="en">square metre year</comment>
+	</unit>
+	<unit id="cacb6d36-694d-4e4f-9e79-6c9c73146839">
+		<name xml:lang="en">kg/m3</name>
+		<comment xml:lang="en">concentration or density</comment>
+	</unit>
+	<unit id="9405b6ff-e347-406a-a395-b74b67196516">
+		<name xml:lang="en">EUR2006</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2006</comment>
+	</unit>
+	<unit id="577e242a-461f-44a7-922c-d8e1c3d2bf45">
+		<name xml:lang="en">dimensionless</name>
+		<comment xml:lang="en">for use with counted items, ratios, boolean expressions, dummy variables</comment>
+	</unit>
+	<unit id="aa0d3bf3-b9d6-4ba2-b552-9e8d0ce52408">
+		<name xml:lang="en">kg/kWh</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="86bbe475-8a8f-44d8-914c-e398787e7121">
+		<name xml:lang="en">ha</name>
+		<comment xml:lang="en">hectare (hecto-are) = 100 a = 10000 m2</comment>
+	</unit>
+	<unit id="3ce424af-a3eb-4c16-9bc8-aa4443c94f50">
+		<name xml:lang="en">kg/s</name>
+		<comment xml:lang="en">kilo gram per second</comment>
+	</unit>
+	<unit id="b61bad7c-10e1-4f69-88f6-440a063ece33">
+		<name xml:lang="en">kWh/s</name>
+		<comment xml:lang="en">kilo Watt hour per second</comment>
+	</unit>
+	<unit id="54f32be9-4db9-4c17-9f63-8a712fca56f7">
+		<name xml:lang="en">h/year</name>
+		<comment xml:lang="en">Hours per Year</comment>
+	</unit>
+	<unit id="e32b56ef-fa80-4487-9796-f3c1476c27b3">
+		<name xml:lang="en">hour</name>
+	</unit>
+	<unit id="02c7d6d0-cca5-4b23-a5b8-1b77f1d3ec83">
+		<name xml:lang="en">mm/year</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="a6e59a77-aaac-4e98-a248-dbe191507a78">
+		<name xml:lang="en">MJ/Nm3</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="22dd5d20-97ab-471f-aa89-fdb38e46f802">
+		<name xml:lang="en">% (obsolete)</name>
+		<comment xml:lang="en">percentage (obsolete: Please use fractions instead, e.g. 0.01 for 1%)</comment>
+	</unit>
+	<unit id="2f4daad7-5331-4f14-930c-d8bca924557d">
+		<name xml:lang="en">metric ton*km</name>
+		<comment xml:lang="en">ton-kilometre (Mg*km)</comment>
+	</unit>
+	<unit id="8295e2d8-302e-48aa-94f2-a85bd7d3c825">
+		<name xml:lang="en">kg/(kg vehicle*km)</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="4bb29a33-6641-498f-8db7-28ff21dd2a1f">
+		<name xml:lang="en">unit/kWh</name>
+		<comment xml:lang="en">needed infrastruction for the production of 1kWh electricity</comment>
+	</unit>
+	<unit id="487df68b-4994-4027-8fdc-a4dc298257b7">
+		<name xml:lang="en">kg</name>
+		<comment xml:lang="en">kilogram = 1000 grammes</comment>
+	</unit>
+	<unit id="c650c950-afd4-4c20-b7bb-f7d206f0f89e">
+		<name xml:lang="en">kg/kg vehicle</name>
+		<comment xml:lang="en">kg emissions per kg vehicle weight</comment>
+	</unit>
+	<unit id="ae252091-811b-461b-8e89-8f3075639eb1">
+		<name xml:lang="en">km</name>
+		<comment xml:lang="en">kilometre = 1000 metres</comment>
+	</unit>
+	<unit id="81817114-a64e-4fdd-9c9d-0c9d58c2ee3d">
+		<name xml:lang="en">EUR2005basic</name>
+		<comment xml:lang="en">EUR2005 in basic prices (for product amounts in input-output data)</comment>
+	</unit>
+	<unit id="5b972631-34e3-4db7-a615-f6931770a0cb">
+		<name xml:lang="en">unit</name>
+		<comment xml:lang="en">unit, piece, number</comment>
+	</unit>
+	<unit id="77ae64fa-7e74-4252-9c3b-889c1cd20bfc">
+		<name xml:lang="en">kWh</name>
+		<comment xml:lang="en">kilo Watt hour</comment>
+	</unit>
+	<unit id="4292d301-1096-447a-988b-e67ab0f5f3e2">
+		<name xml:lang="en">kg/(m2*yr)</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="b9c5482c-c0d1-4012-b7ef-84a758d7ad03">
+		<name xml:lang="en">kg/m2</name>
+		<comment xml:lang="en">kilo gram per square meter</comment>
+	</unit>
+	<unit id="56e0f502-7bef-4678-88a9-0cb2a8fa8e63">
+		<name xml:lang="en">l/m3</name>
+		<comment xml:lang="en">litre per cubic metre</comment>
+	</unit>
+	<unit id="395f1718-3067-449c-ad6a-b96e876eebd4">
+		<name xml:lang="en">kg/ha</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="46a269fc-4efb-4087-b5c1-9f4bc318275d">
+		<name xml:lang="en">kWh/year</name>
+		<comment xml:lang="en">kilo Watt hour per year</comment>
+	</unit>
+	<unit id="c4d1b1ec-1ddb-4800-87db-ffbfbb29d94f">
+		<name xml:lang="en">BTU/kg</name>
+		<comment xml:lang="en">British thermal units per kilogram</comment>
+	</unit>
+	<unit id="34e7dd21-3518-40a5-8dbd-5e1bdf888620">
+		<name xml:lang="en">MJ/kWh</name>
+		<comment xml:lang="en">MJ of energy input needed to produce one (1) kWh of electricity.</comment>
+	</unit>
+	<unit id="c1b47c9a-650a-4bf8-bcbc-ed02e7698fe2">
+		<name xml:lang="en">l/m2</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="fc5f66f9-d510-4bdb-9ee2-ae54736546ca">
+		<name xml:lang="en">t/ha</name>
+		<comment xml:lang="en">tonnes per hectar</comment>
+	</unit>
+	<unit id="cb82ee83-7f40-4c5d-838f-4e507f98b547">
+		<name xml:lang="en">EUR2007</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2007</comment>
+	</unit>
+	<unit id="848cdafe-0725-4376-b427-728171c79d40">
+		<name xml:lang="en">kWh/km</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="2a448677-87c7-4ccf-953a-8d71c73a4c04">
+		<name xml:lang="en">kg/GJ</name>
+		<comment xml:lang="en">kg CO2 released per GJ heat supplied</comment>
+	</unit>
+	<unit id="2cf92850-0f92-4004-9dba-a6ceb6a414c2">
+		<name xml:lang="en">year</name>
+	</unit>
+	<unit id="9d26a1d3-0c5c-4bb9-98b1-3125e247bc21">
+		<name xml:lang="en">MJ/m3</name>
+		<comment xml:lang="en">mega joule per cubic meter</comment>
+	</unit>
+	<unit id="06477fb5-7177-491d-8383-aa6c81614c5c">
+		<name xml:lang="en">kg/unit</name>
+		<comment xml:lang="en">kg per vehicle unit</comment>
+	</unit>
+	<unit id="3e2c67b8-bc67-42a5-bc81-00756f0e05bb">
+		<name xml:lang="en">mm</name>
+		<comment xml:lang="en">millimetre</comment>
+	</unit>
+	<unit id="9dbdef14-e661-41e7-a878-e1f380b24d5a">
+		<name xml:lang="en">MW</name>
+		<comment xml:lang="en">mega watt</comment>
+	</unit>
+	<unit id="34e6691f-4a1b-4c2b-b239-c55b952f0bd3">
+		<name xml:lang="en">MJ/kg</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="8266bd67-ebd3-4d31-b972-eee3cf0da36f">
+		<name xml:lang="en">m*year</name>
+		<comment xml:lang="en">metre-year (used for roads, railway-track)</comment>
+	</unit>
+	<unit id="2707f8e2-f546-43ca-b0af-850d438b5dda">
+		<name xml:lang="en">m2/year</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="25371fa0-c015-46a9-a4ea-af7e480736f0">
+		<name xml:lang="en">EUR2009</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2009</comment>
+	</unit>
+	<unit id="5c084e2b-dc81-4148-b7ae-5defe7710d54">
+		<name xml:lang="en">EUR2010</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2010</comment>
+	</unit>
+	<unit id="7b75baf0-cbee-45e6-bf66-af119da06553">
+		<name xml:lang="en">EUR2005</name>
+		<comment xml:lang="en">Euro currency unit at mid-year 2005</comment>
+	</unit>
+	<unit id="edf5a356-5140-45b0-bb6c-28fe105b821d">
+		<name xml:lang="en">OLD_MJ/kg</name>
+		<comment xml:lang="en">MJ/kg of dry mass (DM)</comment>
+	</unit>
+	<unit id="c1520f88-5ae0-4670-b39a-aff30e984b0b">
+		<name xml:lang="en">t/(ha*yr)</name>
+		<comment xml:lang="en"></comment>
+	</unit>
+	<unit id="15a259d2-4417-45e8-9f67-7459326c5eb2">
+		<name xml:lang="en">m3/kg</name>
+		<comment xml:lang="en" />
+	</unit>
+	<unit id="bc240401-c632-4b0f-9fc3-945610d47fc5">
+		<name xml:lang="en">l/hour</name>
+		<comment xml:lang="en">liter per hour</comment>
+	</unit>
+	<unit id="f271f103-ec6d-428b-bbc7-f0f2adf91d4f">
+		<name xml:lang="en">g/mol</name>
+		<comment xml:lang="en">grams per mol</comment>
+	</unit>
 </validUnits>

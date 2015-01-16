@@ -6,7 +6,9 @@
 	majorRelease="1"
 	minorRelease="0"
 	contextId="DE659012-50C4-4e96-B54A-FC781BF987AB">
-	<contextName
-		xml:lang="en">ecoinvent</contextName>
-
+	<contextName xml:lang="en">ecoinvent</contextName>
+	<macroEconomicScenario id="d9f57f0a-a01f-42eb-a57b-8f18d6635801">
+		<name xml:lang="en">Business-as-Usual</name>
+		<comment xml:lang="en">The default scenario for the ecoinvent 3 database.</comment>
+	</macroEconomicScenario>
 </validMacroEconomicScenarios>

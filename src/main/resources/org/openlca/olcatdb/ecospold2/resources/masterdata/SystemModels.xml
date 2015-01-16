@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <validSystemModels
+        majorRelease="3" minorRelease="0" majorRevision="0" minorRevision="55"
+        contextId="de659012-50c4-4e96-b54a-fc781bf987ab"
         xmlns="http://www.EcoInvent.org/EcoSpold02"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02SystemModels.xsd">
+        <contextName>ecoinvent</contextName>
+        <systemModel id="8b738ea0-f89e-4627-8679-433616064e82">
+                <name xml:lang="en">Undefined</name>
+                <shortname xml:lang="en">Undefined</shortname>
+                <comment xml:lang="en">For multifunctional datasets.</comment>
+        </systemModel>
+        <systemModel id="a253b4b8-5257-4c53-be06-d5b4d78ea407">
+                <name xml:lang="en">Allocation by dry mass</name>
+                <shortname xml:lang="en">Allocation, dry mass</shortname>
+        </systemModel>
+        <systemModel id="06590a66-662a-4885-8494-ad0cf410f956">
+                <name xml:lang="en">Allocation, ecoinvent default</name>
+                <shortname xml:lang="en">Allocation, default</shortname>
+        </systemModel>
+        <systemModel id="4352935f-32fb-41a5-ad98-bec679e527ca">
+                <name xml:lang="en">Allocation, legacy</name>
+                <shortname xml:lang="en">Allocation, legacy</shortname>
+        </systemModel>
+        <systemModel id="91800971-8f93-41e6-a3fd-f7a65283aa20">
+                <name xml:lang="en">Substitution, constrained by-products</name>
+                <shortname xml:lang="en">Substitution, ILCD A</shortname>
+        </systemModel>
+        <systemModel id="dd7f13f5-0658-489c-a19c-f2ff8a00bdd9">
+                <name xml:lang="en">Substitution, consequential, long-term</name>
+                <shortname xml:lang="en">Consequential</shortname>
+        </systemModel>
+        <systemModel id="3e629972-8eb8-4fc9-a303-addbde01cf74">
+                <name xml:lang="en">Allocation by carbon</name>
+                <shortname xml:lang="en">Allocation, carbon</shortname>
+        </systemModel>
+        <systemModel id="ba1ff5c1-9a0b-41ce-a5f8-fc2ff3163405">
+                <name xml:lang="en">Allocation, manually linked</name>
+                <shortname xml:lang="en">Manually linked</shortname>
+        </systemModel>
+        <systemModel id="709a9344-2acf-4fc9-9cd3-ef9b4d41ec46">
+                <name xml:lang="en">Allocation by revenue</name>
+                <shortname xml:lang="en">Allocation, revenue</shortname>
+        </systemModel>
 </validSystemModels>
