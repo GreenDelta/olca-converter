@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<!--
-		The contents of this file are subject to the EcoSpold Public License
-		Version 1.0 (the "License"); you may not use this file except in
-		compliance with the License. You may obtain a copy of the License at
-		http://www.ecoinvent.ch. Software distributed under the License is
-		distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either
-		express or implied. See the License for the specific language
-		governing rights and limitations under the License. The Original Code
-		consists of the EcoSpold data format and EcoSpold Access. The Original
-		Code was created by the ecoinvent Centre, Switzerland (Swiss Centre
-		for Life Cycle Inventories) and ifu Hamburg GmbH, Germany. Portions
-		created by the ecoinvent Centre and ifu Hamburg GmbH are Copyright (C)
-		ecoinvent Centre. All Rights Reserved.
-	-->
 <validCompanies
 	xsi:schemaLocation="http://www.EcoInvent.org/EcoSpold02 ../../Schemas/MasterData/EcoSpold02Companies.xsd"
 	xmlns="http://www.EcoInvent.org/EcoSpold02"
