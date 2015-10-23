@@ -15,14 +15,7 @@
 1.3.3,Emissions,Emissions to air,Emissions to lower stratosphere and upper troposphere,1.3
 1.3.4,Emissions,Emissions to air,"Emissions to air, unspecified",1.3
 1.3.5,Emissions,Emissions to air,"Emissions to air, unspecified (long-term)",1.3
-1.3.6,Emissions,Emissions to air,"Emissions to air, indoor",1.3
-1.3.7,Emissions,Emissions to air,Inorganic emissions to air,1.3
-1.4,Emissions,Emissions to fresh water,,1
-1.4.1,Emissions,Emissions to fresh water,Radioactive emissions to fresh water,1.4
-1.4.2,Emissions,Emissions to fresh water,Organic emissions to fresh water,1.4
-1.4.3,Emissions,Emissions to fresh water,Particles to fresh water,1.4
-1.5,Emissions,Emissions to industrial soil,,1
-1.5.1,Emissions,Emissions to industrial soil,Other emissions to industrial soil,1.5
+1.3.6,Emissions,Emissions to air,Emissions to indoor air,1.3
 2,Resources,,,
 2.1,Resources,Resources from ground,,2
 2.1.1,Resources,Resources from ground,Non-renewable material resources from ground,2.1
@@ -61,8 +54,3 @@
 3.1,Land use,Land occupation,,3
 3.2,Land use,Land transformation,,3
 4,Other elementary flows,,,
-5,Organic emissions to air (group VOC),,,
-5.1,Organic emissions to air (group VOC),Group NMVOC to air,,5
-5.1.1,Organic emissions to air (group VOC),Group NMVOC to air,Halogenated organic emissions to air,5.1
-6,Other emissions to agricultural soil,,,
-6.1,Other emissions to agricultural soil,Pesticides to agricultural soil,,6

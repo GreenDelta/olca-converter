@@ -1,6 +1,6 @@
 olca-converter.iml
 .idea/
 target/
-database/
+.database/
 templates/
 converter.ini
